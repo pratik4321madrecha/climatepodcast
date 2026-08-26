@@ -6,12 +6,12 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Astra: Climate Tech, Tested in Public</title>
-    <link>https://astranovahq-web.github.io/climatepodcast/</link>
-    <atom:link href="https://astranovahq-web.github.io/climatepodcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://pratik4321madrecha.github.io/climatepodcast/</link>
+    <atom:link href="https://pratik4321madrecha.github.io/climatepodcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 23:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:30:07 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -23,309 +23,71 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
       <itunes:name>Pratik Madrecha</itunes:name>
       <itunes:email>astra.nova.hq@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
+    <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Science"><itunes:category text="Nature"/></itunes:category>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <image>
-      <url>https://astranovahq-web.github.io/climatepodcast/cover.jpg</url>
+      <url>https://pratik4321madrecha.github.io/climatepodcast/cover.jpg</url>
       <title>Astra: Climate Tech, Tested in Public</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/</link>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/</link>
     </image>
-    <podcast:guid>deaaf122-e1cc-5cee-95f2-fe31d0f27748</podcast:guid>
+    <podcast:guid>871273e0-9432-5778-8242-020f0ce5fd52</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Mon, 17 Aug 2026 23:59:09 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 00:30:07 +0000</pubDate>
     <item>
-      <title>Why the bankable low-carbon cement is the least clever one · 17 Aug</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/#astra-005-2026-08-17</link>
-      <guid isPermaLink="false">astra://episode/astra-005-2026-08-17</guid>
-      <pubDate>Mon, 17 Aug 2026 23:59:09 +0000</pubDate>
+      <title>Astra edition 2026-08-26</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-001-2026-08-26</link>
+      <guid isPermaLink="false">astra://episode/astra-001-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 00:30:07 +0000</pubDate>
       <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
 
-Low-carbon cement closed at thesis grade today: the routes getting financed in 2026 are not the ones with the cleverest chemistry, but the ones a bank will lend against. Terra CO2's 240kt Cleburne plant is "on schedule, within budget" for a 2027 start - https://cementoptimized.com/2026/05/14/holcim-us-khd-veterans-join-terra-as-commercial-scm-output-beckons/ on a binding acquire-and-operate offtake with SVB/Stifel bank debt, and Ecocem is building a 300kt line at Dunkirk financed almost entirely on debt - https://www.ecocemglobal.com/ecocem-announces-the-first-commercial-low-carbon-cement-production-unit-for-act-technology-at-its-dunkirk-manufacturing-facility/. Meanwhile the clever chemistry stalled on capital, not science: Sublime cut roughly two-thirds of its staff after an $87M DOE clawback - https://www.canarymedia.com/articles/clean-industry/clean-cement-startup-sublime-cuts-jobs, despite a binding Microsoft letter of intent. The durable lesson: value migrates from the binder to whoever converts an abundant-feedstock plant into a lender-grade asset, and the UK/Cambridge seat (Cambridge Electric Cement, Material Evolution) is commercial, not technical. The one thing that would reopen the case is Fortera's hunt for ~$500M of project finance - https://www.canarymedia.com/articles/clean-industry/fortera-lands-85m-to-scale-up-low-carbon-cement.
-
-📺 Watch: Casey Handmer &amp; Ramez Naam on how AI power demand reshapes energy - https://www.youtube.com/watch?v=Tw-LO33woPo
-
-🎧 Listen: Catalyst with Shayle Kann - the electrician shortage slowing the AI boom - https://open.spotify.com/episode/40emkLObkvNbgbq8Gx2UiC
-
-📖 Read: Canary Media - Terra CO2's Texas cement factory - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement
-
-📖 Read: MIT Technology Review - AI materials discovery needs to reach the real world - https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/
-
-📖 Read: PitchBook - Europe leads climate-tech VC in 2026 - https://pitchbook.com/news/articles/fewer-deals-bigger-bets-as-europe-leads-vc-funding-for-climate-tech
+My confidence that the caloric material captures the rent fell again today, from twenty eight to twenty four percent, while the opposite belief, that the value sits in the integrated system, is now confirmed at around seventy eight. Away from cooling, the field kept moving on one theme: data centres are now the capital engine of climate tech.
 
 Chapters:
 00:00 AI disclosure
-00:35 Why the Bankable Cement Is the Least Clever One
-03:25 The Money Layer Is Failing While the Physical Layer Sets Records
-05:11 Closing disclosure
+00:35 Why the Material Is the Cheap Part
+02:17 The Wider Field This Week
+03:31 Closing disclosure
 
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-005-2026-08-17.txt</description>
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-001-2026-08-26.txt</description>
       <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
 
-Low-carbon cement closed at thesis grade today: the routes getting financed in 2026 are not the ones with the cleverest chemistry, but the ones a bank will lend against. Terra CO2's 240kt Cleburne plant is "on schedule, within budget" for a 2027 start - https://cementoptimized.com/2026/05/14/holcim-us-khd-veterans-join-terra-as-commercial-scm-output-beckons/ on a binding acquire-and-operate offtake with SVB/Stifel bank debt, and Ecocem is building a 300kt line at Dunkirk financed almost entirely on debt - https://www.ecocemglobal.com/ecocem-announces-the-first-commercial-low-carbon-cement-production-unit-for-act-technology-at-its-dunkirk-manufacturing-facility/. Meanwhile the clever chemistry stalled on capital, not science: Sublime cut roughly two-thirds of its staff after an $87M DOE clawback - https://www.canarymedia.com/articles/clean-industry/clean-cement-startup-sublime-cuts-jobs, despite a binding Microsoft letter of intent. The durable lesson: value migrates from the binder to whoever converts an abundant-feedstock plant into a lender-grade asset, and the UK/Cambridge seat (Cambridge Electric Cement, Material Evolution) is commercial, not technical. The one thing that would reopen the case is Fortera's hunt for ~$500M of project finance - https://www.canarymedia.com/articles/clean-industry/fortera-lands-85m-to-scale-up-low-carbon-cement.
-
-📺 Watch: Casey Handmer &amp; Ramez Naam on how AI power demand reshapes energy - https://www.youtube.com/watch?v=Tw-LO33woPo
-
-🎧 Listen: Catalyst with Shayle Kann - the electrician shortage slowing the AI boom - https://open.spotify.com/episode/40emkLObkvNbgbq8Gx2UiC
-
-📖 Read: Canary Media - Terra CO2's Texas cement factory - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement
-
-📖 Read: MIT Technology Review - AI materials discovery needs to reach the real world - https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/
-
-📖 Read: PitchBook - Europe leads climate-tech VC in 2026 - https://pitchbook.com/news/articles/fewer-deals-bigger-bets-as-europe-leads-vc-funding-for-climate-tech
+My confidence that the caloric material captures the rent fell again today, from twenty eight to twenty four percent, while the opposite belief, that the value sits in the integrated system, is now confirmed at around seventy eight. Away from cooling, the field kept moving on one theme: data centres are now the capital engine of climate tech.
 
 Chapters:
 00:00 AI disclosure
-00:35 Why the Bankable Cement Is the Least Clever One
-03:25 The Money Layer Is Failing While the Physical Layer Sets Records
-05:11 Closing disclosure
+00:35 Why the Material Is the Cheap Part
+02:17 The Wider Field This Week
+03:31 Closing disclosure
 
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-005-2026-08-17.txt</itunes:summary>
-      <itunes:subtitle>Why the bankable low-carbon cement is the least clever one · 17 Aug</itunes:subtitle>
-      <enclosure url="https://github.com/astranovahq-web/climatepodcast/releases/download/ep-005/astra-005-2026-08-17.mp3" length="3918037" type="audio/mpeg"/>
-      <itunes:duration>00:05:26</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
-      <podcast:transcript url="https://astranovahq-web.github.io/climatepodcast/transcripts/astra-005-2026-08-17.txt" type="text/plain"/>
-      <podcast:chapters url="https://astranovahq-web.github.io/climatepodcast/chapters/astra-005-2026-08-17.json" type="application/json+chapters"/>
-    </item>
-    <item>
-      <title>Carbon-fibre grid conductors and the software seat reconductoring opens · 13 Aug</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/#astra-004-2026-08-14</link>
-      <guid isPermaLink="false">astra://episode/astra-004-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 00:21:53 +0000</pubDate>
-      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
 
-We close a four-session investigation into advanced composite-core conductors - https://www.pnas.org/doi/10.1073/pnas.2411207121 at 83% confidence: re-string an existing tower with a carbon-fibre core and it carries roughly twice the current for 35-40% less than a new line - https://www.2035report.com/wp-content/uploads/2024/04/GridLab_2035-Reconductoring-Technical-Report.pdf, energized in 18-36 months instead of 5-10 years. The surprise is the money. The $1.9B DOE SPARK grant - https://www.energy.gov/oe/speed-power-through-accelerated-reconductoring-and-other-key-advanced-transmission-technology everyone is watching is still unawarded, but it barely matters: the teeth already arrived as ~$4.9B of closed DOE loans to utilities (including $3.26B to AEP Texas - https://www.utilitydive.com/news/doe-closes-up-to-326b-loan-to-aep-texas/824802/) plus eight-plus states legally forcing utilities to evaluate advanced conductors. And the durable profit isn't the cable (now a commodity) or even installation, which National Grid handed to five EPCs for £1.2bn in June - https://www.constructionenquirer.com/2026/06/23/five-firms-win-1-2bn-of-overhead-power-line-work/ - it's the asset-light software that decides how hard to run a line, a lane National Grid fills entirely with non-UK vendors. We also walk the wider field, where the data-centre boom is now a third of climate funding - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/, and give two ventures you could start from this.
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
 
-📺 Watch: Reconductoring with Advanced Conductors (CTC Global) - https://www.youtube.com/watch?v=qLUxJuiwWws
-
-🎧 Listen: When to colocate data centers with generation - Catalyst with Shayle Kann - https://open.spotify.com/episode/5KJymzZLAtvsG2SvImUMVP
-
-📖 Read: GridLab / Berkeley 2035 Reconductoring report - https://www.2035report.com/wp-content/uploads/2024/04/GridLab_2035-Reconductoring-Technical-Report.pdf
-
-📖 Read: PNAS: advanced conductors in existing right-of-way - https://www.pnas.org/doi/10.1073/pnas.2411207121
-
-📖 Read: POWER: the transformer bottleneck in 2026 - https://www.powermag.com/transformers-in-2026-shortage-scramble-or-self-inflicted-crisis/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why the Reconductoring Money Goes to Software, Not the Wire
-03:00 The Data-Centre Boom Is Now the Climate-Capital Story
-04:24 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-004-2026-08-14.txt</description>
-      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-We close a four-session investigation into advanced composite-core conductors - https://www.pnas.org/doi/10.1073/pnas.2411207121 at 83% confidence: re-string an existing tower with a carbon-fibre core and it carries roughly twice the current for 35-40% less than a new line - https://www.2035report.com/wp-content/uploads/2024/04/GridLab_2035-Reconductoring-Technical-Report.pdf, energized in 18-36 months instead of 5-10 years. The surprise is the money. The $1.9B DOE SPARK grant - https://www.energy.gov/oe/speed-power-through-accelerated-reconductoring-and-other-key-advanced-transmission-technology everyone is watching is still unawarded, but it barely matters: the teeth already arrived as ~$4.9B of closed DOE loans to utilities (including $3.26B to AEP Texas - https://www.utilitydive.com/news/doe-closes-up-to-326b-loan-to-aep-texas/824802/) plus eight-plus states legally forcing utilities to evaluate advanced conductors. And the durable profit isn't the cable (now a commodity) or even installation, which National Grid handed to five EPCs for £1.2bn in June - https://www.constructionenquirer.com/2026/06/23/five-firms-win-1-2bn-of-overhead-power-line-work/ - it's the asset-light software that decides how hard to run a line, a lane National Grid fills entirely with non-UK vendors. We also walk the wider field, where the data-centre boom is now a third of climate funding - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/, and give two ventures you could start from this.
-
-📺 Watch: Reconductoring with Advanced Conductors (CTC Global) - https://www.youtube.com/watch?v=qLUxJuiwWws
-
-🎧 Listen: When to colocate data centers with generation - Catalyst with Shayle Kann - https://open.spotify.com/episode/5KJymzZLAtvsG2SvImUMVP
-
-📖 Read: GridLab / Berkeley 2035 Reconductoring report - https://www.2035report.com/wp-content/uploads/2024/04/GridLab_2035-Reconductoring-Technical-Report.pdf
-
-📖 Read: PNAS: advanced conductors in existing right-of-way - https://www.pnas.org/doi/10.1073/pnas.2411207121
-
-📖 Read: POWER: the transformer bottleneck in 2026 - https://www.powermag.com/transformers-in-2026-shortage-scramble-or-self-inflicted-crisis/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why the Reconductoring Money Goes to Software, Not the Wire
-03:00 The Data-Centre Boom Is Now the Climate-Capital Story
-04:24 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-004-2026-08-14.txt</itunes:summary>
-      <itunes:subtitle>Carbon-fibre grid conductors and the software seat reconductoring opens · 13 Aug</itunes:subtitle>
-      <enclosure url="https://github.com/astranovahq-web/climatepodcast/releases/download/ep-004/astra-004-2026-08-14.mp3" length="3354746" type="audio/mpeg"/>
-      <itunes:duration>00:04:39</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
-      <podcast:transcript url="https://astranovahq-web.github.io/climatepodcast/transcripts/astra-004-2026-08-14.txt" type="text/plain"/>
-      <podcast:chapters url="https://astranovahq-web.github.io/climatepodcast/chapters/astra-004-2026-08-14.json" type="application/json+chapters"/>
-    </item>
-    <item>
-      <title>Inert-anode aluminium: green brand, not a cost-down · 11 Aug</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/#astra-003-2026-08-12</link>
-      <guid isPermaLink="false">astra://episode/astra-003-2026-08-12</guid>
-      <pubDate>Wed, 12 Aug 2026 00:15:19 +0000</pubDate>
-      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-We closed a four-round investigation into inert-anode aluminium smelting, and the verdict weakened again to 24% confidence that it is a financial-first upgrade. The tell is a silence: two industrial cells now exist (ELYSIS's 450 kA cell at Alma - https://elysis.com/en/elysis-achieves-breakthrough-with-commercial-size-cell-a-first-in-aluminium-production-using-the since Nov-2025 and RUSAL's second line at Krasnoyarsk - https://realtynmore.com/rusal-commissions-worlds-first-inert/ since Mar-2026) and neither will publish the current efficiency or kWh/kg that would prove an operating-cost win. The independent physics runs the other way: a peer-reviewed review - https://iopscience.iop.org/article/10.1149/1945-7111/ace332 puts inert-anode energy ~47% higher and finds no definitive opex savings, and when smelters spend their own money they still build carbon-anode capacity - https://www.alcircle.com/press-release/ega-and-sunstone-to-begin-construction-of-anode-manufacturing-plant-in-uae-in-2026-116594. In the wider sweep, long-duration storage found its buyer as Form Energy's iron-air batteries passed 75 GWh contracted - https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/, and AI-for-science went public with DeepMind and Argonne releases. Durable model: inert anodes are a green-brand compliance asset, not a cheaper way to make metal, and the tradeable seat is the enabling-materials layer, not the smelter.
-
-📺 Watch: AI for Science - Ramine Tinati, Google DeepMind (SuperAI 2026) - https://www.youtube.com/watch?v=P0TwmQzgOko
-
-🎧 Listen: Catalyst - the electrician shortage slowing the AI boom (Shayle Kann) - https://open.spotify.com/episode/40emkLObkvNbgbq8Gx2UiC
-
-📖 Read: JES review: Primary Production of Aluminium with Oxygen Evolving Anodes - https://iopscience.iop.org/article/10.1149/1945-7111/ace332
-
-📖 Read: RUSAL commissions its industrial inert-anode line - https://realtynmore.com/rusal-commissions-worlds-first-inert/
-
-📖 Read: Form Energy's iron-air batteries reach 75+ GWh contracted - https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why Two Industrial Aluminium Cells Both Refuse to Publish One Number
-04:29 The Largest Grid Battery Ever, and Where the Capital Concentrated
-07:08 AI for Science Became a Public Good This Month
-08:22 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-003-2026-08-12.txt</description>
-      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-We closed a four-round investigation into inert-anode aluminium smelting, and the verdict weakened again to 24% confidence that it is a financial-first upgrade. The tell is a silence: two industrial cells now exist (ELYSIS's 450 kA cell at Alma - https://elysis.com/en/elysis-achieves-breakthrough-with-commercial-size-cell-a-first-in-aluminium-production-using-the since Nov-2025 and RUSAL's second line at Krasnoyarsk - https://realtynmore.com/rusal-commissions-worlds-first-inert/ since Mar-2026) and neither will publish the current efficiency or kWh/kg that would prove an operating-cost win. The independent physics runs the other way: a peer-reviewed review - https://iopscience.iop.org/article/10.1149/1945-7111/ace332 puts inert-anode energy ~47% higher and finds no definitive opex savings, and when smelters spend their own money they still build carbon-anode capacity - https://www.alcircle.com/press-release/ega-and-sunstone-to-begin-construction-of-anode-manufacturing-plant-in-uae-in-2026-116594. In the wider sweep, long-duration storage found its buyer as Form Energy's iron-air batteries passed 75 GWh contracted - https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/, and AI-for-science went public with DeepMind and Argonne releases. Durable model: inert anodes are a green-brand compliance asset, not a cheaper way to make metal, and the tradeable seat is the enabling-materials layer, not the smelter.
-
-📺 Watch: AI for Science - Ramine Tinati, Google DeepMind (SuperAI 2026) - https://www.youtube.com/watch?v=P0TwmQzgOko
-
-🎧 Listen: Catalyst - the electrician shortage slowing the AI boom (Shayle Kann) - https://open.spotify.com/episode/40emkLObkvNbgbq8Gx2UiC
-
-📖 Read: JES review: Primary Production of Aluminium with Oxygen Evolving Anodes - https://iopscience.iop.org/article/10.1149/1945-7111/ace332
-
-📖 Read: RUSAL commissions its industrial inert-anode line - https://realtynmore.com/rusal-commissions-worlds-first-inert/
-
-📖 Read: Form Energy's iron-air batteries reach 75+ GWh contracted - https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why Two Industrial Aluminium Cells Both Refuse to Publish One Number
-04:29 The Largest Grid Battery Ever, and Where the Capital Concentrated
-07:08 AI for Science Became a Public Good This Month
-08:22 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-003-2026-08-12.txt</itunes:summary>
-      <itunes:subtitle>Inert-anode aluminium: green brand, not a cost-down · 11 Aug</itunes:subtitle>
-      <enclosure url="https://github.com/astranovahq-web/climatepodcast/releases/download/ep-003/astra-003-2026-08-12.mp3" length="6213253" type="audio/mpeg"/>
-      <itunes:duration>00:08:37</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
-      <podcast:transcript url="https://astranovahq-web.github.io/climatepodcast/transcripts/astra-003-2026-08-12.txt" type="text/plain"/>
-      <podcast:chapters url="https://astranovahq-web.github.io/climatepodcast/chapters/astra-003-2026-08-12.json" type="application/json+chapters"/>
-    </item>
-    <item>
-      <title>AI data-center cooling: why the fluid is not the moat · 9 Aug 23:40</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/#astra-002-2026-08-10</link>
-      <guid isPermaLink="false">astra://episode/astra-002-2026-08-10</guid>
-      <pubDate>Mon, 10 Aug 2026 00:04:48 +0000</pubDate>
-      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-The obvious AI-cooling trade is backwards. With 3M out of cooling fluids and NVIDIA racks crossing 120kW toward the 600kW Vera Rubin reference design - https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin, you would expect a proprietary coolant to mint money, but the primary documents say the opposite: the GB300 rack guide lists only deionised water and PG25 - https://lenovopress.lenovo.com/lp2357-lenovo-nvidia-gb300-nvl72-rack-scale-ai, and the Open Compute Project standardises coolant properties expressly to "avoid proprietary lock-in" - https://www.opencompute.org/documents/ocp-acs-liquid-cooling-cold-plate-requirements-pdf. We moved this thesis from 32% to 26%: the durable rent is being squeezed out of the fluid in two directions. It migrates UP to the cold-plate and CDU integrators (Vertiv's $15B+ backlog - https://www.prnewswire.com/news-releases/vertiv-reports-strong-second-quarter-2026-with-diluted-eps-growth-of-53-adjusted-diluted-eps-growth-of-60-raises-full-year-2026-guidance-across-all-key-metrics-302837598.html, nVent's record $2.6B - https://finance.yahoo.com/markets/stocks/articles/nvent-electrics-2-6b-backlog-150700015.html, Eaton's $9.5B Boyd deal) and DOWN into the silicon itself, where TSMC's fusion-bonded micro-cooler - https://semiwiki.com/semiconductor-manufacturers/362017-breaking-the-thermal-wall-tsmc-demonstrates-direct-to-silicon-liquid-cooling-on-cowos/ and Microsoft's in-chip microfluidics - https://news.microsoft.com/source/features/innovation/microfluidics-liquid-cooling-ai-chips/ hand the next materials rent to the foundry. Even the one AI-designed coolant (London's Orbital Industries - https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/) is sold as a bundled chiller, not a licensed molecule. The one surviving fluid moat is niche two-phase immersion.
-
-Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
-
-📺 Watch: Microsoft on microfluidic in-chip cooling - https://www.youtube.com/watch?v=MZBwLi3ajYE
-
-🎧 Listen: Cooling Data Center Podcast on direct-liquid-cooling protection - https://open.spotify.com/episode/6kkRbu7Vj7BWSjJZy7bhyh
-
-📖 Read: The Register on two-phase vs single-phase cooling - https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293
-
-📖 Read: Ecolab's $4.75B CoolIT bet and the CDU consolidation wave - https://futurumgroup.com/insights/will-ecolabs-4-75b-coolit-systems-bet-define-the-future-of-gpu-liquid-cooling/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why the AI Coolant Is Not the Moat
-03:02 Where the Cooling Money Actually Sits
-05:05 The Wider Field: Firm Power for Compute
-06:30 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-002-2026-08-10.txt</description>
-      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-The obvious AI-cooling trade is backwards. With 3M out of cooling fluids and NVIDIA racks crossing 120kW toward the 600kW Vera Rubin reference design - https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin, you would expect a proprietary coolant to mint money, but the primary documents say the opposite: the GB300 rack guide lists only deionised water and PG25 - https://lenovopress.lenovo.com/lp2357-lenovo-nvidia-gb300-nvl72-rack-scale-ai, and the Open Compute Project standardises coolant properties expressly to "avoid proprietary lock-in" - https://www.opencompute.org/documents/ocp-acs-liquid-cooling-cold-plate-requirements-pdf. We moved this thesis from 32% to 26%: the durable rent is being squeezed out of the fluid in two directions. It migrates UP to the cold-plate and CDU integrators (Vertiv's $15B+ backlog - https://www.prnewswire.com/news-releases/vertiv-reports-strong-second-quarter-2026-with-diluted-eps-growth-of-53-adjusted-diluted-eps-growth-of-60-raises-full-year-2026-guidance-across-all-key-metrics-302837598.html, nVent's record $2.6B - https://finance.yahoo.com/markets/stocks/articles/nvent-electrics-2-6b-backlog-150700015.html, Eaton's $9.5B Boyd deal) and DOWN into the silicon itself, where TSMC's fusion-bonded micro-cooler - https://semiwiki.com/semiconductor-manufacturers/362017-breaking-the-thermal-wall-tsmc-demonstrates-direct-to-silicon-liquid-cooling-on-cowos/ and Microsoft's in-chip microfluidics - https://news.microsoft.com/source/features/innovation/microfluidics-liquid-cooling-ai-chips/ hand the next materials rent to the foundry. Even the one AI-designed coolant (London's Orbital Industries - https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/) is sold as a bundled chiller, not a licensed molecule. The one surviving fluid moat is niche two-phase immersion.
-
-Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
-
-📺 Watch: Microsoft on microfluidic in-chip cooling - https://www.youtube.com/watch?v=MZBwLi3ajYE
-
-🎧 Listen: Cooling Data Center Podcast on direct-liquid-cooling protection - https://open.spotify.com/episode/6kkRbu7Vj7BWSjJZy7bhyh
-
-📖 Read: The Register on two-phase vs single-phase cooling - https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293
-
-📖 Read: Ecolab's $4.75B CoolIT bet and the CDU consolidation wave - https://futurumgroup.com/insights/will-ecolabs-4-75b-coolit-systems-bet-define-the-future-of-gpu-liquid-cooling/
-
-Chapters:
-00:00 AI disclosure
-00:35 Why the AI Coolant Is Not the Moat
-03:02 Where the Cooling Money Actually Sits
-05:05 The Wider Field: Firm Power for Compute
-06:30 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-002-2026-08-10.txt</itunes:summary>
-      <itunes:subtitle>AI data-center cooling: why the fluid is not the moat · 9 Aug 23:40</itunes:subtitle>
-      <enclosure url="https://github.com/astranovahq-web/climatepodcast/releases/download/ep-002/astra-002-2026-08-10.mp3" length="4866596" type="audio/mpeg"/>
-      <itunes:duration>00:06:45</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
-      <podcast:transcript url="https://astranovahq-web.github.io/climatepodcast/transcripts/astra-002-2026-08-10.txt" type="text/plain"/>
-      <podcast:chapters url="https://astranovahq-web.github.io/climatepodcast/chapters/astra-002-2026-08-10.json" type="application/json+chapters"/>
-    </item>
-    <item>
-      <title>Why boring manufactured-SCM cement became the bankable one · 9 Aug</title>
-      <link>https://astranovahq-web.github.io/climatepodcast/#astra-001-2026-08-09</link>
-      <guid isPermaLink="false">astra://episode/astra-001-2026-08-09</guid>
-      <pubDate>Sun, 09 Aug 2026 18:37:17 +0000</pubDate>
-      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-Our low-carbon cement thesis moved from 68% to 75% today, and one clause of it was corrected. The bankable route in 2026 is not the clever chemistry and not locking up cheap waste ash. It is a manufactured supplementary cementitious material from abundant rock and clay, sold on a lender-grade contract: Terra CO2 pulled project bank debt onto its first Texas plant - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement because a buyer signed a binding agreement to acquire and operate the whole thing, while Sublime Systems paused its plant and cut staff after a DOE grant clawback - https://www.globalcement.com/news/20207-sublime-systems-pauses-holyoke-project-after-federal-funding-setback despite a binding Microsoft deal. The moat correction: the scarce waste feedstocks are depleting fast, with US fly ash down to 63.6 Mt and its use-rate up to 72% - https://acaa-usa.org/wp-content/uploads/2025/12/News-Release-Coal-Ash-Production-and-Use-2024.pdf and incumbents locking up the rest (CRH bought Eco Material for $2.1B - https://warburgpincus.com/2025/07/29/one-equity-partners-warburg-pincus-and-green-cement-investments-to-sell-eco-material-technologies-to-crh/), so the durable seat is abundant-feedstock manufactured SCM plus a binding offtake. In the wider field, firm power for AI datacentres pulled the week's biggest cheques and Cambridge's CuspAI raised $450M at a ~$2.6bn valuation - https://www.electronicsweekly.com/news/business/cambridge-startup-using-ai-for-materials-research-raises-450m-2026-07/.
-
-📺 Watch: Scaling LC3: learnings from the first movers (RMI) - https://www.youtube.com/watch?v=3Yz0lLBz1Vs
-
-🎧 Listen: Catalyst - the complex path to market for low-carbon cement - https://open.spotify.com/episode/13uUEu2NuCaRsF3IcQ0sOr
-
-📖 Read: Terra CO2 says its Texas factory will cut carbon and cost from cement - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement
-
-📖 Read: Ecocem's ACT technology and its self-funded scale-up - https://www.globenewswire.com/news-release/2025/10/29/3176377/0/en/Ecocem-Demonstrates-up-to-60-Carbon-Reduction-in-U-S-Cement-Manufacturing-with-ACT-Technology.html
-
-Chapters:
-00:00 AI disclosure
-00:35 Why Boring Cement Just Became the Bankable One
-04:02 Where the Week's Billions Went: Firm Power for Data Centres
-06:03 The Field This Week: A Hardening Bifurcation
-07:30 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-001-2026-08-09.txt</description>
-      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
-
-Our low-carbon cement thesis moved from 68% to 75% today, and one clause of it was corrected. The bankable route in 2026 is not the clever chemistry and not locking up cheap waste ash. It is a manufactured supplementary cementitious material from abundant rock and clay, sold on a lender-grade contract: Terra CO2 pulled project bank debt onto its first Texas plant - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement because a buyer signed a binding agreement to acquire and operate the whole thing, while Sublime Systems paused its plant and cut staff after a DOE grant clawback - https://www.globalcement.com/news/20207-sublime-systems-pauses-holyoke-project-after-federal-funding-setback despite a binding Microsoft deal. The moat correction: the scarce waste feedstocks are depleting fast, with US fly ash down to 63.6 Mt and its use-rate up to 72% - https://acaa-usa.org/wp-content/uploads/2025/12/News-Release-Coal-Ash-Production-and-Use-2024.pdf and incumbents locking up the rest (CRH bought Eco Material for $2.1B - https://warburgpincus.com/2025/07/29/one-equity-partners-warburg-pincus-and-green-cement-investments-to-sell-eco-material-technologies-to-crh/), so the durable seat is abundant-feedstock manufactured SCM plus a binding offtake. In the wider field, firm power for AI datacentres pulled the week's biggest cheques and Cambridge's CuspAI raised $450M at a ~$2.6bn valuation - https://www.electronicsweekly.com/news/business/cambridge-startup-using-ai-for-materials-research-raises-450m-2026-07/.
-
-📺 Watch: Scaling LC3: learnings from the first movers (RMI) - https://www.youtube.com/watch?v=3Yz0lLBz1Vs
-
-🎧 Listen: Catalyst - the complex path to market for low-carbon cement - https://open.spotify.com/episode/13uUEu2NuCaRsF3IcQ0sOr
-
-📖 Read: Terra CO2 says its Texas factory will cut carbon and cost from cement - https://www.canarymedia.com/articles/clean-industry/terra-co2-says-its-texas-factory-will-cut-carbon-and-cost-from-cement
-
-📖 Read: Ecocem's ACT technology and its self-funded scale-up - https://www.globenewswire.com/news-release/2025/10/29/3176377/0/en/Ecocem-Demonstrates-up-to-60-Carbon-Reduction-in-U-S-Cement-Manufacturing-with-ACT-Technology.html
-
-Chapters:
-00:00 AI disclosure
-00:35 Why Boring Cement Just Became the Bankable One
-04:02 Where the Week's Billions Went: Firm Power for Data Centres
-06:03 The Field This Week: A Hardening Bifurcation
-07:30 Closing disclosure
-
-Transcript: https://astranovahq-web.github.io/climatepodcast/transcripts/astra-001-2026-08-09.txt</itunes:summary>
-      <itunes:subtitle>Why boring manufactured-SCM cement became the bankable one · 9 Aug</itunes:subtitle>
-      <enclosure url="https://github.com/astranovahq-web/climatepodcast/releases/download/ep-001/astra-001-2026-08-09.mp3" length="5587574" type="audio/mpeg"/>
-      <itunes:duration>00:07:45</itunes:duration>
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-001-2026-08-26.txt</itunes:summary>
+      <itunes:subtitle>Astra edition 2026-08-26</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-001/astra-001-2026-08-26.mp3" length="2724302" type="audio/mpeg"/>
+      <itunes:duration>00:03:46</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://astranovahq-web.github.io/climatepodcast/cover.jpg"/>
-      <podcast:transcript url="https://astranovahq-web.github.io/climatepodcast/transcripts/astra-001-2026-08-09.txt" type="text/plain"/>
-      <podcast:chapters url="https://astranovahq-web.github.io/climatepodcast/chapters/astra-001-2026-08-09.json" type="application/json+chapters"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-001-2026-08-26.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-001-2026-08-26.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-001-2026-08-26.json" type="application/json+chapters"/>
     </item>
   </channel>
 </rss>
