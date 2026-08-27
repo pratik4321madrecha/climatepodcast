@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 14:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:52:00 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,54 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 27 Aug 2026 14:48:30 +0000</pubDate>
+    <pubDate>Thu, 27 Aug 2026 14:51:59 +0000</pubDate>
+    <item>
+      <title>AI data-center cooling: why the dielectric fluid is not the moat</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-021-backfill-21</link>
+      <guid isPermaLink="false">astra://episode/astra-021-backfill-21</guid>
+      <pubDate>Thu, 27 Aug 2026 14:51:59 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The heat has to go somewhere.
+
+Chapters:
+00:00 AI disclosure
+00:35 AI data-center cooling: why the dielectric fluid is not the moat
+04:33 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-021-backfill-21.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The heat has to go somewhere.
+
+Chapters:
+00:00 AI disclosure
+00:35 AI data-center cooling: why the dielectric fluid is not the moat
+04:33 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-021-backfill-21.txt</itunes:summary>
+      <itunes:subtitle>AI data-center cooling: why the dielectric fluid is not the moat</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-021/astra-021-backfill-21.mp3" length="3460979" type="audio/mpeg"/>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-021-backfill-21.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-021-backfill-21.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Low-carbon cement: why the bankable route is a manufactured additive, not clever chemistry</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-020-backfill-20</link>
