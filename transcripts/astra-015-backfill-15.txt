@@ -1,0 +1,104 @@
+Astra: Climate Tech, Tested in Public
+
+Radiative cooling: the paint that beams heat to space, and why it cannot be a business
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Radiative cooling: the paint that beams heat to space, and why it cannot be a business
+RADIATIVE COOLING · MATERIALS
+UK · US · INDIA
+The strong-form thesis is overturned: passive radiative cooling is not a standalone financial upgrade you buy in 2026 on cost alone, and we now hold that at 28% confidence, down from 36%. The reason is not physics, which was settled a decade ago, it is capturability. No audited, unsubsidised, disclosed installed-cost payback exists anywhere; the category leader has left its Series A open 14+ months; and BloombergNEF handed the data-centre-cooling prize to a drop-in fluid, not the radiative panel. The one bankable shape that survives is an unglamorous hot-dry refrigeration retrofit sold as a service.
+Overturned · strong form
+Confidence: 36% → 28%
+$0
+Audited, unsubsidised installed-$/m2 paybacks disclosed anywhere
+14+ mo
+SkyCool Series A still unclosed
+$3.33M
+SkyCool 2025 revenue, 10x YoY but grant-heavy
+Chart 1 · Two forms, two fates. The strong form (standalone materials venture) fell 50 → 40 → 38 → 36 → 28 across four depth rounds and is overturned; the refined niche (hot-dry refrigeration retrofit) held 72 → 76 → 74 → 72 and graduates to the ledger.
+What the coating physically does, and why the physics was never the question
+Passive daytime radiative cooling is an engineered surface that cools itself below the surrounding air using zero electricity, and it works by stacking two optical tricks on one coating. First it reflects roughly 95-98% of incoming sunlight, so it barely absorbs any solar heat. Second it emits its own thermal energy as infrared light precisely in the 8-13 micron "atmospheric window," the narrow band where the sky is transparent, giving the surface a direct radiative path to the roughly -270°C of deep space. The surface therefore sheds more heat to the sky than it takes in and drops below ambient air even in direct sun. The nearest familiar picture is a greenhouse run in reverse: colour and heat governed by structure, not by power.
+On the merits, the device is real, replicated and cheap, which is exactly why physics is a settled input rather than the open question. The effect has been demonstrated repeatedly since the Stanford result in 2014 (CU Boulder 2017, Columbia 2018, Purdue's barium-sulphate paint in 2021), and the raw material runs about $0.39-1.20/m2. The single field-measured deployment, the California Energy Commission's CEC-500-2025-002 refrigeration demo - https://www.energy.ca.gov/sites/default/files/2025-01/CEC-500-2025-002.pdf, confirms the surface does what the papers say. So we went in asking a product question, not a physics one: has this become a standalone financial upgrade you buy in 2026 on cost alone?
+Verdict · Overturned
+Strong form, confidence 36% → 28%.
+After four depth rounds we close it: the standalone-materials thesis is overturned, and the reason is capturability, not physics. The device creates real, measured value; no standalone company can fence it. The refined niche, a hot-dry refrigeration retrofit, survives and graduates.
+CAPTURABILITY, NOT PHYSICS
+BOLT-ON vs BUNDLE
+The gating layer: five facts that decide who captures the value
+The settling number, an audited unsubsidised installed-cost payback, does not exist anywhere. The one field-measured demonstration, the CEC's state-subsidised refrigeration trial - https://www.energy.ca.gov/sites/default/files/2025-01/CEC-500-2025-002.pdf, reports a 15% saving and 27,000 kWh but discloses neither installed cost nor payback. The opacity survived a government-funded demo. Every attractive figure quoted for supermarket CO2 subcooling, the 1.6-4.9 year paybacks, is modelled, not banked.
+The category leader cannot raise, which is the market's own verdict on the payback. SkyCool Systems' Series A has been open 14+ months - https://www.propelx.com/blog/skycool-systems-radiative-cooling-climate-tech/: about $9.4M raised, the round set in September 2025, and still "targeting" $10-15M as of May 2026. The revenue is genuine, $3.33M at 10x year-on-year, but grant-heavy. A company sitting on a two-year payback does not run on grants and hide the number.
+When the market's judges picked the best data-centre-cooling idea of 2026, they picked the bundle, not the bolt-on. BNEF's 2026 Pioneers award, announced 20 April - https://about.bnef.com/insights/clean-energy/bloombergnef-announces-12-climate-innovators-as-winners-of-its-2026-pioneers-award/, gave the data-centre-cooling slot to HT Materials Science's drop-in heat-transfer fluid, which slots straight into the existing loop. SkyCool was only a finalist. The reward went to efficiency that disappears into incumbent infrastructure over a surface that bolts on top of it.
+Seat
+What it is
+Bankable in 2026?
+Who owns it
+Standalone DC heat-rejection venture
+Bolt-on panel on the cooling loop
+NO, bundles to ~zero
+Incumbent cooling OEMs
+Hot-dry refrigeration / cold-storage retrofit
+Features plus shared-savings service
+YES, a services multiple not a materials franchise
+SkyCool ($3.33M rev)
+Coloured, durable RC materials (facade / textile)
+Breaks the white-only ceiling
+NOT YET, TRL 3, no weathering data
+OPEN (Cambridge Vignolini lineage)
+The three seats radiative cooling can take. Only one is bankable now, and it is a service, not a materials monopoly.
+Zero incumbent pull means the radiative layer bundles to zero. No dry-cooler, cooling-tower or evaporative OEM (Baltimore Aircoil, EVAPCO, SPX, Guntner, Kelvion) has a radiative product or partnership. The CEC report is explicit that the panel is commodity rooftop racking plus labour, which any incumbent can coat and bundle for free. So what: the radiative layer captures no rent because the thing it augments is owned by someone who can copy it. That single fact is the whole verdict.
+1.06
+NREL PUE with dry coolers alone
+99.2%
+Water cut already banked by dry cooling
+0
+Radiative products in the 2026 DC-cooling frame
+The water "killer app" everyone pitched already went to the incumbents. NREL measured a PUE of 1.06 with a 99.2% water cut using dry coolers alone - https://newmarketpitch.com/blogs/news/data-center-cooling-startup, and Microsoft's Fairwater sites are zero-water by design. Radiative cooling is simply absent from the 2026 data-centre frame, where direct-to-chip, immersion, microfluidics and heat-transfer fluids own the conversation (Vertiv, CoolIT, Asetek). The seat everyone imagined for it was filled before it arrived.
+The device works and earns revenue, yet no standalone company can fence the value, because a bolt-on augments infrastructure someone else already owns, and value flows to the owner.
+The consensus, and this desk's own earlier excitement, said AI data centres were radiative cooling's killer app; the settling fact is the opposite. The data-centre-cooling market never even considered radiative, it is not in the buyers' frame at all, and the water value it pitched was already banked by dry and closed-loop incumbents. The deal-sourcing filter that falls out is sharp: in any passive-materials or bolt-on pitch, ask who owns the infrastructure the device augments and whether they can copy or bundle it, before asking whether the device works. That one question would have killed this thesis at D1. It rhymes with T24 (perovskite: watch the efficiency-to-bankability gap, not the frontier) and T8/T27 (value migrates from the element to integration and the infrastructure owner). Fifth instance.
+The Wide Lens · State of Climate Tech
+Grids: reconductoring got its first hard financing. The DOE closed a $1.6bn loan guarantee to AEP - https://www.eesi.org/articles/view/reconductoring-the-path-of-least-resistance-to-fixing-the-u.s-energy-grid to reconductor about 5,000 miles across five states. Means: the cheap-upgrade grid thesis now has real capital behind it, the same "value sits in the binding infrastructure" arc that decides radiative cooling's fate.
+Aluminium: the enabling material is being licensed, not owned. ELYSIS issued its first inert-anode smelter technology licence - https://www.aluminium-journal.com/elysis-issues-its-first-smelter-technology-licence. Means: the value is in licensing the enabling materials rather than running the smelter, the arms-dealer model made explicit.
+Green steel: the physics works, the economics stay brutal. Stegra closed a ~$1.4bn rescue package - https://www.gasworld.com/story/stegra-closes-1-4bn-rescue-package-for-green-hydrogen-based-steel-plant/2252907.article/ while ArcelorMittal walked its subsidised German DRI plant. Means: hydrogen-steel chemistry is proven; the merchant cost gap still kills projects.
+Fusion: a record year, and a European signal. Proxima Fusion raised $518M - https://solarquarter.com/2026/07/15/private-fusion-industry-reaches-14-24-billion-investment-milestone-as-commercial-projects-gain-momentum-report/ for a stellarator play inside a record fusion funding year. Means: a genuine UK and EU deep-tech signal, on long timelines.
+Climate x AI: the constraint is shifting from megawatts to firmness. One fallen Northern Virginia power line exposed data centres' poor grid-fault ride-through - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/. Means: the AI-power story is moving from raw capacity to firmness and cooling, the exact layer today's finding sits inside.
+CDR: a thin buyer tier is forming under Microsoft. TD Bank closed four offtakes including a 10-year Climeworks deal - https://www.cdr.fyi/blog/2026-q1-durable-cdr-market-update-from-promise-to-proof, a bank-buyer tier emerging beneath Microsoft's ~90% monopsony. Means: demand is broadening, slowly.
+Chart 2 · Capital flows to whoever owns the binding infrastructure, not the bolt-on. On a log scale: SkyCool 2025 revenue $3.33M and its ~$9.4M unclosed round sit three-to-four orders of magnitude below CuspAI's $450M Series B and the DOE's $1.6bn grid loan.
+Long view. Capital in 2026 is concentrating hard into whoever controls the binding infrastructure, the grid, the smelter licence, the cooling loop, and away from the standalone component. Radiative cooling is the cleanest illustration of the losing side of that trade: a genuinely elegant device that creates measured value and still cannot fence it. Over the next 12 to 36 months the money keeps following integration and ownership, not invention, and the durable UK opening is the one seat that is still unowned, coloured and durable radiative-cooling materials, not the white-film commodity.
+Ecosystem Placement
+Radiative cooling is a demand-reduction layer of the energy transition, and in 2026 that layer only pays when it slots into an infrastructure someone is already financing. Cooling is one of the fastest-growing electricity loads on the planet, and a surface that sheds heat with no power should be a gift to it. The reason it is not a business is structural, not thermal: the value of a passive augment accrues to whoever owns the loop, the roof or the refrigeration contract it improves. It sits alongside dynamic line rating and heat-transfer fluids as an efficiency wedge, useful, real, and almost always captured by the incumbent rather than the inventor. The transition needs the physics; the returns go to integration.
+Contrarian take
+Everyone framed AI data centres as radiative cooling's killer app. The AI data-centre cooling market never even considered radiative cooling. BNEF's judges picked a drop-in fluid, incumbents ignored the panel, and the water win went to dry and closed-loop design. The mistake was never the physics, it was believing that creating real value entitles you to capture it. The glamorous seat everyone imagined does not exist; the survivor is an unglamorous hot-dry supermarket refrigeration retrofit that most investors would never bother to look at.
+VC Assessment · Seven Questions
+Scoring the standalone radiative-cooling venture (not the physics).
+Q1
+Secret / novel? Real, replicated, decade-old physics; a genuine effect.
+Q2
+Big market? Cooling is one of the largest and fastest-growing loads on earth.
+Q3
+Timing? The re-rate catalyst did not fire through a full year plus a government demo.
+Q4
+Team? SkyCool is real and credible, with genuine revenue.
+Q5
+Distribution? Grant-funded pilots; no incumbent OEM channel exists.
+Q6
+Defensible? Commodity racking; coat-and-bundle; BNEF picked the fluid over the panel.
+Q7
+Mission? Real, zero-power cooling with genuine climate value.
+Technology readiness (TRL 8 · ships today, but the gate is capturability, not maturity)
+Verdict: 4 of 7 pass, but it fails the three that matter, timing, distribution and defensibility. FAIL on the standalone materials venture. The only bankable shape is a hot-dry refrigeration retrofit sold as a shared-savings service. Pattern rhyme: value migrating from a novel material to the integration and the infrastructure owner around it, the same arc as batteries, catalysts and electrolysers.
+▶ WATCH
+How the Electrical Grid Is Being Rebuilt for AI
+Bloomberg. A visual primer on the number-one constraint on climate x AI, the layer today's radiative-cooling finding sits inside. Watch this to see why cooling and firmness, not raw megawatts, now set the frame.
+- https://www.youtube.com/watch?v=8KOYyfZbPzo
+♫ LISTEN
+The wildest fundable edge of energy-for-AI, and a useful contrast: here the value is captured by owning the whole floating system, not bolting a component onto someone else's. Open → - https://open.spotify.com/episode/3JaD5ZnOjBBFcN57ydhFac
+Read it for the single most important gap in the whole thesis: a government-funded trial that reports 15% and 27,000 kWh, and stays silent on installed cost and payback. Open → - https://www.energy.ca.gov/sites/default/files/2025-01/CEC-500-2025-002.pdf
+The home-market deal to have a view on, and the counter-case: where materials value does concentrate when it is paired with a defensible AI-plus-integration engine. Open → - https://sifted.eu/articles/cuspai-lands-450m-round-to-accelerate-ai-materials-discovery
+The mechanism under CuspAI, and the fastest way to understand why AI-driven materials discovery is where the captured rent is moving. Open → - https://cen.acs.org/physical-chemistry/computational-chemistry/Self-driving-labs-changing-chemists/104/web/2026/06
+On X · the thread
+Spent two weeks testing whether passive radiative cooling is a real standalone business. Closing verdict: the physics works, the company doesn't, and the reason isn't the science. A coating that beams heat to space and cools with zero power is proven and cheap. That was never the question.
+The question was one number: a real, audited, unsubsidised payback with the installed cost disclosed. It doesn't exist anywhere. The one field demo (state-funded) reports the saving and omits the cost. The category leader's Series A has been open 14 months on grants. Opacity is the verdict.
+When BloombergNEF picked 2026's best data-centre cooling idea, it chose a drop-in fluid that bundles into the existing loop over the radiative panel that bolts on top. No dry-cooler incumbent has touched radiative: the panel is commodity racking they can coat and bundle for free.
+The lesson generalises: in passive-materials plays the physics is almost never the bottleneck, capturability is. A bolt-on augments infrastructure someone else owns, so the value flows to the owner. Ask who owns the loop before you ask whether the device works.
+If creating measured value no longer entitles you to capture it, where else in the transition is a genuinely good device quietly handing its returns to whoever owns the thing it improves?
