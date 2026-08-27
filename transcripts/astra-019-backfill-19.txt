@@ -1,0 +1,97 @@
+Astra: Climate Tech, Tested in Public
+
+AI data-center cooling: why the special fluid is not the moat
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## AI data-center cooling: why the special fluid is not the moat
+Topic of the day
+AI data-center cooling: the coolant is mostly commodity water and glycol, not a special fluid
+A 120kW NVIDIA rack physically forces liquid cooling, and buyers switch with zero climate motive. But the proprietary dielectric fluid everyone expected to mint money is a rounding error next to the hardware. The rent sits with the certified system.
+CLIMATE × AI
+We went in asking whether the dielectric fluid is the moat in AI-datacenter liquid cooling, and we now believe it is not, moving to WEAKENED at 32% from 50%. The demand is real and financial-first: density genuinely forces liquid, and PUE plus TCO carry adoption with no climate story. But the mainstream modality runs commodity water and glycol, the one IP-rich mode was killed by the PFAS exit that was meant to open it, and the fluid market is roughly 1/29th of the hardware. The rent sits with the cold-plate OEMs and NVIDIA certification, the exact integrator the hypothesis said would lose.
+Hypothesis: the dielectric fluid is the AI-cooling moat
+Confidence: 50% → 32%
+$0.19B
+immersion-fluid TAM, a rounding error vs ~$5.5B of cooling hardware
+42-47%
+direct-to-chip share, and it runs commodity water and glycol
+$12.5B
+3M PFAS settlement that killed the IP-rich two-phase mode
+Chart 1. The dielectric fluid is a rounding error. Immersion-fluid TAM runs ~$0.19B (2025) to $0.84B (2032); the liquid-cooling hardware around it is ~$5.5B to $18.8B. The fluid is roughly 1/29th of the money.
+The spine · thesis
+Above ~50kW a rack cannot shed its heat into air, so the physics forces liquid
+The product story starts with a thermodynamic wall. An NVIDIA GB200 NVL72 rack draws ~120 kW - https://www.datacenterdynamics.com/en/analysis/nvidia-gtc-jensen-huang-data-center-rack-density/, the GB300 pulls 130-150+ kW, and NVIDIA is already scoping ~1 MW racks. Air can carry maybe 50kW off a cabinet before the fans hit a physical limit; water moves heat roughly 3,000x better per unit volume, so past that line liquid stops being an option and becomes the only path. Three modalities compete. Direct-to-chip pipes coolant through a cold plate bolted to the GPU. Immersion submerges the whole board in a dielectric (electrically non-conducting) bath. Microfluidics etches coolant channels into the silicon itself. The hypothesis bet that value would land on the fluid inside modality two.
+~120 kW
+GB200 NVL72 rack (air caps near 50kW)
+130-150+ kW
+GB300; ~1 MW rack on the roadmap
+-40%
+water use; Supermicro DLC-2 claims -40% electricity
+The buyer switches for money, not carbon, which is exactly why the demand is durable. Cooling efficiency is measured by PUE (power usage effectiveness, the ratio of total facility power to the power that actually reaches the chips; 1.0 is perfect). Air-cooled halls sit at 1.5-2.0; direct-to-chip pulls PUE to 1.03-1.20 and cuts five-year TCO by ~35% and water by ~40% - https://introl.com/blog/direct-to-chip-cooling-pue-below-12-implementation, and Supermicro DLC-2 claims -40% electricity and -20% TCO - https://ir.supermicro.com/news/news-details/2025/Supermicros-DLC-2-the-Next-Generation-Direct-Liquid-Cooling-Solutions-Aims-to-Reduce-Data-Center-Power-Water-Noise-and-Space-Saving-on-Electricity-Cost-by-up-to-40-and-Lowering-TCO-by-up-to-20/default.aspx. That is a clean financial-first pass. The chart below is why a rational operator switches with zero climate motive.
+Chart 2. The PUE step-down each modality buys: air 1.8, rear-door 1.4, direct-to-chip 1.12, two-phase immersion 1.04, for roughly -35% five-year TCO. The switch pays for itself on the electricity bill alone.
+The verdict is a belief update: the demand premise held, the moat premise did not. We went in asking whether a proprietary fluid or materials-IP holder captures durable rent instead of the integrator, and we now hold WEAKENED at 32%, down from 50%, because the market structure falsifies the load-bearing claim. Three facts do the damage. The dominant modality, direct-to-chip at 42-47% share and scaling fastest - https://market.us/report/direct-to-chip-liquid-cooling-market/, circulates plain water and propylene glycol, so there is no molecule to own. The one dielectric-rich, high-margin mode, two-phase immersion, was crippled, not opened, by 3M's $12.5B PFAS settlement, with Microsoft and Meta halting two-phase R&D - https://www.servethehome.com/2-phase-immersion-cooling-halted-over-multi-billion-dollar-health-hazard-lawsuits/. And the fluid rent pool is structurally tiny at ~$0.19B - https://www.marketsandmarkets.com/PressReleases/data-center-immersion-cooling-fluids.asp. So where does the rent actually sit?
+Layer
+Who
+Signal of pricing power
+Immersion integratorSubmer, LiquidStack, GRC, Iceotope (UK) - https://www.iceotope.com/~35% tank shipments; LiquidStack $75M C
+Dielectric FLUIDExxonMobil, Shell, Castrol, Chemours, Perstorp~$0.19B TAM; commodity, crowded; modest premium only
+AI-molecule bundleOrbital (London) - https://orbitalmaterials.com/$50M, NVIDIA-backed, 2027 ship, the one venture-scale seat
+Observable pricing power sits with the OEMs and the certification, the exact integrator the hypothesis said would lose. Vertiv held 70%+ of first-batch GB200 rack cooling, nVent carries a ~$2.6B NVIDIA backlog, and Eaton paid $9.5B for Boyd - https://deepfundamental.substack.com/p/deep-dive-liquid-cooling. The lock-in is NVIDIA's reference-design certification, where a non-approved loop voids the GPU warranty, and even there NVIDIA ships standardized fittings that deliberately reduce proprietary lock-in - https://electronics.alibaba.com/buyingguides/nvidia-data-center-cooling-guide-2026. At the frontier the moat is moving into the silicon: Microsoft and Corintis are etching microfluidic channels into the chip - https://news.microsoft.com/source/features/innovation/microfluidics-liquid-cooling-ai-chips/, which makes heat removal a foundry problem, not a fluid one. This is the ninth instance of value leaving the material and landing in qualification and the certified system.
+If AI can design the perfect molecule on demand, the molecule stops being the scarce thing, and the whole game moves to whoever can qualify, manufacture and certify it.
+One sub-prediction survived, and it is the interesting one. The call that the first commercial molecule from AI-driven materials discovery would be a data-center coolant, not a climate material, is now confirmed. London's Orbital Industries (ex-DeepMind Jonathan Godwin) raised $50M with NVIDIA NVentures for an AI-designed PFAS-free GPU coolant shipping with 2027 GPUs - https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/, and Microsoft's Discovery platform screened 367,000 candidates in ~200 hours to a non-PFAS prototype - https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/. But even here the durable rent is the bundled, qualified system, not a licensable compound: NVIDIA is an investor and Orbital sells the refrigeration hardware around the fluid. The molecule commoditizes; the qualified seat does not.
+VERDICT: WEAKENED
+50% → 32%. The cooling demand works and wins on the merits. The load-bearing claim, that a proprietary fluid captures the rent, does not: the mainstream fluid is a commodity and the money sits with the certified system.
+The exciting-sounding materials angle is the weak leg. Back the seat next to it.
+Most observers read "3M exits, PFAS banned, AI needs cooling" and reach for a fluid maker. That is a category error about where a regulation-driven shock moves value. The PFAS exit did not open a fluids goldmine; it destroyed the only IP-rich mode and pushed the mainstream to commodity cold plates, handing pricing power to the OEMs and to NVIDIA's certification desk. The tradeable seats, Vertiv, nVent, Eaton/Boyd - https://deepfundamental.substack.com/p/deep-dive-liquid-cooling, are already public and priced.
+Deal-sourcing filter: the one venture-scale materials seat is the AI-designed-coolant bundle (Orbital - https://orbitalmaterials.com/) only if it sells as qualified system rent, not licensable IP. The decisive tell is a warranty-tied NVIDIA/OCP approved-fluid list. If one forms, fluid-level qualification lock-in is real; until then, never underwrite a pure dielectric-fluid pure-play as the moat.
+The Wide Lens · State of Climate Tech
+Data-center power is now the gravity well of climate capital. Low-carbon data-center tech jumped to 34% of H1-2026 climate-tech VC, from ~3% a year earlier - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/, as the total hit ~$26.1B (+55% YoY) on the lowest deal count on record. The fastest money is no longer generation for its own sake; it is firm power and thermal management for compute. That reframes what "climate tech" even funds.
+A non-lithium long-duration storage wave landed in one week. Antora raised $550M for thermal (heated carbon-block) batteries - https://www.ess-news.com/2026/08/03/antora-raises-550-million-for-us-made-thermal-battery-storage/, Base Power disclosed ~$1B - https://www.ess-news.com/2026/08/05/base-power-launches-39-2-kwh-us-made-home-battery/, and Ore Energy closed $43M for iron-air - https://www.ess-news.com/2026/08/05/iron-air-battery-startup-ore-energy-raises-43-million-series-a/. Capital is rotating into lithium-free, multi-day chemistries explicitly to serve AI-driven firm-power demand.
+Critical minerals split: same headline, opposite physics. Copper set a fresh US record (~$6.70/lb) - https://www.mining.com/copper-price-sets-fresh-us-record-as-tariff-driven-hoarding-meets-shrinking-supply/ on hoarding and shrinking supply while lithium stayed pinned near $19,820/t with no recovery before 2029-30 - https://www.mining.com/china-lithium-price-slides-on-speculation-over-catl-mine-restart/. One metal squeezed, others glutted, and that divergence steers where refining capital flows next.
+The green-hydrogen and steel correction turned into balance-sheet damage. Hexagon Purus cut )50% of staff - https://www.globenewswire.com/news-release/2026/07/16/3328215/0/en/Hexagon-Purus-ASA-Results-for-the-second-quarter-2026.html and the US 45V hydrogen credit sunset was pulled forward to 2027 - https://ieefa.org/resources/momentum-shifts-east-green-steel-transition. The subsidy-first thesis is being repriced in real time.
+CDR has an offtake air-pocket over a concentrating base. July concluded CDR offtakes hit a multi-year low, one forward sale - https://www.qcintel.com/carbon/article/july-cdr-offtake-deals-hit-multi-year-low-developers-rebound-70095.html, even as Google, McKinsey and Tencent took ~635kt from Thryve.Earth - https://www.esgtoday.com/google-mckinsey-tencent-sign-large-scale-nature-based-carbon-removal-deals/. Buyers are consolidating into fewer, larger, strategic deals, starving the spot market.
+Fusion and the nuclear fuel-cycle are being built ahead of the reactors. Fusion raised a record $4.48B in the year to July - https://www.fusionindustryassociation.org/fusion-industry-attracts-record-annual-funding-of-4-48bn-raising-total-to-14-24bn/, Proxima raised EUR411M for a stellarator near Munich - https://www.proximafusion.com/press-news/proxima-fusion-raises-eu411-million-to-build-europes-commercial-fusion-champion, and X-energy and Centrus signed a HALEU supply deal - https://www.world-nuclear-news.org/articles/x-energy-and-centrus-sign-haleu-supply-agreement. The fuel chain is standing up years ahead of the machines. On the bench this week, a perovskite triple-junction cell hit 27.3% at a record 770h stability - https://techxplore.com/news/2026-07-perovskite-triple-junction-solar-cells.html.
+Long view
+Over the next 12-36 months the centre of gravity has moved decisively to the AI-compute and energy interface: money, grid rules and firm-power chemistry are all reorganising around the data center as the marginal load. Simultaneously the subsidy-dependent plays (green H2, steel, spot CDR) are being repriced down while capital concentrates into fewer, larger vehicles and into the enabling layers everything else waits on. The winners increasingly sit one layer below the headline product, in the storage chemistry, the enrichment, and, as today's edition shows, the thermal system rather than the thermal fluid.
+Where this sits in the whole system: cooling is the demand-side twin of the grid and firm-power arcs above. Every megawatt an AI campus draws is a megawatt that must be generated, delivered through a transformer-gated grid, and then removed as heat, and the cheapest way to remove it, direct-to-chip liquid, is also the one that cuts water and power draw by ~40%. So thermal management is not a side-quest to the AI-power story; it is the same story read at the rack. And it rhymes with reconductoring, inert anodes and low-carbon cement: in each, the clever element commoditizes and the durable rent migrates to the integrator, the installer and the certifier who make the element usable at scale.
+Contrarian take
+The obvious trade, "3M left, PFAS is banned, AI needs cooling, so a fluid maker mints money," is backwards. PFAS regulation destroyed the only fluid-IP-rich mode (two-phase), pushed the mainstream to commodity water and glycol cold plates, and handed pricing power to the CDU and cold-plate OEMs and to NVIDIA certification.
+Underwriting a pure dielectric-fluid pure-play as the AI-cooling moat is pricing a $0.19B pond as if it were the $5.5B ocean. The materials angle that reads as the exciting part of this story is the part the evidence retires.
+VC assessment
+The Seven Questions, framed for the AI-cooling stack
+QuestionCallWhy
+Q1 SecretPASSNon-obvious: the rent is in the system, not the fluid.
+Q2 MarketMIXEDFluid TAM tiny (~$0.19B); cooling hardware large (~$5.5B).
+Q3 TimingPASSGB200/GB300 shipping now; demand is binding.
+Q4 TeamPASSOrbital ex-DeepMind; the OEMs are proven operators.
+Q5 DistributionPASSThe NVIDIA certification channel is the route to market.
+Q6 DefensibilitySPLITFAIL for a pure fluid; PASS for a certified system.
+Q7 MissionPASSDirectly cuts data-center energy and water.
+Technology readiness · cooling TRL 9 (deployed) · Orbital coolant ~TRL 5 (2027 qual)
+Timing: now for the system (racks shipping); ~24 months for Orbital's coolant, where the 2027-GPU qualification window is the proof.
+Pattern rhyme: reconductoring, inert-anode aluminium, low-carbon cement, the element commoditizes and the integration and qualification layer keeps the rent (9th instance of T28).
+Contrarian signal: the PFAS exit everyone reads as a fluids opening actually closed the only high-margin fluid mode.
+Verdict box: PASS the integrator and NVIDIA-qualified-supplier seat (largely public and priced). TRACK Orbital as the one venture-scale bundle, contingent on it selling as qualified system rent. FAIL the pure dielectric-fluid pure-play. Watch for a warranty-tied NVIDIA/OCP approved-fluid list as the decisive tell.
+Five picks on AI-designed materials and the compute buildout
+▶
+- https://www.youtube.com/watch?v=40CU4rbO7E4
+Why this one: the inverse-design materials thesis in the founder's own words, the mechanism behind the Orbital and CuspAI headlines that a news item cannot give you.
+Why this one: the bench-level buildout bottleneck nobody prices. Distinct from this edition's own Listen card, it shows the constraint is skilled labour, not chips.
+The take: the first-principles case for solar-plus-battery compute, and why the thermodynamics deletes the "we need gas or nuclear" assumption.
+The take: the market map that puts data centers at 34% of climate VC, the capital context for today's whole edition.
+Fortune: Orbital Industries raises $50M to discover exotic new materials - https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/
+The take: the primary source on the AI-designed coolant shipping in 2027, and exactly how the company frames molecule versus bundle.
+The X thread
+How it reads in four tweets
+ASTRA · 1/4
+Everyone thinks AI data-center cooling + 3M's exit from "forever chemical" fluids = a goldmine for whoever owns the coolant. I went to test it. It's backwards.
+ASTRA · 2/4
+The dominant way to cool a 120kW NVIDIA rack is a cold plate running commodity water + glycol. No molecule to own. The proprietary high-margin mode (two-phase immersion) was CRIPPLED, not opened, by 3M's $12.5B PFAS settlement.
+ASTRA · 3/4
+The whole immersion-fluid market is ~$0.19B/yr vs ~$5.5B of cooling hardware. The fluid is a rounding error. Pricing power sits with integrators (Vertiv, Eaton's $9.5B Boyd buy) + NVIDIA's certified reference designs.
+ASTRA · 4/4
+The one survivor: the first AI-designed molecule to hit a commercial market really is a GPU coolant (Orbital, shipping 2027). But even there the rent is the qualified system, not the compound. If AI designs molecules on demand, the molecule stops being scarce.
+If artificial intelligence can conjure the ideal molecule on demand, where else is the scarce thing quietly shifting from the material to whoever can qualify and certify it?
+Primary sources, no hedging.
+INQ-023 · Data-center liquid cooling / dielectric fluids · WEAKENED 32%.
