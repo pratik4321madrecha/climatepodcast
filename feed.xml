@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 14:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:24:18 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,54 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 27 Aug 2026 14:20:50 +0000</pubDate>
+    <pubDate>Thu, 27 Aug 2026 14:24:17 +0000</pubDate>
+    <item>
+      <title>How a carbon-fibre core doubles a power line without a new tower</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-013-backfill-13</link>
+      <guid isPermaLink="false">astra://episode/astra-013-backfill-13</guid>
+      <pubDate>Thu, 27 Aug 2026 14:24:17 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Restring the 1960s steel core with a composite spar and the same pylons carry ~2x the current at lower loss.
+
+Chapters:
+00:00 AI disclosure
+00:35 How a carbon-fibre core doubles a power line without a new tower
+03:44 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-013-backfill-13.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Restring the 1960s steel core with a composite spar and the same pylons carry ~2x the current at lower loss.
+
+Chapters:
+00:00 AI disclosure
+00:35 How a carbon-fibre core doubles a power line without a new tower
+03:44 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-013-backfill-13.txt</itunes:summary>
+      <itunes:subtitle>How a carbon-fibre core doubles a power line without a new tower</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-013/astra-013-backfill-13.mp3" length="2877926" type="audio/mpeg"/>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-013-backfill-13.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-013-backfill-13.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Why a rare-earth-free magnet still is not an EV-motor business</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-012-backfill-12</link>
