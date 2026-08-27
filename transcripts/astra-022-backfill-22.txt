@@ -1,0 +1,88 @@
+Astra: Climate Tech, Tested in Public
+
+Inert-anode aluminium: the oxygen-evolving smelter works, but it isn't cheaper metal
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Inert-anode aluminium: the oxygen-evolving smelter works, but it isn't cheaper metal
+The oxygen-evolving aluminium smelter works. It is not cheaper metal.
+Inert anodes are proven and now industrial on two lines. The operating-cost win they were sold on is missing, and the silence around it is the finding.
+This research as an audio briefing on Spotify - https://open.spotify.com/episode/0s9FEuivVepzOH6lBNgkWS, about 13 minutes.
+The inert anode is real and now runs on two industrial lines, but the operating-cost win it was supposed to deliver has not shown up. ELYSIS started a 450 kA cell at Alma in November 2025; RUSAL commissioned a second industrial line at Krasnoyarsk in March 2026. Nine months on, neither will publish the current efficiency or the energy-per-kilogram that a cost advantage would let them boast, and the peer-reviewed physics reports a 47% minimum-energy penalty and no demonstrated saving. Verdict: proven technology, unproven cheaper metal.
+Merchant financial-first thesis on inert-anode aluminium
+Confidence this session: 28% → 24% (full run 50 → 38 → 32 → 28 → 24)
++47%
+minimum DC energy penalty vs the carbon cell (9.16 vs 6.25 kWh/kg)
+2 / 0
+industrial lines live, current-efficiency or kWh/kg numbers published
+300 kt
+new CARBON-anode capacity EGA+Sunstone broke ground on in 2026
+Chart 1 · The physics penalty. Minimum theoretical DC energy per kg of aluminium, carbon vs oxygen-evolving anode (JES review, 2026).
+The Workshop · how the cell actually works
+Aluminium smelting has burned its own electrode for 140 years, and the inert anode is the first credible way to stop. The Hall-Heroult process (the only industrial route to primary aluminium) dissolves alumina in molten cryolite at about 960°C and runs current through it using a block of carbon as the anode, the positive electrode. That carbon is not a spectator: oxygen stripped from the alumina attacks it, so the anode burns to CO2 at roughly 1.5 tonnes of CO2 per tonne of metal and is fed in continuously. An inert anode swaps the consumable carbon for a metal-ceramic electrode that does not burn; it evolves oxygen gas instead of CO2. Same cell, same alumina, but the exhaust is O2. Picture replacing a candle wick that shortens as it burns with a filament that glows and stays.
+On the narrow question of does it work, the answer is now a settled yes. ELYSIS, the Rio Tinto and Alcoa joint venture, ran a commercial-size 450 kA cell at Alma, Quebec in November 2025 - https://elysis.com/en/elysis-achieves-breakthrough-with-commercial-size-cell-a-first-in-aluminium-production-using-the, producing metal at P1020 purity (the standard commodity grade, 99.7% aluminium). RUSAL commissioned its second industrial line at Krasnoyarsk in March 2026 - https://realtynmore.com/rusal-commissions-worlds-first-inert/ under its ALLOW INERTA brand, roughly 6,000 cumulative tonnes since 2017. Two independent industrial lines, on two continents, making salable metal with oxygen coming off the anode. The electrochemistry Alcoa abandoned in the 1980s on durability grounds is no longer the blocker.
+Metric
+Carbon anode
+Inert (O2-evolving) anode
+Direct process CO2
+~1.5 t CO2 / t Al
+~0 (evolves O2)
+Min DC energy
+6.25 kWh/kg
+~9.16 kWh/kg (+47%)
+Current efficiency
+~90-96%
+60.3-92%
+Metal purity
+up to 99.9%+
+99.4-99.7% (P1020, aerospace excluded)
+Merchant licences (non-captive)
+n/a (standard)
+0
+2026 new capital (revealed)
+EGA+Sunstone 300 kt/yr; Rio $1.5B AP60
+subsidised demos + green-brand lots
+We went in asking whether a rational smelter buys inert anodes to make metal cheaper, not greener. We now believe it does not, at 24% confidence, down from 50%. The tell is a silence. Current efficiency (the share of current that actually deposits metal rather than being wasted) and kWh/kg (the direct-current energy to make one kilogram) are the two numbers any operating-cost win would let a producer publish to take share. Neither ELYSIS nor RUSAL has released either, nine months and roughly 6,000 cumulative tonnes in. ELYSIS repeats only a qualitative claim that its anodes last 30 times longer than carbon.
+Chart 2 · The belief update. Confidence in the cheaper-metal thesis across four research sessions: each round of primary evidence pushed it down, not up.
+The independent physics runs the wrong way for a cost story. A 2026 peer-reviewed review in the Journal of the Electrochemical Society - https://iopscience.iop.org/article/10.1149/1945-7111/ace332 puts inert-anode current efficiency at 60 to 92% against carbon's 90%-plus, the minimum energy at about 9.16 kWh/kg versus 6.25 for the carbon cell, and operating voltage up 1.15 V. Its own conclusion: no definitive OPEX savings. The oxygen the anode evolves is the same oxygen that used to burn the carbon and release useful heat; take that reaction away and you pay for the heat with electricity. That is where the 47% penalty comes from, and it is a chemistry fact, not a scale-up bug that a bigger cell fixes.
+"Two industrial inert-anode cells now exist, and neither will publish the one number an operating-cost win would let it boast. The non-disclosure is the disclosure."
+When smelters spend their own money in 2026, they buy carbon. EGA, a top-five producer with no captive green mandate, broke ground with Sunstone on a 300,000 t/yr carbon-anode plant in the UAE - https://www.alcircle.com/press-release/ega-and-sunstone-to-begin-construction-of-anode-manufacturing-plant-in-uae-in-2026-116594, first metal around 2028, while Rio's real capital went to the $1.5B carbon-anode AP60 expansion. Inert metal instead sells on a green premium that is thin and barely tradeable: the LME finalised its low-carbon methodology in February 2026 - https://www.fastmarkets.com/insights/ten-key-points-on-low-carbon-steel-aluminium-markets/, tightening the threshold from 10 to 8 tonnes CO2e per tonne (the LME premium being the upcharge a mill pays for verified low-carbon metal), but it is an assessment framework, not a liquid contract, and spot often shows little or no upcharge. And P1020 (the P1020A commodity benchmark, 99.7% aluminium) is the ceiling: inert metal lands at 99.4 to 99.7%, so aerospace at 99.9%-plus is structurally excluded.
+So the durable model is a green-brand compliance asset, owned by incumbents, sold on carbon intensity, not a cost-down. The only tradeable near-term seat is the enabling-materials layer beneath the smelter, not the smelter and not the metal. That reframes the whole opportunity, and it is the point the rest of this edition builds on.
+VERDICT · WEAKENED
+The technology works and is industrial. The 2026-30 merchant financial-first thesis does not. Confidence 28% → 24% (run 50 → 38 → 32 → 28 → 24).
+Most observers price inert anodes as a part swap that kills smelting's CO2. It is a full cell redesign whose economics are best exactly where the grid is already clean, so it decarbonises the hydro smelters that were already low-carbon and barely touches the coal-powered tonnes that emit most. The deal-sourcing filter that follows: do not underwrite the smelter or the metal, underwrite the instrument. The corrosion-resistant Ni-Fe-Cu alloys, the wettable cathodes, and above all the at-amperage wear and current-efficiency diagnostics that every anode developer needs and none will publish, that is where a defensible, buyer-neutral position sits.
+The Wide Lens · State of Climate Tech
+Storage finds its buyer. Form Energy's iron-air book passed 75 GWh contracted - https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/, a 30 GWh Google/Xcel deal (the largest grid battery ever) plus 12 GWh for Crusoe. Multi-day storage's buyer turned out to be the AI build-out, not the utility.
+Capital concentrates. H1 2026 climate-tech funding hit $26.1B, up 55% year on year, but deal count fell 25% - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/, and low-carbon data centres were 34% of it. Fewer, larger, compute-adjacent cheques, the same migration toward integration this edition traces.
+Defence underwrites batteries. Sila took a $1.4B Pentagon loan to scale silicon-anode material. - https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/ When the merchant premium is thin, a sovereign buyer becomes the bankability backstop, exactly what inert-anode metal lacks.
+Public markets thaw. Fervo's geothermal IPO opened up 35%, X-Energy's nuclear listing up 27%, and Proxima Fusion raised a $470M Series A. Firm, dispatchable power is reaching scale capital while intermittent plays wait.
+Failure is signal. Turquoise-hydrogen Sakowin went into liquidation after both buyers walked - https://fuelcellsworks.com/2026/07/14/h2/turquoise-hydrogen-setback-french-deeptech-sakowin-falls-into-liquidation-as-both-buyers-walk, and battery recycler Ascend Elements filed Chapter 11. Grant-dependent and commodity-exposed plays are the ones breaking.
+AI-for-science goes public. DeepMind open-sourced WeatherNext 2 and a Cyclones model with 24 hours more lead time - https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/, and Argonne put multi-agent AI in charge of atomistic materials simulations. The tools are arriving; none is yet pointed at aluminium anodes.
+Long view. Value keeps migrating from the clever element to whoever integrates it and sells the qualified system: inert anode to the materials-and-diagnostics layer, cement to manufactured SCM plus offtake, data-centre cooling to the qualified cold-plate, iron-air won by packaging firm power for hyperscalers. Over the next 12 to 36 months, back the integration layer the material must pass through, not the material.
+Where it sits in the system
+Primary aluminium is roughly 2% of global emissions, and most of that is the power feeding the pot, not the burning anode. That geometry is the whole story: an inert anode removes the process-CO2 slice but leaves the electricity slice untouched, so it delivers most where the grid is already clean and least where coal-fired smelters emit hardest. In a transition that is increasingly about firming clean electrons and qualifying materials, inert-anode aluminium is a downstream compliance product waiting on the grid, while the live value is in the electrochemistry-diagnostics toolchain that any metals decarbonisation has to run through.
+Contrarian Take
+Everyone treats inert anodes as swapping a part to kill smelting's CO2. The primary sources say it is a full cell redesign whose economics are best exactly where the grid is already clean, so it cleans up the smelters that were already clean unless the grid is fixed first. And the tell that settles it is a silence: two industrial producers, years of commercial-grade metal, and not one has published the current efficiency. A firm with an operating-cost win publishes the number to take share. The non-disclosure is the disclosure.
+VC Assessment · The Seven Questions
+Q1 · The secret. Consensus says inert anode = cheaper decarbonised metal. The opex win is unproven and the opacity is the tell.
+Q2 · Big market. Aluminium is huge, but the near-term merchant inert-anode slice is thin and premium-gated.
+Q3 · Timing. This is 2030-plus incumbent optionality, not a now market.
+Q4 · Team / actors. Incumbent-owned (Rio, Alcoa, RUSAL). Not a startup entry point at the smelter.
+Q5 · Distribution / path. Captive Rio-to-Rio only; zero merchant licences.
+Q6 · Defensible. No for the smelter; yes for the enabling-materials and diagnostics IP layer.
+Q7 · Mission. Decarbonising primary aluminium matters at scale.
+TRL ~8 (cell proven) · CRI low (commercial readiness gated on undisclosed opex)
+Verdict. Pass the technology, fail the 2026-30 merchant financial-first thesis. Pattern rhyme: this is the silicon-anode and DRI story again, where the cell is proven but the unit economics stay gated on a number the incumbent will not disclose. The investable seat is the materials arms-dealer layer, buyer-neutral across every competing anode chemistry.
+- https://www.youtube.com/watch?v=P0TwmQzgOko
+▶ WATCH
+Why this one: a non-technical tour of AI-for-materials, the exact tool that is not yet pointed at aluminium anodes, so you see the gap the field still has to close.
+♫ LISTEN
+Why this one: first-principles on the real rate-limiter of the build-out that pays for all of this. The metal is downstream of the electrons, and the electrons are downstream of the labour.
+The +47% energy number in the reviewers' own words, and the sentence that settles the thesis: no definitive OPEX savings.
+Read it for what it does not say: a full commissioning announcement with no current efficiency and no kWh/kg.
+The revealed-preference exhibit: where a non-captive top-five smelter actually puts 2026 anode capital.
+The X Thread
+Two industrial inert-anode aluminium cells now exist (ELYSIS's 450kA at Alma, RUSAL's line at Krasnoyarsk). Neither will publish current efficiency or kWh/kg. Those are exactly the numbers that would prove a cost win. The silence is the finding.
+The peer-reviewed physics runs the other way: ~9.16 vs 6.25 kWh/kg (+47% energy), current efficiency 60-92% vs carbon's 90%+, "no definitive opex savings." And when smelters spend their own money in 2026, they build 300kt/yr of new CARBON-anode capacity.
+So inert anodes are a green-brand compliance asset, not a cheaper way to make metal. The tradeable seat isn't the smelter, it's the enabling-materials layer, the alloys and the wear diagnostics nobody else can supply. Same pattern I keep seeing: value migrates to the integrator.
+If the first producer to publish a real at-amperage current-efficiency number is the one who wins the merchant market, what is everyone else waiting for?
