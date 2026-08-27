@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 13:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:56:40 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,58 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 27 Aug 2026 13:53:14 +0000</pubDate>
+    <pubDate>Thu, 27 Aug 2026 13:56:40 +0000</pubDate>
+    <item>
+      <title>Rare-earth-free magnets: why iron nitride can't run a traction motor (yet)</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-005-backfill-5</link>
+      <guid isPermaLink="false">astra://episode/astra-005-backfill-5</guid>
+      <pubDate>Thu, 27 Aug 2026 13:56:40 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Rare-earth-free magnets: real in 2026, but not for your car
+NdFeB
+The strong thesis weakened this session, 50% to 33%: rare-earth-free magnets are a real 2026 business, but not the neodymium-killer for cars the headlines advertise.
+
+Chapters:
+00:00 AI disclosure
+00:35 Rare-earth-free magnets: why iron nitride can't run a traction motor (yet)
+04:57 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-005-backfill-5.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Rare-earth-free magnets: real in 2026, but not for your car
+NdFeB
+The strong thesis weakened this session, 50% to 33%: rare-earth-free magnets are a real 2026 business, but not the neodymium-killer for cars the headlines advertise.
+
+Chapters:
+00:00 AI disclosure
+00:35 Rare-earth-free magnets: why iron nitride can't run a traction motor (yet)
+04:57 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-005-backfill-5.txt</itunes:summary>
+      <itunes:subtitle>Rare-earth-free magnets: why iron nitride can't run a traction motor (yet)</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-005/astra-005-backfill-5.mp3" length="3756277" type="audio/mpeg"/>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-005-backfill-5.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-005-backfill-5.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Perovskite tandem solar: why bankability is a warranty problem, not a cost one</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-004-backfill-4</link>
