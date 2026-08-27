@@ -1,0 +1,109 @@
+Astra: Climate Tech, Tested in Public
+
+Refrigerant-free "caloric" cooling: real materials, unproven economics
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Refrigerant-free "caloric" cooling: real materials, unproven economics
+Refrigerant-free "caloric" cooling: the materials are real, the economics aren't - yet
+We went in asking whether solid-state "caloric" cooling - squeeze or stretch a solid to pump heat, no refrigerant gas - has become financially rational versus vapour compression, with a licensable material as the moat. Confidence fell from 45% to 30%. The materials science is genuinely real and improving, and Barocal, a Cambridge spin-out, just raised $10M. But no caloric device has shipped, the best measured units move heat across only 3-4 K, the headline efficiencies are simulations, and the regulation the business model needs is both tiny and already undercut by a cheap propane swap. Barocal itself is building the whole system, not licensing the crystal - which tells you where the value really sits.
+Confidence 45% → 30%
+Teal = where we now sit; faded band = where we were.
+3.5-3.8 K
+best MEASURED device span (useful cooling needs ~20-40 K)
+€3 / t
+EU mandatory HFC quota fee - the regulatory whip is tiny
+$10M
+Barocal May-2026 seed - zero disclosed device COP
+Caloric cooling's COP edge is on paper, not in hardware - modelled/material COPs tower over the best MEASURED device (COP never measured) and the mature R290 propane heat pump (SCOP 5.66).
+THE SPINE · WORKSHOP
+Caloric cooling pumps heat by squeezing or stretching a solid, with no refrigerant gas anywhere in the loop. The caloric effect is simple: a solid's temperature and entropy shift when you apply a field. Barocaloric - https://barocal.com/about-us/ devices put hydrostatic pressure on "plastic crystals" like neopentylglycol; elastocaloric ones strain shape-memory alloys such as nitinol; electrocaloric ones apply an electric field to ferroelectrics. Squeeze the material and it heats; dump that heat to ambient; release the pressure and the material cools below where it started; draw heat from the cold side. It is a heat pump built from a block of solid, not a compressor and a canister of HFC.
+The materials are genuinely real and improving fast - this is where the excitement is earned. Neopentylglycol showed a "colossal" barocaloric entropy change of ΔS ~389 J/kg/K near room temperature - https://www.nature.com/articles/s41467-019-09730-9 back in 2019. The 2025-26 work pushed harder: organic ionic plastic crystals now reach ΔS of 92-240 J/kg/K with pressure sensitivity up to 23.7 K/kbar - https://www.science.org/doi/10.1126/science.adq8396, and a neopentyl ternary solid solution now gives an 18 K span at just 1 kbar - https://arxiv.org/abs/2504.16488 - a 7× to 20× jump over NPG at the same low pressure. That directly attacks the old "needs enormous pressure" objection.
+"Parity with existing refrigerator compressors" - Barocal's only public performance claim, with no disclosed number behind it.
+We now believe the strong hypothesis is WEAKENED (45%→30%): the material works, but the device does not yet, and the economics do not close. The gap between a good crystal and a good product is the whole story here, and the measured hardware is far behind the material.
+Measured caloric devices deliver a 3-4 K temperature span; useful AC/refrigeration needs ~20-40 K. Barocal's 40 K is a funded TARGET, not a built device.
+The best measured devices move heat across only 3-4 K, while useful refrigeration needs roughly 20-40 K. The best measured barocaloric prototype delivered a 3.8 K drop and 900 J - https://www.sciencedirect.com/science/article/pii/S2666386424002418; the best measured elastocaloric device, a 2025 beverage-can cooler, reached a 3.5 K span with a COP that was never measured - https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2025.1563997/full (5.8 was simulated). The seductive efficiencies - barocaloric 7.5-14, Barocal's modelled 5.5-13.1 - https://onlinelibrary.wiley.com/doi/10.1002/ente.202401057 - are all material-level or simulation.
+Technology
+Measured device COP
+Measured span
+Notes
+Barocaloric prototype
+not measured
+3.8 K
+900 J; COPs of 7.5-14 are material-level
+Elastocaloric can-cooler (2025)
+simulated 5.8
+3.5 K
+COP never measured on hardware
+Barocal (target)
+modelled 5.5-13.1
+40 K (target)
+EIC-funded 1,000 W unit, not yet built
+R290 propane heat pump
+4-5 (SCOP 5.66)
+full AC/fridge
+GWP 3, mature, shipping today
+Peer review blames the system, not the crystal. Actuators run 30-60% efficient with ~77% work recovery, and nitinol hysteresis of 0.46 J/g is "too large to be competitive with vapour compression" - https://pmc.ncbi.nlm.nih.gov/articles/PMC10955822/. The material's headline entropy is not the constraint; the pumps, seals, fatigue and heat-exchange losses that turn a crystal into a machine are. That is why the measured COP keeps refusing to show up.
+18 K
+new crystal span at 1 kbar - 20× the 2019 material
+0.46 J/g
+nitinol hysteresis - "too large to be competitive"
+40 K
+Barocal's funded span - a TARGET, no unit built
+Now the gating layer: the whole financial case rests on avoiding an F-gas penalty that barely exists. The EU mandatory HFC quota fee is €3/t CO2e - https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/faq_en; the secondary quota only ~€15.9/t - https://refindustry.com/news/market-research/refrigerant-price-monitoring-q4-2024-data/; the US AIM Act sets no public allowance price at all - https://www.epa.gov/hfcs/frequent-questions-phasedown-hydrofluorocarbons. Meanwhile the incumbent simply switches to propane (R290, GWP 3, SCOP up to 5.66) - https://znfu.com/r290-vs-r32/ or CO2 (R744, GWP 1), keeping COP 4-5 at trivial cost. The cautionary analogues are stark: thermoelectric ships everywhere yet is stuck at COP 0.3-0.7, and magnetocaloric, two decades ahead of caloric, still ships only token magnet-cost-limited coolers - https://medium.com/extantia-capital/reinventing-the-fridge-why-we-invested-in-magnotherm-6efa0ba8b71b.
+Regulatory / incumbent lever
+Figure
+What it means for caloric
+EU mandatory HFC quota fee
+€3 / t CO2e
+the whip the model needs is tiny
+EU secondary quota price
+~€15.9 / t
+still trivial vs a compressor swap
+US AIM Act allowance price
+none public
+no US price signal at all
+Incumbent swap: propane R290
+GWP 3, COP 4-5
+a low-GWP heat pump for pennies
+The moat twist is the sharpest signal in the whole edition: the best-funded team is building the fridge, not licensing the crystal. Barocal sits at TRL 5, raised a $10M seed led by World Fund - https://www.worldfund.vc/articles/barocal-raises-10m-to-disrupt-century-old-cooling-industry-with-breakthrough-materials-technology with Breakthrough Energy Discovery, Cambridge Enterprise Ventures and IP Group's £2m, won a $1M TERA-Award, and holds €2.45M from the EIC to build a 40 K / 1,000 W / 2-3× unit - https://cordis.europa.eu/project/id/101218476/de. It owns foundational IP (WO2018069506). Yet it is building the full modular AC and refrigeration system - https://barocal.com/about-us/, not licensing the material. If the crystal were a defensible standalone rent, they would license it. Value is migrating from the element to the integration.
+45% → 30%
+The caloric materials are real and improving, but the device economics don't close in 2026-27 and the durable rent is in the integrated system, not the licensable material.
+The pitch is "solid-state cooling is the refrigerant-free future - back the breakthrough material." Both halves are premature. The material is real but the device is a 3.5 K lab cooler, and the best-funded team in the world is vertically integrating precisely because the crystal alone won't hold rent. The near-term killer isn't a caloric failure - it's that a $12/lb propane swap hands the incumbent a GWP-3, COP-5 heat pump for almost nothing, so the regulation caloric is betting on never becomes the whip its model needs. This is the third cooling-materials story (after radiative-cooling films and data-centre dielectric fluids) to land on the same law: in passive or bolt-on cooling materials, physics is never the bottleneck, capturability is. Ask who owns the loop before asking whether the device works.
+THE WIDE LENS · STATE OF CLIMATE TECH
+$4B
+CFS total raised - ~30% of all fusion capital ever
+34%
+data-centre power's share of all H1'26 climate funding
+~2,600 GW
+US interconnection backlog waiting on the grid
+Fusion crosses into public markets. CFS added $1B, taking its total to ~$4B - https://www.prnewswire.com/news-releases/commonwealth-fusion-systems-raises-another-1-billion-bringing-total-capital-raised-to-4-billion-302837638.html - roughly 30% of all fusion capital ever - for SPARC and ARC, while General Fusion hit 8.4M°C but holds only ~$150M cash through 2028 - https://www.globenewswire.com/news-release/2026/08/18/3347219/0/en/general-fusion-provides-first-public-company-business-update.html. Private fusion capital has passed $12bn across 17 startups over $100m. The field is bifurcating into the capitalised few and the rest.
+AI data-centre demand is the gravity. H1'26 climate-tech funding hit $26.1bn (+55% YoY), with low-carbon data-centre power jumping from 3% to 34% of all climate funding - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/. Base Power took $1B at $13B, Ore Energy raised €37.3M for 100-hour iron-air - https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/, and the US interconnection backlog is now ~2,600 GW - https://eta-publications.lbl.gov/publications/queued-2026-edition-characteristics. Every clean-power thesis now routes through compute demand.
+US offshore wind dismantled by policy. Roughly $4B was paid to cancel projects, including $1.22B to RWE - https://www.bloomberg.com/news/articles/2026-08-06/trump-refunds-4-billion-to-cancel-us-offshore-wind-projects, with funds redirected to LNG and gas peakers. US renewables policy risk is now a first-order variable, not a tail risk.
+LDES consolidates while European cell-making keeps failing. Form Energy took $750m and Hydrostor $80m, while Varta filed for bankruptcy in Germany - https://europeantimes.news/2026/08/varta-files-for-bankruptcy/. Chemistry is well-funded; commodity cell manufacturing in Europe stays uncompetitive against China. Even Form's valuation was reportedly downgraded.
+Carbon removal matures. Frontier and Carbonfuture signed a 750k-credit ethanol BECCS deal - https://interestingengineering.com/innovation/us-largest-ethanol-carbon-capture-deal, and Occidental's 1PointFive plus ADNOC's XRG committed up to $500m for 500kt/yr of DAC - https://carboncredits.com/occidental-and-adnocs-500m-texas-dac-deal-marks-a-global-milestone-in-carbon-removal/, even as Microsoft trims voluntary buys. The buyers are getting bigger and fewer.
+LONG VIEW. The transition's centre of gravity has moved from "can we make clean electrons" to "can we deliver firm, dispatchable power to the compute buildout inside the grid's limits" - and thermal management of that same compute is now its own climate-capital arena. That is the thread this edition pulls.
+Caloric cooling sits at the intersection of materials science and the data-centre thermal-management gold rush. Cooling is ~40% of data-centre energy; if any refrigerant-free solid-state approach hit parity at a useful span, it would ride the same AI-power wave funding liquid cooling and dielectric fluids. It doesn't yet - which is why the money in cooling is going to loops, CDUs and low-GWP vapour compression, not caloric materials.
+Everyone treats solid-state cooling as a materials bet you win by owning the best crystal. The best-funded team on earth just told you otherwise - Barocal is building the whole fridge, not licensing the material. And the regulation the whole category is waiting for is a €3-a-tonne fee the incumbent sidesteps with a propane refill.
+VC ASSESSMENT · SEVEN QUESTIONS
+Consensus it contradicts? Consensus says "back the material"; the secret is the rent is at integration and the F-gas whip never lands.
+Monopoly / rent layer? As a material, no. Barocal is integrating; patent library but commoditisable, no licensable choke-point.
+Real market paying for the inferior version? Yes, cooling is vast - but the incumbent is cheap and improving its GWP via R290/R744.
+One risk not two? Takes both technology risk (device COP/span/cycle-life unproven) and market risk (no disclosed economics, tiny driver).
+Arc position? TRL 5, CRI low. Funded target 40 K / 1,000 W, no demonstrated device COP.
+Financial-first? Only-greener case; even the green case is served more cheaply by R290/R744 today.
+Timing? Re-rate on a first disclosed device COP at ≥20 K span, or a named demonstration customer. 2028-2030 horizon.
+VERDICT: WATCH - hold Barocal as the UK proxy for the category; not a buy until a device COP at a useful span is disclosed.
+- https://www.youtube.com/watch?v=L5sSV2lMHSs
+▶ WATCH
+How Barocaloric Heat Pumps Work: The Future of Green Cooling? - https://www.youtube.com/watch?v=L5sSV2lMHSs - Zema Academy
+Why this one: the clearest visual walk-through of the barocaloric squeeze-heat-release cycle before you diligence Barocal.
+🎧 LISTEN
+Why this one: a real operator on the economics of shipping a better heat pump - the demand-side reality any new cooling tech has to beat.
+The accessible primer across all caloric modalities - barocaloric, elastocaloric, electrocaloric, magnetocaloric in one place.
+The candid company story - and, tellingly, the complete absence of disclosed performance numbers.
+The physics one level deeper - entropy, hysteresis and why the device is harder than the material.
+Solid-state "caloric" cooling squeezes a solid to pump heat with no refrigerant gas. The materials are real: neopentyl crystals now hit an 18 K span at 1 kbar, 20x better than 2019. The hardware isn't: the best measured device moves heat across just 3.5 K.
+The economic case rests on avoiding F-gas rules. But the EU's mandatory HFC fee is €3/tonne CO2e, and a maker can just switch to propane (R290, GWP 3, COP ~5.5) for pennies. The whip caloric is waiting for never lands.
+The tell: Barocal, the best-funded caloric team (Cambridge, $10M seed), is building the whole fridge, not licensing the crystal. Third cooling-materials story to land on the same law - in bolt-on cooling, value sits with whoever owns the loop, not the material.
+If the best-funded team in a materials category is quietly becoming a systems company, is that a signal the material was never the moat - or that the moat only forms once someone owns the whole machine?
