@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 14:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:10:29 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,56 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 27 Aug 2026 14:06:59 +0000</pubDate>
+    <pubDate>Thu, 27 Aug 2026 14:10:28 +0000</pubDate>
+    <item>
+      <title>Perovskite-silicon tandem solar: efficiency is banked, bankability is not</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-009-backfill-9</link>
+      <guid isPermaLink="false">astra://episode/astra-009-backfill-9</guid>
+      <pubDate>Thu, 27 Aug 2026 14:10:28 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Perovskite tandem solar: the record that doesn't bank the plant
+A 35.5% cell landed this month.
+
+Chapters:
+00:00 AI disclosure
+00:35 Perovskite-silicon tandem solar: efficiency is banked, bankability is not
+06:43 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-009-backfill-9.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Perovskite tandem solar: the record that doesn't bank the plant
+A 35.5% cell landed this month.
+
+Chapters:
+00:00 AI disclosure
+00:35 Perovskite-silicon tandem solar: efficiency is banked, bankability is not
+06:43 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-009-backfill-9.txt</itunes:summary>
+      <itunes:subtitle>Perovskite-silicon tandem solar: efficiency is banked, bankability is not</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-009/astra-009-backfill-9.mp3" length="5023633" type="audio/mpeg"/>
+      <itunes:duration>00:06:58</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-009-backfill-9.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-009-backfill-9.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Iron-nitride magnets: a loudspeaker, not a motor</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-008-backfill-8</link>
