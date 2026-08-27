@@ -1,0 +1,96 @@
+Astra: Climate Tech, Tested in Public
+
+Passive radiative cooling: coatings that cool by radiating heat to space
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Passive radiative cooling: coatings that cool by radiating heat to space
+The strong claim WEAKENED this session, confidence 50% to 40%. The physics and the materials are proven and cheap, so the technology risk is retired. What did not survive contact with the numbers is the idea that a photonic film pays for itself on the electricity bill anywhere. Against a plain white roof the saving is about $0.29/m²/yr, humidity strips 62% of the cooling out of exactly the markets that need it most, and even the best refrigeration wedge still carries a 10 to 20% hardware premium. The financial case is real but narrow, and the rent lives in integration and durability, not the coating.
+At a glance
+A passive radiative cooler is a surface that reflects almost all sunlight and radiates its own heat through the sky straight to outer space, so it can sit below air temperature using no power at all. It works. The question was whether that makes it a standalone financial upgrade in 2026. Belief this run:
+VERDICT: WEAKENED
+Confidence 50% → 40%
+Strong form (pays for itself anywhere) WEAKENED to 40%; the refined investable-niche form stands near 72%.
+$0.29 /m²/yr
+RC paint's saving vs a plain white roof
+-62%
+net cooling lost from dry to humid air
+15-20%
+refrigeration energy cut by SkyCool condenser panels
+Chart 1: Radiative cooling pays back only in a narrow wedge: against a plain white roof RC paint saves ~$0.29/m2/yr; only large, hot, high-utilisation refrigeration and mandate-driven cool-roof paint clear a ~3-year bar.
+The spine · workshop (D1 survey)
+Start with the physical mechanism, because it is genuinely elegant. A passive radiative cooler does two things at once: it reflects roughly 95 to 98% of incoming sunlight so it absorbs almost no heat, and it emits its own thermal infrared in the 8 to 13 micrometre band, which is the one wavelength window where the atmosphere is transparent (the "atmospheric window": the slice of the infrared spectrum that water vapour and CO2 do not absorb, so radiation in it passes straight through the sky). Cold outer space sits at about 3 kelvin, so a surface pointed at a clear sky is radiating heat to a near-perfect cold sink and getting almost nothing back. Think of it as a thermos pointed at the universe. When emission out exceeds sunlight absorbed, the surface goes sub-ambient (below the surrounding air temperature) with zero electricity and no moving parts.
+The materials are not the gap, because a decade of replicated records has already retired the technology risk. The field opened with Stanford's 2014 photonic multilayer, the first surface to cool below ambient in direct daylight - https://www.nature.com/articles/nature13883, and matured into paint-like coatings a contractor can actually apply, such as Columbia's 2018 porous polymer coating that hits 0.96 reflectance and 0.97 emittance - https://www.science.org/doi/10.1126/science.aat9513 and Purdue's 2021 barium-sulphate white paint, the whitest ever measured at 98.1% reflectance - https://www.purdue.edu/newsroom/archive/releases/2021/Q2/the-whitest-paint-is-here-and-its-the-coolest.-literally..html. Bare-material cost is trivially low, under a dollar per square metre. The honest bottleneck is bankability and where the value sits, which is exactly the right shape for a financial-first test rather than a physics one.
+Milestone
+Team / year
+Cooling power
+Why it mattered
+Photonic multilayerStanford 201440.1 W/m², ~5°C sub-ambientfirst daytime sub-ambient cooling
+Glass-microsphere filmCU Boulder 201793 W/m²first roll-to-roll scalable route
+Porous P(VdF-HFP) coatingColumbia 201896 W/m²paint-like, no multilayer stack
+BaSO4 white paintPurdue 202198.1% reflectance, ~10 kW / 1000 sqftcommodity-manufacturable
+We went in asking whether radiative-cooling materials are a standalone financial upgrade in 2026, investable on cost and performance alone; we now believe the strong form is wrong, at lower confidence (50% to 40%), because the money fails on three walls even though the device works. The technology is confirmed. The claim that a photonic film pays for itself broadly is what breaks, and it breaks on economics, not physics.
+Wall one is the white-roof baseline, and it is the whole argument. The investment question is film versus cheap white paint, not film versus a dark roof or an air conditioner. Against a plain white roof, a fancy radiative-cooling paint saves only about $0.29/m²/yr on the electricity bill - https://research-hub.nlr.gov/en/publications/energy-impact-of-radiative-cooling-paints-in-warehouses-under-var/, so any premium for the high-tech coating pays back over decades. So what: a generic-photonic-film pitch that assumes a broad sub-3-year payback is underwriting the wrong comparison and is not investable as framed.
+98.1%
+sunlight reflectance of Purdue's record white paint
+~95 → ~15 W/m²
+net cooling: hot-dry desert vs monsoon tropics
+Wall two is humidity, and it puts the best cooling exactly where the demand is not. Water vapour absorbs in the atmospheric window, so as the air gets damp the window closes and the heat can no longer escape. Net cooling falls about 62% from dry to humid air, and above roughly 45% relative humidity a benchmark coating stops cooling and becomes a net heater - https://pmc.ncbi.nlm.nih.gov/articles/PMC11127965/. Sub-ambient cooling can be physically unreachable in tropical daytime, so monsoon India, Southeast Asia and the Gulf, the largest cooling-demand markets on earth, get the least benefit or none. The consensus pitch treats cooling demand as the addressable market; the physics says the addressable market is the dry subset of it.
+Chart 2: Humidity guts the effect where cooling is needed most: net cooling potential falls from ~95 W/m2 in hot-dry deserts to ~15 W/m2 in monsoon tropics.
+Wall three is the cost premium even inside the best wedge. Refrigeration is where radiative cooling should pay, because a condenser runs hot and hard all day, yet SkyCool's panels still cost 10 to 20% more than a conventional condenser and its own Department of Defense demo showed small sites paying back in more than 20 years - https://www.osti.gov/servlets/purl/2562668. Sub-5-year payback needs loads above 50 tons running above 80% utilisation. So the standalone case is not universal even in its home turf; it is a duty-cycle and scale filter.
+What survives is a real but narrow niche, and it is where the physics and the duty cycle line up. The financial case holds in two places. First, large, hot, high-utilisation refrigeration and condenser retrofits, where SkyCool's shipping product cuts refrigeration energy 15 to 20% and lifts cooling COP from 0.11 to 0.21 - https://www.energy.ca.gov/publications/2025/radiative-sky-cooling-enabled-efficiency-improvements-commercial-cooling-systems (COP is coefficient of performance, the cooling delivered per unit of electricity). It did $3.33M of revenue in 2025, a tenfold jump - https://www.propelx.com/blog/skycool-systems-radiative-cooling-climate-tech/, with Target running 600-plus panels across 21 stores. Second, policy-manufactured cool-roof demand where a near-free paint beats a dark roof under a mandate. Here is the application map that decides it.
+Application
+Who
+Measured result
+Payback / verdict
+RC paint vs plain white roofBarber/Ruan warehouse TEA$0.29/m²/yr saved ($0.55 vs black)decades · PASS on the film
+Generic rooftop photonic coatingEnergy Sustain. Dev TEA$24/m² incremental5.3-7.9 yr · marginal
+SkyCool condenser, small siteSkyCool DoD demo10-20% hardware premium)20 yr · fails
+SkyCool condenser, )50-ton )80% utilSkyCool / CEC field15-20% cut, COP 0.11→0.21sub-5 yr · the wedge
+Building cool coating, hot-humidi2Cool, HK Coliseum42% rooftop AC cut, 9,700 m²above-ambient reflective play
+Cool-roof mandate, commodity paintTelangana policy~Rs300/m², 300 km² by 2028~2 yr claimed · policy-beta
+The tell is that the cheap version wins the bankable markets, so the durable seat is not the film. In India and other hot markets the winner is commodity high-SRI paint (SRI is the solar reflectance index, a 0 to 100 measure of how cool a surface stays in sun) from Asian Paints or Berger, not a venture-funded photonic film. In refrigeration the real product is SkyCool's condenser heat-rejection engineering, not the panel. Value migrates from the coating, which commoditises, to durability, humidity tolerance and systems integration, the same wedge pattern seen in heat batteries, sodium anodes and DLE sorbents. The pure-play materials market is still tiny at about $21.5M in 2025, projected near $100M by 2032 - https://reports.valuates.com/market-reports/QYRE-Auto-36M17818/global-passive-radiative-cooling-materials.
+Confidence 50% → 40% (strong form) · the material works and is cheap, but "pays for itself on the bill, broadly investable in 2026" fails against a white roof and in humid air; the case is real only in hot-dry high-utilisation refrigeration and mandate-driven cool-roof paint.
+The durable rent here is durability and systems-integration, not the commodity coating. Three things most observers miss. First, the real competitor is a white roof, so the investment case has to beat $2/m² paint, not an air conditioner, and almost none of the pitches model that comparison. Second, demand and physics are anti-correlated: the biggest cooling markets are humid and get the least benefit, or net-heating, so cooling-demand TAM overstates the addressable market badly. Third, the investable form is not the film at all; it is refrigeration and condenser integration where COP leverage pays the 10 to 20% hardware premium, plus mandate-driven cheap cool-roof paint as a policy-beta volume play. The deal-sourcing screen: back integration and duty-cycle teams and durable humidity-robust materials IP, pass generic-film-for-generic-roof.
+WIDE LENS · STATE OF CLIMATE TECH
+Cooling demand collides with grid stress, and clean power is holding the line. A deadly European heat wave reopened the debate over air conditioning as the fastest-growing electricity load - https://www.carbonbrief.org/, while in the US clean energy helped the grid avoid a heat-wave catastrophe - https://www.canarymedia.com/articles/clean-energy-helped-the-grid-avoid-heat-wave-catastrophe. This is what makes today's topic matter: every watt of passive cooling that never becomes grid load is a watt the system does not have to build, which is precisely why the mandate-driven paint case is stronger than the venture-film case.
+Electrification is becoming the official answer, not just the technical one. The incoming COP31 president called electrification the surest way to protect citizens - https://www.carbonbrief.org/, and a leaked EU electrification strategy points at demand-side policy. The read for cooling: as heat pumps and electric cooling scale, cutting the cooling load at source with reflective surfaces becomes a cheaper first move than adding generation.
+AI data-centre emissions widen faster than efficiency can close them. Microsoft's carbon emissions rose 25% last year on data-centre buildout - https://www.theverge.com/. That is the clearest near-term commercial pull for radiative cooling that is not a roof at all: dry coolers and condensers on data centres are exactly the hot, high-utilisation duty where the physics pays.
+Firm power keeps getting repriced upward. America's first nuclear-plant restart (Palisades) is near the finish line - https://www.canarymedia.com/, as every dispatchable megawatt-hour is bid up by AI load and heat-driven peaks. A cooling technology that shaves peak demand without drawing power is valuable in that scarcity, but only where it actually works.
+Fossil demand rolls over at the top line. Global oil demand fell for the first time since COVID - https://insideclimatenews.org/, a structural marker if it holds, and paired with the electrification arc it says the transition's demand side is starting to bend.
+Long view. Over the next 12 to 36 months two electric demand curves dominate the transition, cooling and compute, both growing faster than forecast. That elevates anything that reduces cooling load without drawing power, but it also exposes the honest limit of passive radiative cooling: it helps most where the air is dry and the asset runs hot, and least in the humid megacities where the load is exploding.
+Ecosystem placement
+Cooling is roughly a fifth of global building electricity today, and the installed base of air conditioners is set to grow from about 1.6 billion units to 5.6 billion by 2050 - https://www.iea.org/reports/the-future-of-cooling, with India's peak cooling share rising from 10% toward 45%. That makes cooling one of the largest single demand-side threats to the grid. Radiative cooling's real role is load avoidance: it sits alongside efficiency, demand response and storage as a way to shave the cooling peak before it hits the wires. But its placement is conditional, not universal, because the map of where it works (hot, dry, high duty-cycle) only partly overlaps the map of where cooling demand explodes (hot, humid, residential). The transition needs both this and a humid-air answer that does not yet exist at a profit.
+The biggest cooling markets and the best passive cooling are anti-correlated. Monsoon India, SE Asia and the Gulf need the most cooling and get the least, or net-heating, from sub-ambient radiative cooling, while the bankable version there is boring commodity reflective paint under a government mandate. And utilities still pay rebates for a technology that supposedly pays for itself.
+VC ASSESSMENT · SEVEN QUESTIONS
+Reference case: SkyCool and the integration wedge. WATCH integration/duty-cycle players; PASS generic-film-for-generic-roof.
+Q1. Does the technology work on the merits (reflectance, emittance, sub-ambient)?PASS
+Q2. Is there a deployed product with paying customers?PASS
+Q3. Does it pay back against the true incumbent (a white roof)?FAIL
+Q4. Does the effect hold in the biggest (humid) cooling markets?FAIL
+Q5. Do the economics clear in the refrigeration/condenser wedge?PASS (narrow)
+Q6. Is the market big enough for a venture outcome?PARTIAL
+Q7. Is the commodity film defensible against cheap high-SRI paint?FAIL
+TRL bar: TRL ~8 for SkyCool (system complete and qualified, shipping to Target and Lineage)
+Verdict: WATCH the integration/duty-cycle players; PASS on generic-film-for-generic-roof. Timing: refrigeration and data-centre wedge investable now, humid-air materials a research bet.
+Pattern rhyme: like heat batteries and sodium anodes, value migrates from the element to integration and manufacturing.
+Contrarian signal: utilities still pay rebates for a technology that supposedly pays for itself.
+Gaps: market size capped by humidity plus the cost premium, and the commodity film has no defensibility against high-SRI paint.
+Verdict box: back a refrigeration/condenser or data-centre dry-cooler integration team now, or durable humidity-robust materials IP; underwrite a generic-roof film only after a clean audited sub-3-year payback prints at enterprise scale.
+► WATCH
+- https://www.youtube.com/watch?v=7a5NyUITbyk
+Why this one: the field's founder explains the atmospheric window in plain language, so the whole mechanism lands in twelve minutes.
+Listen
+Why this one: the applied side, cool roofs and built-environment cooling, from a reputable source, so you hear the deployment reality not just the lab.
+Read
+Why this one: the diligence checklist on what actually blocks scaling, the questions to put to any founder pitching a film.
+Read
+Why this one: the players and the PFAS caveat, the regulatory retreat that could reprice the fluoropolymer coatings.
+Read
+Why this one: plain-English physics plus the India cool-roof scale, the clearest bridge from mechanism to policy market.
+The THREAD · X / Twitter
+Passive radiative cooling: surfaces that reflect ~98% of sunlight and radiate heat through the atmospheric window to outer space, cooling below air temperature with zero electricity. The physics works and the material is cheap (($1/m2). The catch is the money.
+The honest baseline isn't an AC, it's a plain white roof. Against a white roof, radiative-cooling paint saves only ~$0.29/m2/yr. Any premium for the high-tech photonic film pays back over decades, not years.
+Humidity closes the atmospheric window: net cooling drops ~62% from dry to humid air, and above ~45% RH some coatings become net heaters. So monsoon India, SE Asia and the Gulf, the biggest cooling markets, get the least benefit. Demand and physics are anti-correlated.
+If sub-ambient cooling breaks in humid air, what actually cools the monsoon half of the world at a profit, and who will own that material when it arrives?
+Passive radiative cooling, the research edition.
