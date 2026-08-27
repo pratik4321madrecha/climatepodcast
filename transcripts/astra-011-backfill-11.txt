@@ -1,0 +1,110 @@
+Astra: Climate Tech, Tested in Public
+
+Carbon-free aluminium works, but the smelter is bought with a subsidy, not a saving
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Carbon-free aluminium works, but the smelter is bought with a subsidy, not a saving
+INQ-020 · inert-anode aluminium bankability · Session D2
+This research as a podcast · ~14.5 min · 13 chapters
+Play on Spotify → - https://open.spotify.com/episode/54U3lGVdaJU8sD2Q4eizsY the whole edition, narrated.
+Carbon-free aluminium is now proven at commercial amperage, and the merchant case for it got weaker, not stronger, this session. The best independent current efficiency for oxygen-evolving anodes sits at 60-91%, below the century-old carbon anode's 93-96%. Rio Tinto's real $1.5B of 2026 capital went to a carbon-anode line, while the only inert smelter licence went captive to Rio itself on one-third public money. Confidence in the financial-first thesis moved 38% → 32%.
+hypothesis: inert anodes are a financial-first upgrade, not a green premium
+CONFIDENCE 38% → 32% (trajectory 50 → 38 → 32 across sessions)
+60-91%
+independent inert-anode current efficiency (vs carbon 93-96%)
+$1.5B
+Rio Tinto's real 2026 capital - spent on a CARBON-anode line
++3 kWh/kg
+independent energy penalty of inert cells
+industrial-decarb
+aluminium
+materials-science
+UK/Cambridge
+Chart 1 · Peer-reviewed current efficiency of oxygen-evolving anodes sits at or below the carbon anode they replace. Source: IOP/JES review 2023.
+THE SPINE · WORKSHOP · MECHANISM FIRST
+What an inert anode physically is, and why the cell that emits oxygen still loses to the one that burns carbon
+An inert anode is a block of metal or ceramic that gives off oxygen instead of being eaten away. To see why that matters, start with the cell it replaces. Primary aluminium is made by Hall-Heroult smelting (the 1886 process that runs a large electric current through alumina, aluminium oxide, dissolved in a bath of molten cryolite - a sodium-aluminium-fluoride salt - at about 960°C). The current strips oxygen off the alumina and deposits liquid aluminium on the cell floor. The catch is the positive electrode: it is a carbon block that is consumed, reacting with the freed oxygen to leave as CO2. That single reaction emits roughly 1,500 kg of direct CO2 per tonne of aluminium.
+~1,500 kg
+direct CO2 per tonne of aluminium from the consumed carbon anode
+450 kA
+ELYSIS commercial-size inert cell, up from 100 kA in 2021
+Swap the carbon for an inert anode and the cell breathes out oxygen, not carbon dioxide. The useful analogy is a candle versus a lightbulb: the candle burns away and supplies its own heat as it goes; the lightbulb stays intact but you must supply the heat separately. A carbon anode is the candle - it is consumed, and that combustion pours heat into the bath. An inert anode is the lightbulb: it survives, emits O2, and hands you a hidden bill for the heat the burning carbon used to provide.
+Does the technology work? Yes - that part is now settled. The ELYSIS joint venture (Rio Tinto and Alcoa) ran a commercial-size 450 kA cell at Alma, Quebec in November 2025 - https://www.riotinto.com/en/news/releases/2025/elysis-achieves-breakthrough-with-commercial-size-cell, producing metal at P1020 grade (the standard commercial spec, roughly 99.7% pure aluminium). The amperage curve is real engineering progress: 100 kA in 2021 to 450 kA in 2025. The electrochemical principle is not the open question anymore. The open question is whether a smelter would buy it to make money rather than to make a climate claim.
+VERDICT · WEAKENED · 38% → 32%
+We went in asking whether inert-anode smelting is an upgrade a rational smelter buys for lower opex and higher productivity. The technology works on the merits, but the merchant case is now contradicted, not merely unproven: the best independent efficiency data run below carbon, and the one company positioned to commit real capital spent it on the carbon anode instead.
+Front one: the numbers cut against the merchant story. Current efficiency (CE - the fraction of the electric current that actually deposits metal rather than being wasted) is the number the whole opex case turns on. The peer-reviewed independent data put oxygen-evolving anodes at or below carbon, not above it. Every extra point of lost efficiency is metal you did not make for power you did paid for, and inert cells carry a further penalty because they lose the heat the burning carbon used to supply - about +3 kWh/kg and +1 V, pushing the theoretical minimum energy from 6.24 toward 9.16 kWh/kg - https://link.springer.com/chapter/10.1007/978-3-319-72284-9_164.
+Anode
+Current eff.
+Energy kWh/kg
+Direct CO2
+Status
+Carbon (Hall-Heroult)
+93-96%
+~6.25 (theo. min)
+~1.5 t/t Al
+incumbent, live
+Inert SnO2 ceramic
+~91%
+higher (+~3)
+zero
+lab / pilot
+Inert Cu-Al-Ni-Fe alloy
+84.1%
++~3 kWh/kg
+zero
+lab / pilot
+Inert NiFe2O4 cermet
+60.3%
++~3 kWh/kg
+zero
+lab / pilot (100h)
+Source: IOP/JES review 2023 - https://iopscience.iop.org/article/10.1149/1945-7111/ace332; SINTEF / Solheim. The JV's unaudited "+15% productivity / -15% opex" has no independent at-amperage teardown behind it - the single most load-bearing number still does not exist.
+"When Rio Tinto spent merchant dollars this year, it bought the carbon anode. The inert cell got a subsidised demo and a beer can."
+Front two is the sharpest fact: revealed preference. Watch what the money did, not what the press release said. ELYSIS's only "first smelter technology licence" (June 2024) went to Rio Tinto itself - https://www.aluminium-journal.com/elysis-issues-its-first-smelter-technology-licence - captive, a 100 kA ten-pot demo, first production 2027, CAD$650M with roughly 35% public money. The capital that was actually merchant-priced tells the opposite story.
+Chart 2 · Where the 2026 dollars went. Real merchant capital bought the carbon anode; the inert cell got a subsidised captive demo and premium-brand offtake.
+Rio's real 2026 capital went to carbon. Its $1.5B built AP60, a carbon-anode low-carbon line (+160 kt/yr, commissioned June 2026) - https://www.miningweekly.com/article/rio-tinto-commissions-low-carbon-aluminium-smelter-expansion-in-qubec-2026-06-01 that hits roughly one-sixth of industry-average emissions purely by running on Quebec hydropower. Every buyer of the inert metal, meanwhile, is a premium brand buying small lots - https://www.riotinto.com/news/releases/2021/Carbon-free-aluminium-smelting-a-step-closer-ELYSIS-advances-commercial-demonstration-and-operates-at-industrial-scale: Apple, AB InBev for Michelob Ultra cans, Audi for e-tron GT wheels, Ball and Unilever. That is a marketing budget, not a procurement decision.
+Front three: the second gate is the whole-cell heat balance, not just anode durability. Veteran cell modeller Marc Dupuis makes the physical point plainly - https://www.linkedin.com/pulse/elysis-cell-concept-new-marc-dupuis: you cannot easily insulate the top of an open cell that is venting hot, corrosive oxygen, and the main energy-recovery lever - shrinking the anode-cathode distance (ACD, the gap the current crosses in the bath) - itself costs current efficiency. Patents engineer for about one-third heat recovery - https://patents.google.com/patent/US6551489B2/en, but whole-cell recovery at 450 kA is unpublished. Tellingly, a rational major that chose to decarbonise did not pick inert anodes at all: EGA went to nuclear-plus-solar power and recycling - https://media.ega.ae/ega-and-enec-deliver-first-aluminium-produced-with-carbon-free-nuclear-energy/, and Norsk Hydro's HalZero chloride route reaches pilot only around 2030 and claims parity, not an opex win - https://www.hydro.com/en/global/sustainability/our-roadmap-to-net-zero-emissions-in-aluminium-production/halzero-zero-emission-electrolysis-from-hydro.
+The structural point closes the case: inert anodes decarbonise the already-clean smelters and barely touch the coal tonnes that emit most. The economics are best exactly where the power is cleanest and cheapest, and the +3 kWh/kg penalty bites hardest on the dirty coal grids that most need fixing. So what this means for sourcing: this is a 2030-plus incumbent optionality play, not a merchant financial-first upgrade, and the near-term tradeable edge is one layer down from the smelter.
+The tradeable edge is not the smelter - that is incumbent-owned, a decade out, and it cleans the smelters that were already clean. The edge is the enabling-materials arms-dealer layer: corrosion-resistant Ni-Fe-Cu anode alloys, wettable TiB2 cathodes, molten-salt corrosion sensing, sold to whoever eventually scales. This is the sixth instance of the same pattern - value migrating from the device to the materials-and-manufacturing layer, after heat batteries, perovskite, radiative cooling and magnets. The filter: watch the gap between the records (press-release cadence) and the bankability documents (independent CE data, merchant orders). That gap widened this week.
+THE WIDE LENS · STATE OF CLIMATE TECH
+AI-datacentre power is the gravitational centre of climate capital. H1 climate-tech funding hit $26.1bn, up 55%, even as deal count fell 25% - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/ - data centres alone were 34% of it. Money is concentrating into fewer, bigger, power-adjacent bets.
+Fusion had a record year, and Europe became a second pole. The industry pulled in $4.48bn in a single year, $14.24bn cumulative - https://www.fusionindustryassociation.org/fusion-industry-attracts-record-annual-funding-of-4-48bn-raising-total-to-14-24bn/, and Proxima raised EUR411m at a EUR2.4bn valuation with an Oxford office - https://www.proximafusion.com/press-news/proxima-fusion-raises-eu411-million-to-build-europes-commercial-fusion-champion. The capital is no longer only American.
+The firm-clean-power offtake scramble is on. Fervo's Cape Station scales 100 MW in 2026 toward 500 MW by 2028 - https://fervoenergy.com/newsroom-2/, with Meta signing geothermal PPAs. Hyperscalers are pulling firm generation forward by years.
+The CDR monopsony wobbled. Microsoft paused all new carbon-removal buys - https://carbonherald.com/microsoft-pauses-all-carbon-removal-purchases/ and carbon-equity funding fell 61%. A market with one big buyer re-prices fast when that buyer blinks.
+Western offshore wind is meeting a siting veto. Sweden approved two projects and rejected eleven on defence grounds - https://www.wind-watch.org/news/2026/07/17/sweden-permits-two-offshore-wind-farms-denies-11-due-to-defense-concerns/. Permitting, not turbines, is the binding constraint.
+The solar cost curve is plateauing under a trade squeeze. Module price rises have halted - https://www.pv-magazine.com/2026/07/16/rise-in-solar-module-prices-comes-to-a-halt/ as tariffs and supply politics offset the long decline.
+LONG VIEW. The transition is bifurcating into a compute-power supercycle - fusion, geothermal and grid pulled forward by hyperscaler offtake - and a starved abatement tier (CDR, fuels, early-stage) re-pricing as single-buyer demand wobbles. Firm power and grid capacity are the binding constraints through 2028. Aluminium sits in the abatement tier: it decarbonises only once the clean firm power it depends on is already there.
+Placed on the whole system, inert-anode aluminium is a demand-side bet that only pays once the supply-side power bet is won. The metal is 2-3% of global emissions, and inert anodes remove the process CO2 but add electricity load - so their value is downstream of the same firm-clean-power scramble driving fusion and geothermal. Fix cheap clean power first, and inert anodes become attractive; leave the grid dirty, and they can raise total emissions. The topic is one node in the compute-power supercycle, not a standalone win.
+Everyone reads the 450 kA milestone as proof that inert anodes are arriving. The primary sources say the milestone disclosed no current efficiency, no energy, no cost - precisely the numbers that would settle it - and the best independent data show these cells running less efficiently than the century-old carbon cells. A record is not a verdict.
+VC ASSESSMENT · THE SEVEN QUESTIONS (the smelter tech, not a startup)
+Q
+Why
+Q1 Secret / novelPARTIALprinciple proven, but it is a full cell redesign, not a part swap
+Q2 Big marketYESprimary Al ~70 Mt/yr, but inert only fits already-clean-power smelters near-term
+Q3 TimingFAILcommercial maturity ~2030 with repeated slippage; first production 2027 at demo scale
+Q4 TeamPASSRio Tinto / Alcoa credible; ELYSIS well-resourced
+Q5 DistributionFAILonly a captive licence (Rio to Rio); no merchant )100 kt/yr line; premium offtake only
+Q6 DefensibleMIXEDincumbent-owned IP; the investable moat is the enabling-materials layer (VSCA, FFC-Cambridge/Metalysis lineage)
+Q7 MissionPASSreal decarbonisation, but of the cleanest smelters first
+TRL ~6 (demo) · Timing horizon 36 months
+Verdict: PASS on the smelter as an incumbent optionality; TRACK the materials suppliers (VSCA and the FFC-Cambridge / Metalysis molten-salt lineage) as the investable near-term layer.
+enabling-materials
+incumbent-optionality
+2030-plus
+molten-salt-electrochem
+▶ WATCH
+Rio Tinto - the ELYSIS inert-anode process
+Why this one: a primary-source visual of the actual cells and the "emits oxygen, not CO2" mechanism - the physical thing the whole edition is about.
+- https://www.youtube.com/watch?v=Pay9D2u88yk
+▶ LISTEN
+Why this one: the best real audio on the hard-to-abate industrial context aluminium sits inside - the system logic that decides whether a clean-metal process ever pays.
+The primary claim itself - read it for exactly what is and is not disclosed.
+The clearest independent read on the gap between record and bankability.
+The peer-reviewed source for the 60-91% numbers - the technical core of the case.
+THE THREAD · X / TWITTER
+Carbon-free aluminium now works at commercial scale. This week I got more convinced it still isn't a thing a smelter buys to save money. The gap between "it works" and "you'd buy it" is the whole story.
+ELYSIS (Rio Tinto + Alcoa) ran a 450 kA cell that emits oxygen, not CO2, at aircraft-grade purity. Principle proven. But the best INDEPENDENT current efficiency for these anodes is 60-91% vs carbon's 93-96%. That's a productivity penalty, not the claimed +15%.
+Revealed preference is the tell: ELYSIS's only smelter licence went to Rio Tinto itself (1/3 public-funded, a demo). Rio's real $1.5B went to a new CARBON-anode line. Every buyer of the carbon-free metal is a premium brand (Apple, Audi, a beer can).
+If the one number that would settle the merchant case - the ELYSIS cell's measured efficiency and kWh/kg - still does not exist five years into the demo, who benefits from it staying unpublished?
+A belief update, rendered.
