@@ -1,0 +1,249 @@
+Astra: Climate Tech, Tested in Public
+
+Reconductoring: doubling a power line's capacity without building a new one
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## Reconductoring: doubling a power line's capacity without building a new one
+UK · US · INDIA
+This research, as a ~13 min podcast.
+Play on Spotify →
+- https://open.spotify.com/episode/74ZFlIkIRGRbWCWCQFMA3t
+The verdict holds and firms: reconductoring, re-stringing existing towers with composite-core wire, is a real capacity-first grid upgrade, and we now believe it at
+80%
+confidence, up from 75%.
+The physics is settled, a carbon-fibre core that barely expands when hot lets the same tower carry roughly
+2x
+the current at
+25-40%
+lower loss, for under half the cost of a new line. What sharpened this session is the money: it is a capacity play in existing right-of-way, not the loss-savings play vendors sell, whose standalone payback is a slow
+7-15 years
+. And the only thing blocking it is a rate formula that pays a regulated utility more to build new than to re-string old.
+Confirmed · refined
+Confidence: 75% → 80%
+~2x
+Capacity added per line vs a new build
+(half
+$/MW vs a new transmission line
+7-15 yr
+Loss-savings-alone payback
+Chart 1 · Cost-per-mile crossover: dynamic line rating vs reconductoring vs a new line, against the capacity each one buys.
+What the wire actually is, and why heat is the whole game
+Reconductoring is a swap of the wire, not the tower, and the wire that makes it work is a composite-core conductor.
+A standard overhead line is
+aluminium strands wrapped around a steel core
+- https://www.utilitydive.com/news/reconductoring-power-lines-transmission-capacity-goldman-gridlab/712643/ (ACSR, aluminium conductor steel-reinforced); the aluminium carries the current, the steel holds the tension. The advanced version, ACCC (aluminium conductor composite core), replaces that steel with a
+carbon-fibre rod whose thermal expansion is about 14x lower than aluminium's
+- https://www.pnas.org/doi/10.1073/pnas.2411207121 (
+1.61×10⁻⁶
+vs
+23×10⁻⁶
+per °C). Because the core barely lengthens as it heats, the cable does not sag into the trees below when it runs hot, so it can operate at
+180°C
+continuously instead of the
+~75°C
+that limits legacy line. Think of it as swapping a wire's stretchy spine for a rigid one so it stays taut when it warms.
+Property
+Legacy ACSR
+Composite-core ACCC
+Core material
+Steel
+Carbon-fibre composite
+Core expansion (CTE, /°C)
+23×10⁻⁶
+1.61×10⁻⁶ (~14x lower)
+Continuous rating
+~75°C
+180°C (200°C emergency)
+Aluminium (current-carrying metal)
+Baseline
++28%
+Current rating
+Baseline
+~2x
+Resistive line loss
+Baseline
+25-40% lower
+On the merits, the product works: same tower, twice the current
+The rigid, low-expansion core lets you do two things at once, and together they roughly double the line.
+The slimmer core leaves room for about
+28%
+more aluminium in the same diameter, and the high-temperature tolerance lets you push far more current through it, so a re-strung tower carries
+~2x
+the current at
+25-40%
+lower resistive loss,
+independently confirmed in PNAS and by GridLab
+- https://www.pnas.org/doi/10.1073/pnas.2411207121. That is the first-principles case: the device beats its predecessor on physics and performance in the same right-of-way, before a single new pylon is dug.
+The economics are capacity-first, and that reframes everything
+Reconductoring wins on dollars-per-incremental-megawatt in existing right-of-way, not on the energy it saves.
+A re-string runs
+$0.3-1.0M
+per mile against
+$1.5-5.0M
+for a new line, delivered in
+18 months to 3 years
+rather than
+5-15
+, and about
+98%
+of US lines are under 50 miles, so most of the grid is addressable. At national scale
+GridLab and PNAS put it at 4x interzonal capacity for ~20% more spend
+- https://www.pnas.org/doi/10.1073/pnas.2411207121 (
+64
+vs
+16
+TW-miles), worth
+$85B
+of system savings by 2035.
+Approach
+Cost / mile
+Capacity uplift
+Time to energise
+Dynamic line rating (GETs)
+$45-50k
+8.5-17% (weather-dependent)
+Months
+Reconductoring (ACCC)
+$0.3-1.0M
+~2x (100%), durable
+18mo-3yr
+New transmission line
+$1.5-5.0M
+New corridor
+5-15yr
+The one correction this session: loss savings pay back slowly
+Vendors say reconductoring "pays for itself in months" on lower losses; run the numbers and that claim is bundling the capacity value.
+ACCC wire costs about
+2.2x
+its ACSR equivalent, and a first-order calculation of standalone resistive-loss savings recovers that premium only over
+7-15 years
+at $40-100/MWh. So the honest framing is a capacity play in existing right-of-way with a slow-paying loss co-benefit, not a loss play.
+That is why the verdict firms rather than flips: the strongest reason to buy it is capacity-per-dollar, and that reason is bulletproof.
+Verdict · Confirmed
+Confidence 75% → 80%.
+We asked whether composite-core reconductoring is a financial-first way to roughly double line capacity. It is, on capacity-per-dollar in existing right-of-way. The technology wins on the merits; the market question is entirely about how utilities are paid.
+The gate is a rate formula, and it is more stubborn than it looks
+The binding constraint is regulatory capex-bias, not physics or bankability.
+A regulated utility earns its allowed return on rate base (the capital on which it is permitted to earn), so a cheaper upgrade earns it less than an expensive new line, which is a direct incentive to over-build. The fix everyone cites is thinner than advertised: Montana's law grants only
+rate-base eligibility, not a higher return on equity
+- https://mca.legmt.gov/bills/mca/title_0690/chapter_0030/part_0070/section_0140/0690-0030-0070-0140.html, about ten other states
+only "consider" advanced conductors
+- https://advancedenergyunited.org/impact/stories/advanced-transmission-technologies-to-flourish-with-state-legislative-victories/, and
+FERC Order 1920's "consider" carries no deployment teeth
+- https://www.ferc.gov/explainer-transmission-planning-and-cost-allocation-final-rule.
+The mispricing is durable.
+- https://rmi.org/rebalancing-return-on-equity-to-accelerate-an-affordable-clean-energy-future/
+The mispricing is not in a technology. It is in a rate formula that pays a regulated utility more to build an expensive new line than to cheaply re-string an old one.
+Capital is already voting, even while the formula lags
+Reconductoring relieves only the thermal leg of the queue, yet the money is moving anyway.
+It does not touch the co-equal gate of
+transformer lead times of 128-208 weeks
+- https://www.spp.org/engineering/spp-miso-jtiq/, so it is a complement to that chokepoint, not a substitute. But the 2026 flows are unambiguous:
+AEP's $1.6B DOE loan to reconductor 5,000 data-center-driven miles
+- https://www.aep.com/news/stories/view/10501/, a further
+$3.26B for AEP Texas
+- https://www.utilitydive.com/news/doe-closes-up-to-326b-loan-to-aep-texas/824802/, the
+$1.9B DOE SPARK reconductoring program
+- https://www.energy.gov/oe/speed-power-through-accelerated-reconductoring-and-other-key-advanced-transmission-technology (selections due August), and a
+FERC Section 206 show-cause to all six RTOs
+- https://www.mcguirewoods.com/client-resources/alerts/2026/6/ferc-issues-section-206-show-cause-orders-directing-all-six-rtos-isos-to-justify-or-reform-large-load-integration-rules/ on 18 June.
+£31bn
+National Grid RIIO-T3 reconductoring, ~3,500km
+$1.6B
+AEP DOE loan, ~5,000 miles re-strung
+28.6 GW
+Unlocked by SPP-MISO JTIQ portfolio
+Chart 2 · 2026 capital voting: AEP DOE loans, DOE SPARK, SPP-MISO JTIQ and National Grid RIIO-T3.
+The investable seat is not a defensible composite-core startup, and most observers are still looking there.
+The core is now empirically a commodity:
+CTC's flagship patent EP1506085 was revoked
+- https://www.epsilon-composite.com/en/news-event/epsilon-composite-wins-patent-infringement-case-against-ctc-global, the
+IEC TS 62818-1 spec is non-exclusive
+- https://ctcglobal.com/introducing-the-iec-technical-specification-ts-62818-1-fiber-reinforced-composite-cores-for-overhead-line-conductors/, and the
+$1.42B market is already second-sourced
+- https://www.globalgrowthinsights.com/market-reports/aluminum-conductor-composite-core-accc-market-127431 across six-plus makers. This is a seventh instance of value migrating from the element to integration, qualification and deployment. The tradeable edges are the incumbent-scale wire makers, the qualification and installation layer, grid-AI software complements, and above all the regulated build-out itself. The one genuine European white-space is carbon-fibre core pultrusion, where
+Exel in Finland is the sole EU source and the UK imports cores
+- https://exelcomposites.com/composite-conductor-cores/.
+The Wide Lens · State of Climate Tech
+AI-datacentre load is the gravity well bending the whole field.
+US demand has nearly doubled as
+datacentre draw went 23GW to 42GW with a queue above 2,600GW
+- https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid, and clean supply cannot keep pace, so gas wins the near term, which is precisely why grid delivery and reconductoring now command a premium.
+Fusion crossed into project finance.
+A record
+$4.48bn flowed to fusion in the year to July, up 69%
+- https://www.fusionindustryassociation.org/fusion-industry-attracts-record-annual-funding-of-4-48bn-raising-total-to-14-24bn/, with the first pre-IPO rounds, a sign the sector is being priced against AI-power PPAs rather than pure science risk.
+Grid-intelligence software is the capital-light wedge.
+Gridcog's $8.3M Series A from ABB Electrification Ventures
+- https://www.saasrise.com/deals/gridcog-raises-125-million-in-series-a-round-2ca3f849-fd16-45ff-90bb-64021661bcff to push grid-modelling SaaS into the UK and Europe is the most replicable opening for a non-hardware entrant.
+Green-hydrogen steel is consolidating around captive offtakers.
+ArcelorMittal walked from a €1.3bn German DRI plant despite subsidy
+- https://gmk.center/en/posts/major-pause-in-eu-steel-industry-decarbonization-projects/ as a ~2x opex gap held, so the market is voting for scrap-fed EAF over merchant hydrogen.
+Perovskite records are marching toward manufacturability.
+LONGi certified a 35.5% silicon-perovskite tandem cell
+- https://www.prnewswire.com/news-releases/35-5-longi-once-again-breaks-world-record-for-crystalline-silicon-perovskite-tandem-solar-cell-efficiency-302827280.html, and
+shelf-stable inks now hold over 300 days
+- https://www.nature.com/nenergy/articles?type=article&year=2026, shifting the story from lab efficiency to cheap production.
+Brussels blinked on carbon price.
+The
+17 July EU ETS revision slows the cap-tightening rate
+- https://asuene.com/us/blog/eu-ets-reform-2026-what-the-july-17-proposal-means-for-cbam-importers-and-carbon-costs on competitiveness grounds, which softens the signal for the priciest abatement and pushes decarbonisation toward what already pencils.
+Long view.
+AI power demand is now the decisive force, and the next phase is delivering firm clean power fast. The cheap, geopolitically-safe layer, LFP and sodium storage, ex-China tandem PV, grid-AI and reconductoring, compounds; the expensive subsidy-dependent layer, green-hydrogen steel and unpriced carbon removal, consolidates around captive offtakers. The UK and Cambridge openings sit in grid-AI software and the ex-China supply build-out, not in new hardware chemistry.
+Ecosystem Placement
+Reconductoring is the fast, cheap delivery layer of the energy transition, and in 2026 delivery is the binding constraint, not generation.
+Solar, wind and storage are already cheaper than the fossil incumbents at the device level; what stalls is connecting them to load through a grid that was built for a smaller, steadier system. Reconductoring sits alongside storage and dynamic line rating as the tools that squeeze more usable capacity out of existing corridors, while new lines and transformers remain the slow, expensive backstop. It is the supply-side complement to making AI load itself flexible: relieve the thermal limit with better wire, shave the peak with smarter demand, and the queue clears years faster than a build-only strategy allows.
+Contrarian take
+Everyone frames the grid bottleneck as "we need to build." The evidence says close to 90% of the near-term interzonal capacity the US needs by 2035 can come from re-stringing lines that already exist, at under half the cost and a third of the time, and the reason it is not happening is a rate formula that rewards the expensive option. The sharper edge: the "obvious fix" people point to, Montana's advanced-conductor law, does not even do what it is credited with, so the mispricing is not about to self-correct. The money will flow, but to the regulated asset owner and the incumbent wire makers, never to a composite-core moat that has already been revoked in court.
+VC Assessment · Seven Questions
+Q1
+Does the technology work on the merits? Composite core delivers ~2x current at 25-40% lower loss, independently confirmed.
+Q2
+Large, growing market? AI-load queue )2,600GW, $85B system savings by 2035, £31bn UK programme.
+Q3
+Defensible moat in the core? Patent revoked, spec non-exclusive, six-plus second sources. Commodity.
+Q4
+Compelling unit economics? Under half the $/MW of a new line in existing right-of-way; capacity-first.
+Q5
+Why now? DOE loans closing, DOE SPARK, FERC 206 to all RTOs, RIIO-T3 awarded.
+Q6
+Venture-scale hardware entry? Value accrues to the regulated owner and incumbents, not a startup.
+Q7
+Clear regulatory adoption path? Capex-bias durable; the "fix" is toothless at the federal level.
+Technology readiness (TRL 9 · commercially deployed)
+Verdict:
+the product is a clean PASS; the venture is not. Back the enabling layer, the regulated build-out, qualification and installation services, and grid-AI software, and treat any "proprietary composite-core" pitch as a commodity in disguise. Pattern rhyme: value migrating from a novel material to the integration around it, the same arc seen in batteries, catalysts and electrolysers.
+▶ WATCH
+AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering
+No Priors, with Liam Fedus. The AI-for-atoms argument from a ChatGPT co-builder, the materials-discovery counterpart to today's lesson that value lives in integration, not the material.
+- https://www.youtube.com/watch?v=Oru2Jxr1xHU
+♫ LISTEN
+Catalyst: The rise of flexible data centers
+- https://open.spotify.com/episode/6uGsi3wQnIc7wTVrmF9qSw
+Shayle Kann with Emerald AI's Varun Sivaram. The clearest case for turning AI load into a grid asset, the demand-side complement to reconductoring's supply-side fix.
+Open →
+- https://open.spotify.com/episode/6uGsi3wQnIc7wTVrmF9qSw
+GridLab / UC Berkeley + PNAS on reconductoring
+- https://www.utilitydive.com/news/reconductoring-power-lines-transmission-capacity-goldman-gridlab/712643/
+The primary techno-economic case, 4x capacity at half the cost, in one place.
+Open →
+- https://www.utilitydive.com/news/reconductoring-power-lines-transmission-capacity-goldman-gridlab/712643/
+Epsilon Composite wins its patent case vs CTC Global
+- https://www.epsilon-composite.com/en/news-event/epsilon-composite-wins-patent-infringement-case-against-ctc-global
+The single fact that kills the defensible composite-core moat, EP1506085 revoked.
+Open →
+- https://www.epsilon-composite.com/en/news-event/epsilon-composite-wins-patent-infringement-case-against-ctc-global
+Jan Rosenow: Batteries are quietly rewiring the grid
+- https://janrosenow.substack.com/p/batteries-are-quietly-rewiring-the
+The storage build-out that partners with transmission, 5GW to 45GW, projects over 200MW jump 43% to 74% of the pipeline.
+Open →
+- https://janrosenow.substack.com/p/batteries-are-quietly-rewiring-the
+On X
+· 1/3
+Reconductoring - re-stringing existing transmission towers with carbon-fibre composite-core wire - roughly doubles a line's capacity for under half the cost of a new line, in 18mo-3yr not 5-15yr. The cheapest grid fix for the AI-load era already exists.
+· 2/3
+The catch isn't physics. A regulated utility earns a return on capital, so a cheap upgrade earns it less than an expensive new line. The "fix" everyone cites (Montana's law) grants rate-base eligibility, not a higher return. The mispricing is a rate formula, and it's durable.
+· 3/3
+And there's no moat in the wire: CTC Global's flagship composite-core patent was revoked, the spec is non-exclusive, 6+ makers second-source it. Durable value sits in qualification, installation and the regulated asset owner - the 7th time I've watched value migrate from the material to the integration.
+If the cheapest fix is already strung on towers we built decades ago, which regulator rewrites the formula first, and who is standing there when they do?
