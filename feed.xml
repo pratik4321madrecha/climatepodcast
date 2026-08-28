@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 15:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:27:44 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,56 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 27 Aug 2026 15:13:25 +0000</pubDate>
+    <pubDate>Fri, 28 Aug 2026 22:27:41 +0000</pubDate>
+    <item>
+      <title>Astra edition 2026-08-28</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-027-2026-08-28</link>
+      <guid isPermaLink="false">astra://episode/astra-027-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 22:27:41 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Our confidence that multiday storage is not merchant-bankable in twenty twenty-six hardened today, and the strong version of our thesis weakened again, from thirty-five to twenty-eight percent, while the refined belief moved up to seventy-four. The rest of the field this week pointed at one pattern: flexibility, not just storage, is where capital is going.
+
+Chapters:
+00:00 AI disclosure
+00:35 Why Iron-Air's Missing Numbers Are the Whole Story
+03:20 The Week Storage Got a New Rival Called Flexibility
+04:33 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-2026-08-28.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Our confidence that multiday storage is not merchant-bankable in twenty twenty-six hardened today, and the strong version of our thesis weakened again, from thirty-five to twenty-eight percent, while the refined belief moved up to seventy-four. The rest of the field this week pointed at one pattern: flexibility, not just storage, is where capital is going.
+
+Chapters:
+00:00 AI disclosure
+00:35 Why Iron-Air's Missing Numbers Are the Whole Story
+03:20 The Week Storage Got a New Rival Called Flexibility
+04:33 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-2026-08-28.txt</itunes:summary>
+      <itunes:subtitle>Astra edition 2026-08-28</itunes:subtitle>
+      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-027/astra-027-2026-08-28.mp3" length="3466284" type="audio/mpeg"/>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-027-2026-08-28.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-2026-08-28.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-027-2026-08-28.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Thermophotovoltaic thermal batteries: why a 40% cell isn't a lithium-killer</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-027-backfill-242026</link>
@@ -85,7 +134,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-027-backfill-242026.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-backfill-242026.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-027-backfill-242026.json" type="application/json+chapters"/>
     </item>
@@ -136,7 +185,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-025-backfill-25.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-025-backfill-25.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-025-backfill-25.json" type="application/json+chapters"/>
     </item>
@@ -185,7 +234,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-024-backfill-24.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-024-backfill-24.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-024-backfill-24.json" type="application/json+chapters"/>
     </item>
@@ -236,7 +285,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-023-backfill-23.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-023-backfill-23.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-023-backfill-23.json" type="application/json+chapters"/>
     </item>
@@ -283,7 +332,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-022-backfill-22.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-022-backfill-22.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-022-backfill-22.json" type="application/json+chapters"/>
     </item>
@@ -330,7 +379,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-021-backfill-21.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-021-backfill-21.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-021-backfill-21.json" type="application/json+chapters"/>
     </item>
@@ -387,7 +436,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-020-backfill-20.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-020-backfill-20.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-020-backfill-20.json" type="application/json+chapters"/>
     </item>
@@ -438,7 +487,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-019-backfill-19.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-019-backfill-19.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-019-backfill-19.json" type="application/json+chapters"/>
     </item>
@@ -489,7 +538,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-018-backfill-18.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-018-backfill-18.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-018-backfill-18.json" type="application/json+chapters"/>
     </item>
@@ -550,7 +599,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-017-backfill-17.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-017-backfill-17.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-017-backfill-17.json" type="application/json+chapters"/>
     </item>
@@ -601,7 +650,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-016-backfill-16.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-016-backfill-16.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-016-backfill-16.json" type="application/json+chapters"/>
     </item>
@@ -652,7 +701,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-015-backfill-15.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-015-backfill-15.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-015-backfill-15.json" type="application/json+chapters"/>
     </item>
@@ -721,7 +770,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-014-backfill-14.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-014-backfill-14.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-014-backfill-14.json" type="application/json+chapters"/>
     </item>
@@ -768,7 +817,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-013-backfill-13.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-013-backfill-13.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-013-backfill-13.json" type="application/json+chapters"/>
     </item>
@@ -815,7 +864,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-012-backfill-12.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-012-backfill-12.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-012-backfill-12.json" type="application/json+chapters"/>
     </item>
@@ -868,7 +917,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-011-backfill-11.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-011-backfill-11.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-011-backfill-11.json" type="application/json+chapters"/>
     </item>
@@ -917,7 +966,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-010-backfill-10.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-010-backfill-10.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-010-backfill-10.json" type="application/json+chapters"/>
     </item>
@@ -966,7 +1015,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-009-backfill-9.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-009-backfill-9.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-009-backfill-9.json" type="application/json+chapters"/>
     </item>
@@ -1015,7 +1064,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-008-backfill-8.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-008-backfill-8.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-008-backfill-8.json" type="application/json+chapters"/>
     </item>
@@ -1064,7 +1113,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-007-backfill-7.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-007-backfill-7.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-007-backfill-7.json" type="application/json+chapters"/>
     </item>
@@ -1117,7 +1166,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-006-backfill-6.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-006-backfill-6.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-006-backfill-6.json" type="application/json+chapters"/>
     </item>
@@ -1168,7 +1217,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-005-backfill-5.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-005-backfill-5.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-005-backfill-5.json" type="application/json+chapters"/>
     </item>
@@ -1215,7 +1264,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-004-backfill-4.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-004-backfill-4.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-004-backfill-4.json" type="application/json+chapters"/>
     </item>
@@ -1262,7 +1311,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-003-backfill-3.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-003-backfill-3.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-003-backfill-3.json" type="application/json+chapters"/>
     </item>
@@ -1309,7 +1358,7 @@ Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astr
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/cover.jpg"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-002-backfill-2.jpg"/>
       <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-002-backfill-2.txt" type="text/plain"/>
       <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-002-backfill-2.json" type="application/json+chapters"/>
     </item>
