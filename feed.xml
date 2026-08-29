@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 22:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:32:20 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -80,7 +80,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-2026-08-28.txt</itunes:summary>
       <itunes:subtitle>Astra edition 2026-08-28</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-027/astra-027-2026-08-28.mp3" length="3466284" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-027-2026-08-28.mp3" length="3466284" type="audio/mpeg"/>
       <itunes:duration>00:04:48</itunes:duration>
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -129,7 +129,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-027-backfill-242026.txt</itunes:summary>
       <itunes:subtitle>Thermophotovoltaic thermal batteries: why a 40% cell isn't a lithium-killer</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-027/astra-027-backfill-242026.mp3" length="4606407" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-027-backfill-242026.mp3" length="4606407" type="audio/mpeg"/>
       <itunes:duration>00:06:23</itunes:duration>
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -180,7 +180,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-025-backfill-25.txt</itunes:summary>
       <itunes:subtitle>The HTS tape fusion runs on - and why owning the bottleneck is the trap</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-025/astra-025-backfill-25.mp3" length="4131184" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-025-backfill-25.mp3" length="4131184" type="audio/mpeg"/>
       <itunes:duration>00:05:44</itunes:duration>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -229,7 +229,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-024-backfill-24.txt</itunes:summary>
       <itunes:subtitle>Refrigerant-free "caloric" cooling: real materials, unproven economics</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-024/astra-024-backfill-24.mp3" length="3540293" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-024-backfill-24.mp3" length="3540293" type="audio/mpeg"/>
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +280,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-023-backfill-23.txt</itunes:summary>
       <itunes:subtitle>Carbon-fibre conductors: why re-stringing an old tower beats a new line, and why the profit is </itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-023/astra-023-backfill-23.mp3" length="2928426" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-023-backfill-23.mp3" length="2928426" type="audio/mpeg"/>
       <itunes:duration>00:04:03</itunes:duration>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -327,7 +327,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-022-backfill-22.txt</itunes:summary>
       <itunes:subtitle>Inert-anode aluminium: the oxygen-evolving smelter works, but it isn't cheaper metal</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-022/astra-022-backfill-22.mp3" length="3763497" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-022-backfill-22.mp3" length="3763497" type="audio/mpeg"/>
       <itunes:duration>00:05:13</itunes:duration>
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -374,7 +374,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-021-backfill-21.txt</itunes:summary>
       <itunes:subtitle>AI data-center cooling: why the dielectric fluid is not the moat</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-021/astra-021-backfill-21.mp3" length="3460979" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-021-backfill-21.mp3" length="3460979" type="audio/mpeg"/>
       <itunes:duration>00:04:48</itunes:duration>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -431,7 +431,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-020-backfill-20.txt</itunes:summary>
       <itunes:subtitle>Low-carbon cement: why the bankable route is a manufactured additive, not clever chemistry</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-020/astra-020-backfill-20.mp3" length="4109260" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-020-backfill-20.mp3" length="4109260" type="audio/mpeg"/>
       <itunes:duration>00:05:42</itunes:duration>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -482,7 +482,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-019-backfill-19.txt</itunes:summary>
       <itunes:subtitle>AI data-center cooling: why the special fluid is not the moat</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-019/astra-019-backfill-19.mp3" length="3893250" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-019-backfill-19.mp3" length="3893250" type="audio/mpeg"/>
       <itunes:duration>00:05:24</itunes:duration>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -533,7 +533,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-018-backfill-18.txt</itunes:summary>
       <itunes:subtitle>How carbon-fibre-core power lines double grid capacity, and why transformers cap the win</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-018/astra-018-backfill-18.mp3" length="3828389" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-018-backfill-18.mp3" length="3828389" type="audio/mpeg"/>
       <itunes:duration>00:05:18</itunes:duration>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -594,7 +594,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-017-backfill-17.txt</itunes:summary>
       <itunes:subtitle>Inert-anode aluminium: the two numbers a $1B joint venture won't publish</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-017/astra-017-backfill-17.mp3" length="4224285" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-017-backfill-17.mp3" length="4224285" type="audio/mpeg"/>
       <itunes:duration>00:05:51</itunes:duration>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -645,7 +645,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-016-backfill-16.txt</itunes:summary>
       <itunes:subtitle>Why the bankable low-carbon cement is the boring one, not the clever chemistry</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-016/astra-016-backfill-16.mp3" length="3741862" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-016-backfill-16.mp3" length="3741862" type="audio/mpeg"/>
       <itunes:duration>00:05:11</itunes:duration>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -696,7 +696,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-015-backfill-15.txt</itunes:summary>
       <itunes:subtitle>Radiative cooling: the paint that beams heat to space, and why it cannot be a business</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-015/astra-015-backfill-15.mp3" length="2863528" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-015-backfill-15.mp3" length="2863528" type="audio/mpeg"/>
       <itunes:duration>00:03:58</itunes:duration>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -765,7 +765,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-014-backfill-14.txt</itunes:summary>
       <itunes:subtitle>Reconductoring: doubling a power line's capacity without building a new one</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-014/astra-014-backfill-14.mp3" length="3324317" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-014-backfill-14.mp3" length="3324317" type="audio/mpeg"/>
       <itunes:duration>00:04:36</itunes:duration>
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -812,7 +812,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-013-backfill-13.txt</itunes:summary>
       <itunes:subtitle>How a carbon-fibre core doubles a power line without a new tower</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-013/astra-013-backfill-13.mp3" length="2877926" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-013-backfill-13.mp3" length="2877926" type="audio/mpeg"/>
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -859,7 +859,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-012-backfill-12.txt</itunes:summary>
       <itunes:subtitle>Why a rare-earth-free magnet still is not an EV-motor business</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-012/astra-012-backfill-12.mp3" length="3108324" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-012-backfill-12.mp3" length="3108324" type="audio/mpeg"/>
       <itunes:duration>00:04:18</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -912,7 +912,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-011-backfill-11.txt</itunes:summary>
       <itunes:subtitle>Carbon-free aluminium works, but the smelter is bought with a subsidy, not a saving</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-011/astra-011-backfill-11.mp3" length="4267555" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-011-backfill-11.mp3" length="4267555" type="audio/mpeg"/>
       <itunes:duration>00:05:55</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -961,7 +961,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-010-backfill-10.txt</itunes:summary>
       <itunes:subtitle>Carbon-free aluminium works at commercial scale - but the inert anode may not pay</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-010/astra-010-backfill-10.mp3" length="3634031" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-010-backfill-10.mp3" length="3634031" type="audio/mpeg"/>
       <itunes:duration>00:05:02</itunes:duration>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1010,7 +1010,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-009-backfill-9.txt</itunes:summary>
       <itunes:subtitle>Perovskite-silicon tandem solar: efficiency is banked, bankability is not</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-009/astra-009-backfill-9.mp3" length="5023633" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-009-backfill-9.mp3" length="5023633" type="audio/mpeg"/>
       <itunes:duration>00:06:58</itunes:duration>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1059,7 +1059,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-008-backfill-8.txt</itunes:summary>
       <itunes:subtitle>Iron-nitride magnets: a loudspeaker, not a motor</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-008/astra-008-backfill-8.mp3" length="2978847" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-008-backfill-8.mp3" length="2978847" type="audio/mpeg"/>
       <itunes:duration>00:04:08</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1108,7 +1108,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-007-backfill-7.txt</itunes:summary>
       <itunes:subtitle>Why methane feed additives only pay for themselves in the feedlot</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-007/astra-007-backfill-7.mp3" length="3309888" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-007-backfill-7.mp3" length="3309888" type="audio/mpeg"/>
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1161,7 +1161,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-006-backfill-6.txt</itunes:summary>
       <itunes:subtitle>Iron-nitride magnets: strong but soft, and why that makes them a ferrite replacement, not an EV</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-006/astra-006-backfill-6.mp3" length="2676396" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-006-backfill-6.mp3" length="2676396" type="audio/mpeg"/>
       <itunes:duration>00:03:42</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1212,7 +1212,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-005-backfill-5.txt</itunes:summary>
       <itunes:subtitle>Rare-earth-free magnets: why iron nitride can't run a traction motor (yet)</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-005/astra-005-backfill-5.mp3" length="3756277" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-005-backfill-5.mp3" length="3756277" type="audio/mpeg"/>
       <itunes:duration>00:05:12</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1259,7 +1259,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-004-backfill-4.txt</itunes:summary>
       <itunes:subtitle>Perovskite tandem solar: why bankability is a warranty problem, not a cost one</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-004/astra-004-backfill-4.mp3" length="3093920" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-004-backfill-4.mp3" length="3093920" type="audio/mpeg"/>
       <itunes:duration>00:04:17</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1306,7 +1306,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-003-backfill-3.txt</itunes:summary>
       <itunes:subtitle>Radiative cooling's real market is the AI data centre, not the roof</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-003/astra-003-backfill-3.mp3" length="2964447" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-003-backfill-3.mp3" length="2964447" type="audio/mpeg"/>
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1353,7 +1353,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-002-backfill-2.txt</itunes:summary>
       <itunes:subtitle>Passive radiative cooling: coatings that cool by radiating heat to space</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-002/astra-002-backfill-2.mp3" length="4116452" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-002-backfill-2.mp3" length="4116452" type="audio/mpeg"/>
       <itunes:duration>00:05:42</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1402,7 +1402,7 @@ Chapters:
 
 Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-001-2026-08-26.txt</itunes:summary>
       <itunes:subtitle>Astra edition 2026-08-26</itunes:subtitle>
-      <enclosure url="https://github.com/pratik4321madrecha/climatepodcast/releases/download/ep-001/astra-001-2026-08-26.mp3" length="2724302" type="audio/mpeg"/>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-001-2026-08-26.mp3" length="2724302" type="audio/mpeg"/>
       <itunes:duration>00:03:46</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
