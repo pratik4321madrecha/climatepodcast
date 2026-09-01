@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 23:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:50:04 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,76 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Mon, 31 Aug 2026 23:52:29 +0000</pubDate>
+    <pubDate>Tue, 01 Sep 2026 23:49:59 +0000</pubDate>
+    <item>
+      <title>Solid-state cooling: why the caloric material never captures the rent · 01 Sep</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-029-2026-09-01</link>
+      <guid isPermaLink="false">astra://episode/astra-029-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 23:49:59 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Caloric solid-state cooling - fridges and heat pumps that use a solid instead of a refrigerant gas - is finally shipping, but the money lodges downstream of the clever material. The settling proof is a University of Cambridge Nature 2026 result that builds an electrocaloric ceramic into a standard multilayer ceramic capacitor - https://passive-components.eu/electrocaloric-multilayer-capacitors-towards-quiet-solid-state-cooling-around-room-temperature/ made on conventional lines - when the caloric element becomes a catalogue part, the volume rent flows to the Asian MLCC makers, not the lab. Meanwhile the only caloric revenue that exists is integrated hardware: MagnoTherm's ~EUR6,500 magnetic cooling cabinet runs 15% below propane at REWE - https://naturalrefrigerants.com/news/magnotherm-rolls-out-refrigerant-free-magnetic-cooling-cabinets-in-rewe-stores/ and its new 125 kW Stellar targets data centres - https://naturalrefrigerants.com/news/magnotherm-announces-stellar-a-125kw-refrigerant-free-magnetic-cooling-system-for-data-centers-hvac-and-industry/, while Carrier bought equity in elastocaloric Exergyn rather than licensing its nitinol - https://www.coolingpost.com/world-news/carrier-invests-in-solid-state-heat-pump/. The fatigue gate is being engineered out (a textured TiNi alloy held −15.9 K after 10 million cycles - https://www.nature.com/articles/s41467-026-68835-0), and the commercial pull is the refrigerant phase-down plus air-conditioning becoming a top driver of global electricity demand - https://www.iea.org/news/air-conditioning-use-emerges-as-one-of-the-key-drivers-of-global-electricity-demand-growth. Verdict: the technology works and wins niches, but the material is the fastest-commoditising layer - value migrates to integration, qualification and the picks-and-shovels suppliers.
+
+📺 Watch: How Magnetic Cooling Is Breaking All the Rules - Undecided with Matt Ferrell - https://www.youtube.com/watch?v=qcscUoP8FNk
+
+🎧 Listen: The case for colocating data centers and generation - Catalyst with Shayle Kann - https://open.spotify.com/episode/38XwcFm6Vl0lpOhufRBFgL
+
+📖 Read: Solid-State Cooling with Caloric Materials - Physics Today primer - https://physicstoday.aip.org/features/solid-state-cooling-with-caloric-materials
+
+📖 Read: Heat-driven elastocaloric cooling with shape-memory films - Nature Energy 2026 - https://www.nature.com/articles/s41560-026-02122-6
+
+📖 Read: Air conditioning is now a key driver of global electricity demand - IEA - https://www.iea.org/news/air-conditioning-use-emerges-as-one-of-the-key-drivers-of-global-electricity-demand-growth
+
+Chapters:
+00:00 AI disclosure
+00:35 Why the Caloric Material Doesn't Capture the Rent
+03:05 Why Cooling Is Becoming an Electricity Story
+04:38 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-029-2026-09-01.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Caloric solid-state cooling - fridges and heat pumps that use a solid instead of a refrigerant gas - is finally shipping, but the money lodges downstream of the clever material. The settling proof is a University of Cambridge Nature 2026 result that builds an electrocaloric ceramic into a standard multilayer ceramic capacitor - https://passive-components.eu/electrocaloric-multilayer-capacitors-towards-quiet-solid-state-cooling-around-room-temperature/ made on conventional lines - when the caloric element becomes a catalogue part, the volume rent flows to the Asian MLCC makers, not the lab. Meanwhile the only caloric revenue that exists is integrated hardware: MagnoTherm's ~EUR6,500 magnetic cooling cabinet runs 15% below propane at REWE - https://naturalrefrigerants.com/news/magnotherm-rolls-out-refrigerant-free-magnetic-cooling-cabinets-in-rewe-stores/ and its new 125 kW Stellar targets data centres - https://naturalrefrigerants.com/news/magnotherm-announces-stellar-a-125kw-refrigerant-free-magnetic-cooling-system-for-data-centers-hvac-and-industry/, while Carrier bought equity in elastocaloric Exergyn rather than licensing its nitinol - https://www.coolingpost.com/world-news/carrier-invests-in-solid-state-heat-pump/. The fatigue gate is being engineered out (a textured TiNi alloy held −15.9 K after 10 million cycles - https://www.nature.com/articles/s41467-026-68835-0), and the commercial pull is the refrigerant phase-down plus air-conditioning becoming a top driver of global electricity demand - https://www.iea.org/news/air-conditioning-use-emerges-as-one-of-the-key-drivers-of-global-electricity-demand-growth. Verdict: the technology works and wins niches, but the material is the fastest-commoditising layer - value migrates to integration, qualification and the picks-and-shovels suppliers.
+
+📺 Watch: How Magnetic Cooling Is Breaking All the Rules - Undecided with Matt Ferrell - https://www.youtube.com/watch?v=qcscUoP8FNk
+
+🎧 Listen: The case for colocating data centers and generation - Catalyst with Shayle Kann - https://open.spotify.com/episode/38XwcFm6Vl0lpOhufRBFgL
+
+📖 Read: Solid-State Cooling with Caloric Materials - Physics Today primer - https://physicstoday.aip.org/features/solid-state-cooling-with-caloric-materials
+
+📖 Read: Heat-driven elastocaloric cooling with shape-memory films - Nature Energy 2026 - https://www.nature.com/articles/s41560-026-02122-6
+
+📖 Read: Air conditioning is now a key driver of global electricity demand - IEA - https://www.iea.org/news/air-conditioning-use-emerges-as-one-of-the-key-drivers-of-global-electricity-demand-growth
+
+Chapters:
+00:00 AI disclosure
+00:35 Why the Caloric Material Doesn't Capture the Rent
+03:05 Why Cooling Is Becoming an Electricity Story
+04:38 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-029-2026-09-01.txt</itunes:summary>
+      <itunes:subtitle>Solid-state cooling: why the caloric material never captures the rent · 01 Sep</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-029-2026-09-01.mp3" length="3531854" type="audio/mpeg"/>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-029-2026-09-01.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-029-2026-09-01.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-029-2026-09-01.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-08-31</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-028-2026-08-31</link>
