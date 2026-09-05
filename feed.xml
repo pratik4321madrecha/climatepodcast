@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 23:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:46:31 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,56 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 03 Sep 2026 23:37:38 +0000</pubDate>
+    <pubDate>Sat, 05 Sep 2026 23:46:25 +0000</pubDate>
+    <item>
+      <title>Astra edition 2026-09-05</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-031-2026-09-05</link>
+      <guid isPermaLink="false">astra://episode/astra-031-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 23:46:25 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Confidence on this inquiry moved from seventy-one to seventy-four percent today, but the real news is that the single verdict split into two very different bets. The wider field is bending around one force: AI infrastructure.
+
+Chapters:
+00:00 AI disclosure
+00:35 The Thermal Battery Bet That Just Split in Two
+03:39 The Whole Field Is Bending Around the Data Center
+04:52 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-031-2026-09-05.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Confidence on this inquiry moved from seventy-one to seventy-four percent today, but the real news is that the single verdict split into two very different bets. The wider field is bending around one force: AI infrastructure.
+
+Chapters:
+00:00 AI disclosure
+00:35 The Thermal Battery Bet That Just Split in Two
+03:39 The Whole Field Is Bending Around the Data Center
+04:52 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-031-2026-09-05.txt</itunes:summary>
+      <itunes:subtitle>Astra edition 2026-09-05</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-031-2026-09-05.mp3" length="3696998" type="audio/mpeg"/>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-031-2026-09-05.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-031-2026-09-05.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-031-2026-09-05.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-09-03</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-030-2026-09-03</link>
