@@ -1,0 +1,28 @@
+Astra: Climate Tech, Tested in Public
+
+The fast-charge battery leaves the lab - and niobium, not the recipe, owns the money
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## belief-update
+Today's claim: the fast-charging battery, powered by niobium, has quietly left the laboratory. And the interesting part is not the chemistry. It is who ends up owning the money.
+
+Start with the physics. Ordinary lithium-ion batteries use a graphite anode. Push charge into graphite too fast and lithium metal plates on its surface, growing needles that kill the battery and, occasionally, set it on fire. That is why your phone does not safely charge in five minutes.
+
+Niobium-oxide anodes solve this. Their crystal structure has open tunnels that swallow lithium ions with almost no swelling, at a voltage high enough that plating simply cannot happen. The result is a cell that charges from zero to eighty percent in under five to ten minutes and survives ten to twenty thousand cycles, against maybe one to three thousand for graphite. The price you pay is energy density: these cells hold less charge per kilogram. So this is not a replacement for the battery in your car. It is a specialist part for machines that must charge fast, cycle hard, and never catch fire: warehouse robots, opportunity-charged buses, mining trucks, and power buffers for AI data centres.
+
+Two of the three serious players in the world are in Cambridge. Nyobolt, spun out of Clare Grey's lab, just raised sixty million dollars at a one billion dollar valuation, led by its own customer, the robotics firm Symbotic. Echion, in Sawston, has built the world's largest niobium-anode factory. So the strong version of my hypothesis, that this is a Cambridge material-science win, looks half right.
+
+But here is where it breaks. There is not one niobium anode. There are three: Echion's, Nyobolt's, and a third from Toshiba in Japan, all hitting the same ten-minute charge, all appearing at once. And standing behind every single one of them is the same company: CBMM of Brazil, which controls close to ninety percent of the world's niobium. CBMM invested in Echion, and it co-developed Toshiba's rival. Whichever anode recipe wins, niobium wins, and niobium means CBMM. So the durable rent does not sit with the clever Cambridge formulation. It sits one layer down, with the element, and one layer across, with the customer who picks the winner. The recipe, it turns out, is the commodity.
+
+## wide-lens
+Widen the lens. The defining pattern of climate capital in 2026 is a split screen. On paper, the money is booming: climate-tech funding hit twenty-six billion dollars in the first half, up fifty-five percent. But look closer and the deal count actually fell twenty-five percent, and the top ten deals soaked up forty-two percent of all the money. This is not a broad boom. It is a narrow one, and its centre of gravity is the AI data centre. The built-environment category, which now includes data-centre power, was up eight hundred percent. Meanwhile carbon-removal equity fell sixty-one percent, its weakest since 2020, and dedicated climate-VC fundraising is down about forty percent year on year.
+
+You can see the same magnet pulling everywhere. Emerald AI raised a hundred and fifty million dollars to make AI compute bend to the grid. Fusion had its coming-out on public markets: General Fusion via a listing at around a billion dollars, Fervo and X-Energy both debuting past the billion mark, and Proxima raising four hundred and seventy million for its stellarator. Even the deep-drilling geothermal bet, Quaise, pulled in fresh money. The through-line: if your technology feeds the compute build-out, capital is chasing you. If it only cools the planet, it is getting harder.
+
+And one deal worth holding up as a template. Google signed its largest carbon-removal purchase yet, with Terradot, across Brazilian rice farms: a portfolio that pairs fast-acting methane abatement to buy near-term time with slow, durable rock-weathering removal for the long run. Time-diversified carbon. That framing, not the tonnage, is the idea to steal.
+
+## climate-x-ai
+The Cambridge thread this week is materials meeting artificial intelligence. CuspAI, the Cambridge company building an AI foundry for discovering new materials, added the University's own Materials Science department to its network. Down the road in Sawston, Immaterial opened a commercial-scale factory for metal-organic frameworks, those sponge-like crystals used to capture carbon and separate gases, moving them from lab curiosity to volume production. It is the same square mile that houses the niobium-anode makers we opened with. If you want to see where hard-tech materials are being scaled in Britain, it is a few streets south of Cambridge station.
+
+The unifying lesson across all of it, from niobium anodes to frameworks to fusion magnets, is one this show keeps relearning. In deep technology, the clever material is rarely the moat. The moat is the element that is genuinely scarce, and the customer who commits to buy before anyone else does. For a non-technical operator, that is oddly good news: the value-creating act is not inventing the crystal. It is securing the offtake.
