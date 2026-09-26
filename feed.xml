@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 01:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:24:03 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,74 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 24 Sep 2026 01:11:54 +0000</pubDate>
+    <pubDate>Sat, 26 Sep 2026 01:23:51 +0000</pubDate>
+    <item>
+      <title>Composite power lines: double the grid on the same towers · 26 Sep</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-037-2026-09-26</link>
+      <guid isPermaLink="false">astra://episode/astra-037-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 01:23:51 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Reconductoring existing power lines with carbon-fibre composite-core conductors roughly doubles a line's capacity on the same towers, at about half the cost and a third of the time of building new. The GridLab / UC Berkeley study - https://www.utilitydive.com/news/reconductoring-power-lines-transmission-capacity-goldman-gridlab/712643/ finds it could add about four times more capacity by 2035 than new lines, and this week the US Department of Energy put $1.9 billion behind advanced conductors and grid-enhancing tech - https://www.utilitydive.com/news/doe-advanced-transmission-projects-spark-funding/831259/, unlocking roughly 23 gigawatts. But the verdict is a split: the cable is not a durable moat, because the core patents are contested - https://en.wikipedia.org/wiki/ACCC_conductor and Chinese carbon fibre is undercutting everyone, so the rent migrates to grid-visibility software, qualified installers and the tariff-exposed material supply, not the wire. In the UK, National Grid plans about 2,416 km of reconductoring - https://cleantechnica.com/2026/03/09/unlocking-hidden-capacity-in-the-grid-with-advanced-conductors/, roughly a fifth of the system.
+
+📺 Watch: Reconductoring existing structures with advanced conductors, explained - https://www.youtube.com/watch?v=Lc9--OFEyn4
+
+🎧 Listen: Catalyst with Shayle Kann, Understanding the transmission bottleneck - https://open.spotify.com/episode/02kjnsE9DlteCex5A7McgR
+
+📖 Read: CompositesWorld on why composite cores are meeting AI grid demand - https://www.compositesworld.com/articles/composite-conductor-cores-boost-capacity-cut-cost-to-help-power-grids-meet-ai-demand
+
+📖 Read: Latitude Media on why making transmission tech in the US is getting harder - https://www.latitudemedia.com/news/manufacturing-transmission-tech-in-the-us-is-getting-harder/
+
+Chapters:
+00:00 AI disclosure
+00:35 Composite Power Lines Double Grid Capacity, But the Cable Is Not the Moat
+02:52 The US Just Put $1.9 Billion Behind Fixing the Wires
+05:00 Data-Center Gravity Is Now the Master Variable
+06:19 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-037-2026-09-26.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Reconductoring existing power lines with carbon-fibre composite-core conductors roughly doubles a line's capacity on the same towers, at about half the cost and a third of the time of building new. The GridLab / UC Berkeley study - https://www.utilitydive.com/news/reconductoring-power-lines-transmission-capacity-goldman-gridlab/712643/ finds it could add about four times more capacity by 2035 than new lines, and this week the US Department of Energy put $1.9 billion behind advanced conductors and grid-enhancing tech - https://www.utilitydive.com/news/doe-advanced-transmission-projects-spark-funding/831259/, unlocking roughly 23 gigawatts. But the verdict is a split: the cable is not a durable moat, because the core patents are contested - https://en.wikipedia.org/wiki/ACCC_conductor and Chinese carbon fibre is undercutting everyone, so the rent migrates to grid-visibility software, qualified installers and the tariff-exposed material supply, not the wire. In the UK, National Grid plans about 2,416 km of reconductoring - https://cleantechnica.com/2026/03/09/unlocking-hidden-capacity-in-the-grid-with-advanced-conductors/, roughly a fifth of the system.
+
+📺 Watch: Reconductoring existing structures with advanced conductors, explained - https://www.youtube.com/watch?v=Lc9--OFEyn4
+
+🎧 Listen: Catalyst with Shayle Kann, Understanding the transmission bottleneck - https://open.spotify.com/episode/02kjnsE9DlteCex5A7McgR
+
+📖 Read: CompositesWorld on why composite cores are meeting AI grid demand - https://www.compositesworld.com/articles/composite-conductor-cores-boost-capacity-cut-cost-to-help-power-grids-meet-ai-demand
+
+📖 Read: Latitude Media on why making transmission tech in the US is getting harder - https://www.latitudemedia.com/news/manufacturing-transmission-tech-in-the-us-is-getting-harder/
+
+Chapters:
+00:00 AI disclosure
+00:35 Composite Power Lines Double Grid Capacity, But the Cable Is Not the Moat
+02:52 The US Just Put $1.9 Billion Behind Fixing the Wires
+05:00 Data-Center Gravity Is Now the Master Variable
+06:19 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-037-2026-09-26.txt</itunes:summary>
+      <itunes:subtitle>Composite power lines: double the grid on the same towers · 26 Sep</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-037-2026-09-26.mp3" length="4732743" type="audio/mpeg"/>
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-037-2026-09-26.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-037-2026-09-26.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-037-2026-09-26.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>The fast-charge battery leaves the lab - and niobium, not the recipe, owns the money</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-036-2026-09-24</link>
