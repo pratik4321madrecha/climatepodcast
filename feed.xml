@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 01:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:34:34 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,84 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Sat, 26 Sep 2026 01:23:51 +0000</pubDate>
+    <pubDate>Mon, 28 Sep 2026 01:34:22 +0000</pubDate>
+    <item>
+      <title>The grid capacity ladder: where reconductoring value really sits · 28 Sep</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-038-2026-09-28</link>
+      <guid isPermaLink="false">astra://episode/astra-038-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 01:34:22 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Advanced composite-core conductors can roughly double an existing transmission line's capacity on the same towers, at about half the cost of a new line. But this episode tests where the money actually accrues - and it is neither the wire nor the software. Transmission capacity is a ladder: dynamic line rating (~$45-50k/mile, +10-30%) → reconductoring (~$590k/mile, +50-110%) → new line ($1.5-5M/mile). DOE's $5.25B SPARK programme deploys ~21,000 grid-enhancing-tech miles vs ~1,500 reconductor-miles - the cheap rung goes everywhere. No layer is a monopoly: the wire commoditises, and National Grid runs its DLR programme across three vendors. The scarce, positional assets are qualified EPC/install capacity (in the UK: Balfour Beatty, M Group, Morgan Sindall, Murphy on a £1.2bn programme) and the tariff-exposed material supply. Confidence moved 68% → 74%.
+
+Links
+
+📺 Watch: Unlocking hidden grid capacity with advanced conductors (CleanTechnica) - https://cleantechnica.com/2026/03/09/unlocking-hidden-capacity-in-the-grid-with-advanced-conductors/
+
+🎧 Read: DOE SPARK: 31 projects, $1.9B, 23 GW - https://mgrid.org/2026/09/24/doe-picks-31-reconductoring-projects-in-26-states-and-puts-1-9-billion-against-23-gw-of-capacity/
+
+📖 Read: PNAS: accelerating transmission via advanced conductors in existing right-of-way - https://pmc.ncbi.nlm.nih.gov/articles/PMC11459140/
+
+📖 Read: FERC, DLR and grid-enhancing tech in 2026 - https://enline.energy/articles/ferc-dynamic-line-rating-grid-enhancing-technologies-2026
+
+Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own. Research, not investment advice.
+
+Chapters:
+00:00 AI disclosure
+00:35 Reconductoring is real, but no layer of the grid stack is a moat
+03:12 Where a UK investor should actually look in grid capacity
+04:25 The transition now turns on moving power, not making it
+05:38 The Cambridge edge is materials discovery, not hardware
+06:51 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-038-2026-09-28.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Advanced composite-core conductors can roughly double an existing transmission line's capacity on the same towers, at about half the cost of a new line. But this episode tests where the money actually accrues - and it is neither the wire nor the software. Transmission capacity is a ladder: dynamic line rating (~$45-50k/mile, +10-30%) → reconductoring (~$590k/mile, +50-110%) → new line ($1.5-5M/mile). DOE's $5.25B SPARK programme deploys ~21,000 grid-enhancing-tech miles vs ~1,500 reconductor-miles - the cheap rung goes everywhere. No layer is a monopoly: the wire commoditises, and National Grid runs its DLR programme across three vendors. The scarce, positional assets are qualified EPC/install capacity (in the UK: Balfour Beatty, M Group, Morgan Sindall, Murphy on a £1.2bn programme) and the tariff-exposed material supply. Confidence moved 68% → 74%.
+
+Links
+
+📺 Watch: Unlocking hidden grid capacity with advanced conductors (CleanTechnica) - https://cleantechnica.com/2026/03/09/unlocking-hidden-capacity-in-the-grid-with-advanced-conductors/
+
+🎧 Read: DOE SPARK: 31 projects, $1.9B, 23 GW - https://mgrid.org/2026/09/24/doe-picks-31-reconductoring-projects-in-26-states-and-puts-1-9-billion-against-23-gw-of-capacity/
+
+📖 Read: PNAS: accelerating transmission via advanced conductors in existing right-of-way - https://pmc.ncbi.nlm.nih.gov/articles/PMC11459140/
+
+📖 Read: FERC, DLR and grid-enhancing tech in 2026 - https://enline.energy/articles/ferc-dynamic-line-rating-grid-enhancing-technologies-2026
+
+Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own. Research, not investment advice.
+
+Chapters:
+00:00 AI disclosure
+00:35 Reconductoring is real, but no layer of the grid stack is a moat
+03:12 Where a UK investor should actually look in grid capacity
+04:25 The transition now turns on moving power, not making it
+05:38 The Cambridge edge is materials discovery, not hardware
+06:51 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-038-2026-09-28.txt</itunes:summary>
+      <itunes:subtitle>The grid capacity ladder: where reconductoring value really sits · 28 Sep</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-038-2026-09-28.mp3" length="5116437" type="audio/mpeg"/>
+      <itunes:duration>00:07:06</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-038-2026-09-28.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-038-2026-09-28.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-038-2026-09-28.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Composite power lines: double the grid on the same towers · 26 Sep</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-037-2026-09-26</link>
