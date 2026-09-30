@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 11:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:06:59 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,26 +39,31 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Tue, 29 Sep 2026 10:55:51 +0000</pubDate>
+    <pubDate>Wed, 30 Sep 2026 02:06:51 +0000</pubDate>
     <item>
-      <title>Astra edition 2026-09-29</title>
-      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-039-2026-09-29</link>
-      <guid isPermaLink="false">astra://episode/astra-039-2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 10:55:51 +0000</pubDate>
+      <title>Where the money sits in wide-bandgap chips, and the UK deep-tech map</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-039-2026-09-30</link>
+      <guid isPermaLink="false">astra://episode/astra-039-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 02:06:51 +0000</pubDate>
       <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
 
-Start with the map, across three sectors, Cambridge first, then London, then the rest of the UK.
+Edition #133. This episode tests one belief: in wide-bandgap power electronics (the GaN and SiC chips that switch high voltage more efficiently than silicon), the durable value has moved OFF the transistor die onto system architecture, IP, and one hard materials chokepoint - raw gallium, which China controls ()80% of supply) under an export-licensing regime that expires 27 November 2026. Fresh 2026 evidence: SiC 6-inch wafers fell ~67% ($1,500 to $500), Wolfspeed went through Chapter 11, and Navitas revenue fell ~47%, while Western gallium runs ~$3,050/kg vs ~$234 inside China. The UK's seat is integration + IP + epitaxy (Cambridge GaN Devices, the new Semiconductor Catapult), not the die.
 
-In quantum and chips, Cambridge had the loudest fortnight. Confidence on the UK power-electronics seat eased from sixty to fifty-eight percent today. Five threads from the wider field, and one pattern connecting them.
+Then the map: CuspAI's AI Materials Foundry and Flower Labs in AI-for-science; Riverlane's US HQ and Infleqtion tie-up in quantum error correction; Carbon13 spinouts, Isometric and the Clean Growth Fund in climate. And the wide lens: Fervo's Cape Station becomes the world's first utility-scale next-gen geothermal on the grid - selling to the AI boom - while climate-tech VC heads for its worst fundraising year in a decade.
 
-DeepMind released a weather model that forecasts hourly and predicts wind at turbine height, which pushes artificial intelligence weather from research into how renewables actually get planned and traded.
+Read more:
+📖 Fervo Cape Station first power: https://fervoenergy.com/fervo-energy-achieves-first-power-at-cape-station-a-landmark-moment-for-the-future-of-enhanced-geothermal-systems/
+📖 The SiC glut and its impact on GaN (Woodside Capital): https://woodsidecap.com/the-sic-capacity-glut-and-its-impact-on-gan/
+🎧 Climate tech VC fundraising heads for worst year in a decade (PitchBook): https://pitchbook.com/news/articles/climate-tech-vc-fundraising-heads-for-worst-year-in-a-decade
+
+Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture. Views and errors are his to own.
 
 Chapters:
 00:00 AI disclosure
-00:35 The UK Deep-Tech Week: Cambridge Invents, the State and Abroad Scale
-03:59 Where UK Wide-Bandgap Power Actually Captures Value
-06:20 The Wider Field: The Constraint Moves From Invention to Build-Out
-07:46 Closing disclosure
+00:35 The wide-bandgap chip question: where does the money actually sit
+03:35 The Cambridge, London and UK deep-tech map this fortnight
+05:08 The wide lens: the demand engine has changed hands
+07:22 Closing disclosure
 
 ────────────────────────────────────────
 📊 RESOURCES &amp; PARTNERS
@@ -66,21 +71,26 @@ Chapters:
 ⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
 ────────────────────────────────────────
 
-Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-29.txt</description>
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-30.txt</description>
       <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
 
-Start with the map, across three sectors, Cambridge first, then London, then the rest of the UK.
+Edition #133. This episode tests one belief: in wide-bandgap power electronics (the GaN and SiC chips that switch high voltage more efficiently than silicon), the durable value has moved OFF the transistor die onto system architecture, IP, and one hard materials chokepoint - raw gallium, which China controls ()80% of supply) under an export-licensing regime that expires 27 November 2026. Fresh 2026 evidence: SiC 6-inch wafers fell ~67% ($1,500 to $500), Wolfspeed went through Chapter 11, and Navitas revenue fell ~47%, while Western gallium runs ~$3,050/kg vs ~$234 inside China. The UK's seat is integration + IP + epitaxy (Cambridge GaN Devices, the new Semiconductor Catapult), not the die.
 
-In quantum and chips, Cambridge had the loudest fortnight. Confidence on the UK power-electronics seat eased from sixty to fifty-eight percent today. Five threads from the wider field, and one pattern connecting them.
+Then the map: CuspAI's AI Materials Foundry and Flower Labs in AI-for-science; Riverlane's US HQ and Infleqtion tie-up in quantum error correction; Carbon13 spinouts, Isometric and the Clean Growth Fund in climate. And the wide lens: Fervo's Cape Station becomes the world's first utility-scale next-gen geothermal on the grid - selling to the AI boom - while climate-tech VC heads for its worst fundraising year in a decade.
 
-DeepMind released a weather model that forecasts hourly and predicts wind at turbine height, which pushes artificial intelligence weather from research into how renewables actually get planned and traded.
+Read more:
+📖 Fervo Cape Station first power: https://fervoenergy.com/fervo-energy-achieves-first-power-at-cape-station-a-landmark-moment-for-the-future-of-enhanced-geothermal-systems/
+📖 The SiC glut and its impact on GaN (Woodside Capital): https://woodsidecap.com/the-sic-capacity-glut-and-its-impact-on-gan/
+🎧 Climate tech VC fundraising heads for worst year in a decade (PitchBook): https://pitchbook.com/news/articles/climate-tech-vc-fundraising-heads-for-worst-year-in-a-decade
+
+Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture. Views and errors are his to own.
 
 Chapters:
 00:00 AI disclosure
-00:35 The UK Deep-Tech Week: Cambridge Invents, the State and Abroad Scale
-03:59 Where UK Wide-Bandgap Power Actually Captures Value
-06:20 The Wider Field: The Constraint Moves From Invention to Build-Out
-07:46 Closing disclosure
+00:35 The wide-bandgap chip question: where does the money actually sit
+03:35 The Cambridge, London and UK deep-tech map this fortnight
+05:08 The wide lens: the demand engine has changed hands
+07:22 Closing disclosure
 
 ────────────────────────────────────────
 📊 RESOURCES &amp; PARTNERS
@@ -88,16 +98,16 @@ Chapters:
 ⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
 ────────────────────────────────────────
 
-Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-29.txt</itunes:summary>
-      <itunes:subtitle>Astra edition 2026-09-29</itunes:subtitle>
-      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-039-2026-09-29.mp3" length="5782196" type="audio/mpeg"/>
-      <itunes:duration>00:08:01</itunes:duration>
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-30.txt</itunes:summary>
+      <itunes:subtitle>Where the money sits in wide-bandgap chips, and the UK deep-tech map</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-039-2026-09-30.mp3" length="5495102" type="audio/mpeg"/>
+      <itunes:duration>00:07:37</itunes:duration>
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-039-2026-09-29.jpg"/>
-      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-29.txt" type="text/plain"/>
-      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-039-2026-09-29.json" type="application/json+chapters"/>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-039-2026-09-30.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-039-2026-09-30.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-039-2026-09-30.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>The grid capacity ladder: where reconductoring value really sits · 28 Sep</title>
