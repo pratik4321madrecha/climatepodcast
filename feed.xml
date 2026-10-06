@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 02:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:59:44 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,66 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Fri, 02 Oct 2026 02:25:04 +0000</pubDate>
+    <pubDate>Tue, 06 Oct 2026 02:59:36 +0000</pubDate>
+    <item>
+      <title>Where UK photonics actually makes money, and the UK deep-tech week · 06 Oct</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-041-2026-10-06</link>
+      <guid isPermaLink="false">astra://episode/astra-041-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 02:59:36 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This edition asks where UK photonics actually makes money, and the answer split: co-packaged optics works and is shipping (NVIDIA Spectrum-X Photonics reaches general availability in 2H 2026 at ~6.25 vs 17.5 pJ/bit - https://www.insidedeeptech.com/co-packaged-optics-cpo-full-guide/), and it is where climate-agnostic AI capital is pooling (Ayar Labs raised $650M in 2026 - https://convergedigest.com/ayar-labs-150m-cpo-ai-scale-up/; Marvell is buying Celestial AI for $3.25-5.5B - https://www.cnbc.com/2025/12/02/mrvl-earnings-q3-2026-acquires-celestial-ai.html) - yet the durable rent lands at the scale-foundry and packaging layer (TSMC, Tower Semiconductor manufactures Salience Labs' optical switches - https://www.globenewswire.com/news-release/2026/02/25/3244393/0/en/Salience-Labs-and-Tower-Semiconductor-Partner-to-Manufacture-At-Scale-Optical-Circuit-Switches-for-Next-Generation-Data-Centers.html), not the UK inventor. We also map the UK deep-tech week: CuspAI's $450M raise and AI Materials Foundry - https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/, the quantum money, and four-hour storage at a record-low $78/MWh - https://about.bnef.com/insights/clean-energy/battery-storage-costs-hit-record-lows-as-costs-of-other-clean-power-technologies-increased-bloombergnef/ as costs decouple from generation. Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture.
+
+📺 Watch: AI Compute 2026 - The Power Paradox panel (The Economist) - https://www.youtube.com/watch?v=I9vU-tyTkbc
+
+🎧 Listen: A skeptic's take on AI electricity load growth (Catalyst with Shayle Kann) - https://open.spotify.com/episode/5RqQNcRuQ00Yx7Hn8kRKVC
+
+📖 Read: AI, Data Centers and the US Electric Grid (Belfer Center) - https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid
+
+📖 Read: Silicon photonics at a crossroads - CORNERSTONE market research - https://natlawreview.com/press-releases/silicon-photonics-crossroad-cornerstone-market-research-uncovers-scale
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: CuspAI's Foundry, the Quantum Money, and the Wires Between Chips
+03:35 Where UK Photonics Actually Makes Money
+05:46 Checking Every Box Still Isn't A Business
+07:11 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-041-2026-10-06.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This edition asks where UK photonics actually makes money, and the answer split: co-packaged optics works and is shipping (NVIDIA Spectrum-X Photonics reaches general availability in 2H 2026 at ~6.25 vs 17.5 pJ/bit - https://www.insidedeeptech.com/co-packaged-optics-cpo-full-guide/), and it is where climate-agnostic AI capital is pooling (Ayar Labs raised $650M in 2026 - https://convergedigest.com/ayar-labs-150m-cpo-ai-scale-up/; Marvell is buying Celestial AI for $3.25-5.5B - https://www.cnbc.com/2025/12/02/mrvl-earnings-q3-2026-acquires-celestial-ai.html) - yet the durable rent lands at the scale-foundry and packaging layer (TSMC, Tower Semiconductor manufactures Salience Labs' optical switches - https://www.globenewswire.com/news-release/2026/02/25/3244393/0/en/Salience-Labs-and-Tower-Semiconductor-Partner-to-Manufacture-At-Scale-Optical-Circuit-Switches-for-Next-Generation-Data-Centers.html), not the UK inventor. We also map the UK deep-tech week: CuspAI's $450M raise and AI Materials Foundry - https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/, the quantum money, and four-hour storage at a record-low $78/MWh - https://about.bnef.com/insights/clean-energy/battery-storage-costs-hit-record-lows-as-costs-of-other-clean-power-technologies-increased-bloombergnef/ as costs decouple from generation. Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture.
+
+📺 Watch: AI Compute 2026 - The Power Paradox panel (The Economist) - https://www.youtube.com/watch?v=I9vU-tyTkbc
+
+🎧 Listen: A skeptic's take on AI electricity load growth (Catalyst with Shayle Kann) - https://open.spotify.com/episode/5RqQNcRuQ00Yx7Hn8kRKVC
+
+📖 Read: AI, Data Centers and the US Electric Grid (Belfer Center) - https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid
+
+📖 Read: Silicon photonics at a crossroads - CORNERSTONE market research - https://natlawreview.com/press-releases/silicon-photonics-crossroad-cornerstone-market-research-uncovers-scale
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: CuspAI's Foundry, the Quantum Money, and the Wires Between Chips
+03:35 Where UK Photonics Actually Makes Money
+05:46 Checking Every Box Still Isn't A Business
+07:11 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-041-2026-10-06.txt</itunes:summary>
+      <itunes:subtitle>Where UK photonics actually makes money, and the UK deep-tech week · 06 Oct</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-041-2026-10-06.mp3" length="5360945" type="audio/mpeg"/>
+      <itunes:duration>00:07:26</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-041-2026-10-06.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-041-2026-10-06.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-041-2026-10-06.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Where UK storage money actually banks, and Cambridge AI-materials week - 02 Oct</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-040-2026-10-02</link>
