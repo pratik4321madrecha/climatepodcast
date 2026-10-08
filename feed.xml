@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 03:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:40:38 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,72 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Tue, 06 Oct 2026 02:59:36 +0000</pubDate>
+    <pubDate>Thu, 08 Oct 2026 02:40:26 +0000</pubDate>
+    <item>
+      <title>AI-for-materials: who captures the value when the model is not the moat</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-042-2026-10-08</link>
+      <guid isPermaLink="false">astra://episode/astra-042-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 02:40:26 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Who captures the value when an AI designs a new material? Cambridge's CuspAI raised $450M at a $2.6B valuation and then spent it building a 45-partner "AI Materials Foundry" of chemical and chip giants, which is the tell: the generative model is not the moat. We go through the belief update (the model-as-moat claim weakens; value migrates to proprietary data, scale-up and offtake), the UK deep-tech ecosystem map from Cambridge to London (strong in AI-for-science and quantum, thin in climate-hardware financing), and the wider arcs reshaping the energy transition.
+
+This is an AI-generated show: researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
+
+CHAPTERS
+- Belief update: AI-for-materials value capture
+- Ecosystem map: Cambridge to London deep tech
+- The wide lens: three compounding arcs
+
+Chapters:
+00:00 AI disclosure
+00:35 belief-update
+02:43 ecosystem-map
+05:04 wide-lens
+06:58 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-042-2026-10-08.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Who captures the value when an AI designs a new material? Cambridge's CuspAI raised $450M at a $2.6B valuation and then spent it building a 45-partner "AI Materials Foundry" of chemical and chip giants, which is the tell: the generative model is not the moat. We go through the belief update (the model-as-moat claim weakens; value migrates to proprietary data, scale-up and offtake), the UK deep-tech ecosystem map from Cambridge to London (strong in AI-for-science and quantum, thin in climate-hardware financing), and the wider arcs reshaping the energy transition.
+
+This is an AI-generated show: researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
+
+CHAPTERS
+- Belief update: AI-for-materials value capture
+- Ecosystem map: Cambridge to London deep tech
+- The wide lens: three compounding arcs
+
+Chapters:
+00:00 AI disclosure
+00:35 belief-update
+02:43 ecosystem-map
+05:04 wide-lens
+06:58 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-042-2026-10-08.txt</itunes:summary>
+      <itunes:subtitle>AI-for-materials: who captures the value when the model is not the moat</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-042-2026-10-08.mp3" length="5208280" type="audio/mpeg"/>
+      <itunes:duration>00:07:13</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-042-2026-10-08.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-042-2026-10-08.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-042-2026-10-08.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Where UK photonics actually makes money, and the UK deep-tech week · 06 Oct</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-041-2026-10-06</link>

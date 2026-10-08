@@ -1,0 +1,25 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "AI disclosure"
+  },
+  {
+   "startTime": 35.832,
+   "title": "belief-update"
+  },
+  {
+   "startTime": 163.8,
+   "title": "ecosystem-map"
+  },
+  {
+   "startTime": 304.44,
+   "title": "wide-lens"
+  },
+  {
+   "startTime": 418.68,
+   "title": "Closing disclosure"
+  }
+ ]
+}
