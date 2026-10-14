@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 02:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:48:18 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,78 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Sat, 10 Oct 2026 02:18:13 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 01:48:05 +0000</pubDate>
+    <item>
+      <title>AI-materials' missing moat, and UK quantum's biggest cheque</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-044-2026-10-14</link>
+      <guid isPermaLink="false">astra://episode/astra-044-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 01:48:05 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The hardest money in UK deep tech this fortnight went to quantum hardware, not AI. Universal Quantum raised over one hundred million dollars, the largest Series A by a UK-headquartered quantum firm, as the NQCC and NPL switched on a national Quantum Standards Network. Meanwhile the central question in AI-for-materials got a clear answer: the generative model is not the moat, because the companies are giving the model away. Microsoft released MatterGen under a free MIT licence; Meta open-sourced OMat24; and no AI-materials platform discloses recurring model-licence revenue. Value is migrating to proprietary data, wet-lab qualification and the chemical or chip prime that owns the offtake. Our confidence rose from seventy to seventy-six percent. The tell of the week: Liverpool spinout Matter Machine raised four million pounds and immediately hired a commercialisation chief.
+
+Research and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture. Views and errors are his to own.
+
+Go deeper:
+
+📺 WATCH: The 2026 Physics Nobel and IceCube, explained - youtube.com/watch?v=DXdzu6H1k6c - https://www.youtube.com/watch?v=DXdzu6H1k6c
+
+🎧 LISTEN: Catalyst with Shayle Kann, "Explaining the Watt-Bit Spread" - open.spotify.com/episode/60CPMUdMO0gGKJqEqZBewx - https://open.spotify.com/episode/60CPMUdMO0gGKJqEqZBewx
+
+📖 READ: Agentic AI that synthesised four real superconductors (ElementsClaw) - arxiv.org/abs/2604.23758 - https://arxiv.org/abs/2604.23758
+
+📖 READ: Materials Nexus on how it monetises - licensed IP plus royalties - matnex.ai - https://matnex.ai/
+
+📖 READ: CuspAI's 450 million dollar raise and the AI Materials Foundry - siliconangle.com - https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/
+
+Chapters:
+00:00 AI disclosure
+00:35 UK deep tech's fortnight: quantum writes the biggest cheque, and the AI-materials model gets given away
+03:35 The AI-materials model is not the moat, because the companies are giving the model away
+05:58 The field keeps moving value off the clever part and onto the layer that captures it
+07:42 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-044-2026-10-14.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The hardest money in UK deep tech this fortnight went to quantum hardware, not AI. Universal Quantum raised over one hundred million dollars, the largest Series A by a UK-headquartered quantum firm, as the NQCC and NPL switched on a national Quantum Standards Network. Meanwhile the central question in AI-for-materials got a clear answer: the generative model is not the moat, because the companies are giving the model away. Microsoft released MatterGen under a free MIT licence; Meta open-sourced OMat24; and no AI-materials platform discloses recurring model-licence revenue. Value is migrating to proprietary data, wet-lab qualification and the chemical or chip prime that owns the offtake. Our confidence rose from seventy to seventy-six percent. The tell of the week: Liverpool spinout Matter Machine raised four million pounds and immediately hired a commercialisation chief.
+
+Research and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture. Views and errors are his to own.
+
+Go deeper:
+
+📺 WATCH: The 2026 Physics Nobel and IceCube, explained - youtube.com/watch?v=DXdzu6H1k6c - https://www.youtube.com/watch?v=DXdzu6H1k6c
+
+🎧 LISTEN: Catalyst with Shayle Kann, "Explaining the Watt-Bit Spread" - open.spotify.com/episode/60CPMUdMO0gGKJqEqZBewx - https://open.spotify.com/episode/60CPMUdMO0gGKJqEqZBewx
+
+📖 READ: Agentic AI that synthesised four real superconductors (ElementsClaw) - arxiv.org/abs/2604.23758 - https://arxiv.org/abs/2604.23758
+
+📖 READ: Materials Nexus on how it monetises - licensed IP plus royalties - matnex.ai - https://matnex.ai/
+
+📖 READ: CuspAI's 450 million dollar raise and the AI Materials Foundry - siliconangle.com - https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/
+
+Chapters:
+00:00 AI disclosure
+00:35 UK deep tech's fortnight: quantum writes the biggest cheque, and the AI-materials model gets given away
+03:35 The AI-materials model is not the moat, because the companies are giving the model away
+05:58 The field keeps moving value off the clever part and onto the layer that captures it
+07:42 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-044-2026-10-14.txt</itunes:summary>
+      <itunes:subtitle>AI-materials' missing moat, and UK quantum's biggest cheque</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-044-2026-10-14.mp3" length="5734584" type="audio/mpeg"/>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-044-2026-10-14.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-044-2026-10-14.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-044-2026-10-14.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-10-10</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-043-2026-10-10</link>
