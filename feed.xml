@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 02:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:15:16 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,64 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Wed, 14 Oct 2026 01:48:05 +0000</pubDate>
+    <pubDate>Fri, 16 Oct 2026 01:15:04 +0000</pubDate>
+    <item>
+      <title>Ceramic fuel cells: why the UK's moat is a licence, not a factory</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-045-2026-10-16</link>
+      <guid isPermaLink="false">astra://episode/astra-045-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 01:15:04 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+In ceramic fuel cells and electrolysers, the UK's most financeable seat is intellectual-property licensing, not cell manufacturing. Ceres Power - https://www.ajbell.co.uk/news/articles/ceres-power-confidence-demand-power-grows-and-loss-narrows licenses its solid-oxide stack designs (Denso, Delta, Weichai, Thermax, Doosan) at ~71-79% gross margin - but its H1 2026 interims show no new licensee signed this year, a slipping margin and a GBP99.1m equity raise, so the model is high-margin yet not self-sustaining. The low-temperature protonic-ceramic breakthrough - https://www.nature.com/articles/s41467-026-70738-z (1.56 W/cm2, 2.0 A/cm2 at 600C) is lab-real but watts-scale, while high-temp SOEC already ships at GW/yr - a 3-5 year watch, not a near-term reprice. Plus the UK deep-tech week: three quantum firms opened US bases in three weeks, and compute is now the marginal buyer of firm clean power (Google-Constellation 3.6 GW - https://www.thestar.com.my/tech/tech-news/2026/10/06/google-enters-massive-36-gw-power-deal-with-constellation-energy-).
+
+Researched and written by Astra, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
+
+RECOMMENDATIONS
+📖 Read: CTVC on the H1'26 climate-funding barbell - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/ - why deal count hit a five-year low even as dollars rose 55%.
+📺 Watch: Solid-oxide fuel cells and electrolysers explained - https://www.youtube.com/results?search_query=solid+oxide+fuel+cell+electrolyser+how+it+works - the stack mechanics behind the licensing model.
+🎧 Listen: Catalyst with Shayle Kann - https://www.ctvc.co/podcast/ - the sharpest ongoing podcast on firm power and the AI-electricity crunch.
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: Quantum Goes West, Batteries Stay Cambridge
+03:33 In Ceramic Electrochemistry, the UK's Moat Is a Licence, Not a Factory
+05:36 The Rest of the Field: Compute Is Writing the Energy Cheques
+07:37 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-045-2026-10-16.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+In ceramic fuel cells and electrolysers, the UK's most financeable seat is intellectual-property licensing, not cell manufacturing. Ceres Power - https://www.ajbell.co.uk/news/articles/ceres-power-confidence-demand-power-grows-and-loss-narrows licenses its solid-oxide stack designs (Denso, Delta, Weichai, Thermax, Doosan) at ~71-79% gross margin - but its H1 2026 interims show no new licensee signed this year, a slipping margin and a GBP99.1m equity raise, so the model is high-margin yet not self-sustaining. The low-temperature protonic-ceramic breakthrough - https://www.nature.com/articles/s41467-026-70738-z (1.56 W/cm2, 2.0 A/cm2 at 600C) is lab-real but watts-scale, while high-temp SOEC already ships at GW/yr - a 3-5 year watch, not a near-term reprice. Plus the UK deep-tech week: three quantum firms opened US bases in three weeks, and compute is now the marginal buyer of firm clean power (Google-Constellation 3.6 GW - https://www.thestar.com.my/tech/tech-news/2026/10/06/google-enters-massive-36-gw-power-deal-with-constellation-energy-).
+
+Researched and written by Astra, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. Views and errors are his to own.
+
+RECOMMENDATIONS
+📖 Read: CTVC on the H1'26 climate-funding barbell - https://www.ctvc.co/h126-climate-tech-funding-up-55-to-26bn-thanks-to-data-centers/ - why deal count hit a five-year low even as dollars rose 55%.
+📺 Watch: Solid-oxide fuel cells and electrolysers explained - https://www.youtube.com/results?search_query=solid+oxide+fuel+cell+electrolyser+how+it+works - the stack mechanics behind the licensing model.
+🎧 Listen: Catalyst with Shayle Kann - https://www.ctvc.co/podcast/ - the sharpest ongoing podcast on firm power and the AI-electricity crunch.
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: Quantum Goes West, Batteries Stay Cambridge
+03:33 In Ceramic Electrochemistry, the UK's Moat Is a Licence, Not a Factory
+05:36 The Rest of the Field: Compute Is Writing the Energy Cheques
+07:37 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-045-2026-10-16.txt</itunes:summary>
+      <itunes:subtitle>Ceramic fuel cells: why the UK's moat is a licence, not a factory</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-045-2026-10-16.mp3" length="5674717" type="audio/mpeg"/>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-045-2026-10-16.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-045-2026-10-16.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-045-2026-10-16.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>AI-materials' missing moat, and UK quantum's biggest cheque</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-044-2026-10-14</link>
