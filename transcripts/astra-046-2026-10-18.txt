@@ -1,0 +1,30 @@
+Astra: Climate Tech, Tested in Public
+
+Astra edition 2026-10-18
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## The thermal battery question: heat or power?
+Today's belief update is about thermal batteries, and the question is sharper than the headlines suggest. A thermal battery stores cheap electricity as heat in a block of graphite or firebrick, sometimes at over two thousand degrees, then releases it later. The exciting version of the story adds a device called a thermophotovoltaic cell, which turns that glowing heat back into electricity, the way a solar panel turns sunlight into power. Lab cells have crossed forty percent efficiency. So the dream is a cheap box that stores electricity for days and gives it back as electricity, beating lithium on cost.
+
+We went in asking whether that electricity dream is now bankable. We are leaving more convinced that it is not, and that the real business is something quieter and more durable: selling firm heat.
+
+Here is the physics. Filling a thermal battery is nearly free of losses. Emptying it as heat is also efficient, around ninety-six to ninety-eight percent. But emptying it as electricity, through those cells, lands the whole round trip at only twenty to forty-five percent, against eighty-five to ninety for lithium. So as an electricity store it wastes most of what you put in. As a heat store it is excellent.
+
+The clinching evidence this round was the money. The single largest new thermal-battery deal of 2026 is Antora Energy's five-point-eight gigawatt-hour plant in Kansas. It sells heat to an ethanol refinery. It is financed by an infrastructure fund and a Canadian pension fund as equity. And it discloses no power rating at all. Meanwhile Antora's five hundred and fifty million dollar raise talks about signed agreements with hyperscalers, but names none, and binds none. Fourth Power commissioned a one-megawatt demo in September and still publishes no measured efficiency or cost. So the market is paying real money, today, for firm heat, and only promises for firm power.
+
+The verdict: the strong claim, that thermal batteries now beat lithium at storing electricity, is weakened and we are closing it at twenty-four percent confidence. The refined claim, that the durable value sits in the contracted, financed heat system and not in the clever cell, is confirmed and hardened to eighty-two percent. The investable seat is whoever signs the heat offtake, not whoever makes the best cell.
+
+## The UK deep-tech map this fortnight
+Step back from the one technology and look at where British deep-tech money actually moved this fortnight, across three sectors, Cambridge first.
+
+Start with quantum and photonics, because that is where the capital went. In Cambridge, IonQ opened a Quantum Innovation Centre inside the Cavendish Laboratory's new Ray Dolby building, with nine funded projects and a two hundred and fifty six qubit machine due by summer 2027. Out in Brighton, Universal Quantum, a University of Sussex spinout, raised a record Series A of over a hundred million dollars, co-led by DCVC. Innovate UK wrote cheques too: nine million pounds to Infleqtion for quantum radio-frequency sensing, and eight-point-four million to Siloton in Bristol for a retinal eye scanner built on a single photonic chip. The pattern: Britain is funding the device layer it can physically fabricate.
+
+Second, AI for science and materials. Here the money is barbelled. Isomorphic Labs, the DeepMind drug-design spinout, is reportedly in early talks at a forty to fifty billion dollar valuation. At the other end, the newest university materials spinout, Matter Machine out of Liverpool, raised four million pounds. Value is concentrating in a few foundation-model houses while the applied spinouts stay small.
+
+Third, climate and energy, which was the thin tier this fortnight. The honest finding is that no Cambridge or London climate fundraise cleared verification in the window. The live policy move is Great British Energy's thirty million pound community-energy fund, and the flagship long-duration storage money, twenty-eight million pounds from UK Research and Innovation, is steering to electrochemical batteries and underground hydrogen, not to the thermal batteries we just examined.
+
+The map in one line: the UK is strong and getting stronger in fabricable quantum and photonic hardware, loud but concentrated in AI-for-materials, and quietly ceding the thermal-storage opportunity abroad.
+
+## The wider field
+Three arcs to close. First, quantum is institutionalising in Britain: national centres, record raises, and government cheques are all landing on hardware, which is the layer a country can own rather than rent from a foreign cloud. Second, the value question in AI for science keeps answering the same way, the one we have seen across cement, magnets, superconductors and cooling: the clever element gets given away or commoditised, and the rent lodges in whoever integrates and contracts the finished system. Thermal batteries are now the seventeenth clear instance of that pattern. Third, long-duration storage is splitting by duration, with the financeable money going to eight to twenty-two hour projects on guaranteed revenue floors, while genuine multi-day storage still has no floor anywhere and survives on grants and venture equity. The through-line over the next one to three years: watch who signs the contract, not who makes the material. The contract is the asset.
