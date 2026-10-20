@@ -1,0 +1,29 @@
+Astra: Climate Tech, Tested in Public
+
+Astra edition 2026-10-20
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## The UK deep tech fortnight: the money went everywhere except Cambridge and London
+Here is the fact that should reset how you read the UK deep tech map this fortnight. The three venture rounds we could verify all landed outside Cambridge and outside London. Oxford, Sussex, and Liverpool took the money.
+
+Start with chips and photonics, the loudest sector right now. Salience Labs in Oxford raised one hundred and twenty five million dollars to scale photonic optical circuit switching chips for AI data centres. AMD Ventures and Intel Capital joined, and Cambridge Innovation Capital was already a backer. In quantum, Universal Quantum, a University of Sussex spinout, raised more than one hundred million dollars. The company calls it the largest Series A ever for a UK quantum firm, led by DCVC and Firgun Ventures.
+
+In AI for science and materials, the fortnight was quieter. The verified round was Matter Machine in Liverpool, four million pounds to scale a platform that discovers new inorganic crystalline materials. Cambridge's own AI materials leaders, CuspAI and Materials Nexus, had no new raise in the window.
+
+Cambridge's headline was not a cheque at all. It was a building. IonQ and the University of Cambridge opened a quantum innovation centre inside the Cavendish Laboratory's Ray Dolby Centre, housing a two hundred and fifty six qubit system and an on campus quantum network. It is the university's largest ever corporate research partnership.
+
+And climate and energy was the thinnest of all. No verified UK company raise in the window. The real move was policy. The government created a Great British Grid to co invest in transmission and fast track grid connections, paired with queue reform that strips out more than three hundred gigawatts of speculative projects.
+
+So the pattern this fortnight is this. The UK invents deep tech in its university towns, but the capital is spreading well beyond the two famous ones, and in climate the lever right now is the state rewiring the grid, not a startup raising a round.
+
+## The AI build out is now the single force bending energy, chips, and capital at once
+Step back from any one deal and the wide view is that the AI build out has become the organising force across energy, chips, and capital markets at the same time.
+
+On energy, the hyperscaler is now the marginal buyer of firm power, and this fortnight it went nuclear. Amazon and X energy signed to fund twelve small modular reactors at a former Indiana coal plant, almost a gigawatt. That follows Google's three point six gigawatt deal with Constellation. But the uncomfortable near term truth sits right beside it. A new report finds the United States is building more fossil fuel infrastructure than in a decade while renewables growth slows, and Texas kept permitting data centres straight through a governor's so called pause. Demand is pulling the fastest dispatchable supply online first, and that is often the dirtiest.
+
+On capital, the financing behind all this is starting to creak. Nscale and Anthropic are reportedly talking about a second forty five billion dollar compute deal on top of the first, while CoreWeave's bonds slipped into distressed territory. The debt funding the build out is now its own macro risk.
+
+And on the supply chain, the quieter climate win keeps showing up in circularity. A cleaner fix for America's aluminium crunch is, in one report's words, hiding in landfills, in recovered scrap. It is the same pattern we keep seeing. When the primary supply chain is captured, the value moves to recovery and refining, not the raw molecule.
+
+The twelve to thirty six month read is that the clean side wins on the supply chain and on policy certainty, in storage floors and grid reform, long before it wins the marginal data centre megawatt.

@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 01:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:47:22 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,52 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Sun, 18 Oct 2026 00:47:47 +0000</pubDate>
+    <pubDate>Tue, 20 Oct 2026 01:47:08 +0000</pubDate>
+    <item>
+      <title>Astra edition 2026-10-20</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-047-2026-10-20</link>
+      <guid isPermaLink="false">astra://episode/astra-047-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 01:47:08 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Here is the fact that should reset how you read the UK deep tech map this fortnight. Step back from any one deal and the wide view is that the AI build out has become the organising force across energy, chips, and capital markets at the same time.
+
+On energy, the hyperscaler is now the marginal buyer of firm power, and this fortnight it went nuclear.
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK deep tech fortnight: the money went everywhere except Cambridge and London
+02:48 The AI build out is now the single force bending energy, chips, and capital at once
+04:42 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-047-2026-10-20.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Here is the fact that should reset how you read the UK deep tech map this fortnight. Step back from any one deal and the wide view is that the AI build out has become the organising force across energy, chips, and capital markets at the same time.
+
+On energy, the hyperscaler is now the marginal buyer of firm power, and this fortnight it went nuclear.
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK deep tech fortnight: the money went everywhere except Cambridge and London
+02:48 The AI build out is now the single force bending energy, chips, and capital at once
+04:42 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-047-2026-10-20.txt</itunes:summary>
+      <itunes:subtitle>Astra edition 2026-10-20</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-047-2026-10-20.mp3" length="3580387" type="audio/mpeg"/>
+      <itunes:duration>00:04:58</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-047-2026-10-20.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-047-2026-10-20.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-047-2026-10-20.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-10-18</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-046-2026-10-18</link>
