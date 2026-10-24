@@ -1,0 +1,38 @@
+Astra: Climate Tech, Tested in Public
+
+Why AI-for-materials keeps giving the model away
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## The week UK deep tech kept paying for quantum and AI materials
+Start with where the money went, because it tells the story. UK deep tech is having a record year, more than eleven billion dollars of equity in the first eight months of twenty twenty six, and almost all of it is landing in two places: quantum computing, and artificial intelligence for materials.
+
+In Cambridge, the clearest signal this fortnight was NVIDIA. Its chief executive named five UK startups the company is backing, and one of them is Riverlane, the Cambridge firm that builds the error correction layer that sits between a quantum chip and anything useful. Riverlane is also opening a US base in Maryland. The same week, the University of Cambridge confirmed it had joined CuspAI's AI Materials Foundry as a founding member, bringing a robotic lab that can design a material and then try to make it in the same loop.
+
+In London, the materials story is a little older but worth knowing: Orbital Industries, led by a former DeepMind scientist, raised fifty million dollars, and its first product is a cooling fluid for data centres. And Imperial's spinout Polaron turns microscope images into usable three D microstructures.
+
+Across the rest of the UK, two things moved. Matter Machine, a Liverpool spinout, raised four million pounds, and the notable part is who they hired to run commercialisation, not who they hired to run the model. And the government opened money for ultra long duration storage, with decisions due in early November.
+
+Here is the map in one line. The UK is genuinely strong at invention, the error correction, the upstream solar patents, the materials data. It is genuinely short at the industrial scale up layer where the margin actually sits.
+
+Three terms to carry into any room this week. First, Matbench Discovery. It is the public leaderboard that scores how well an AI model predicts whether a never made crystal would actually be stable and worth making. When someone claims a universal materials model, insiders check its rank before they believe the press release. Second, real time decoding. In quantum error correction, a classical computer has to read the stream of error measurements and keep pace with the hardware every single cycle. If it falls behind, the useful work stalls, so decoder speed, not qubit count, is often the real wall. That is exactly what Riverlane sells. Third, ultra long duration storage. It means grid storage that can discharge for a hundred hours or more, four days straight, to cover a long wind drought, and the UK is funding only technologies that can prove both the hundred hours and a twenty five year life.
+
+## AI for materials keeps giving the model away, and the money lands somewhere else
+The verdict moved up again. We went in asking whether AI for materials platforms capture their value at the model layer, and we now believe, at seventy nine percent confidence, up from seventy six, that they do not. The technology is real. A generative model for materials can compress a multi year screen into months. CuspAI and the Finnish chemicals firm Kemira searched roughly three hundred trillion candidate structures down to about twenty in six months. The product works. The question is who gets paid.
+
+This session answered the one that was still open: who owns what inside the AI Materials Foundry. The first contract level terms were disclosed by a founding member, the Korean firm LG CNS. Two sentences matter. Patents for newly developed materials stay with the client. And customer data is isolated and is not used to train the platform's models. So the platform captures none of the three obvious prizes. Not the model, because Microsoft and Meta have open sourced theirs. Not the material patent, because that goes to the client. And not a data flywheel off the client's experiments, because that data is walled off.
+
+Now the money. Billions have been raised, and not one of these platforms discloses recurring, high margin revenue from licensing a model. CuspAI is valued at two point six billion dollars. Periodic Labs was reportedly in talks around seven and a half billion on almost no revenue. The one company with real materials revenue, SES AI, around thirty to thirty five million dollars this year, earns it from physical batteries, not from a model.
+
+The under priced implication, for an investor: stop underwriting these on who has the best model. Underwrite the proprietary data, the locked in scale up and qualification partner, the offtake from a chemical or chip giant, or the commercial operator who assembles all three. The tell to watch for is a company hiring a commercialisation chief, the way the Liverpool startup Matter Machine just did. Commercial products here are a twenty twenty seven to twenty thirty story. The Series B valuations assume something faster.
+
+## The same lesson, three times: the contract and the integration, not the device
+Step back and the whole field is repeating one lesson. Climate tech learned it first, and now quantum and AI materials are learning it in fast forward.
+
+Climate capital is bifurcating, not collapsing. In the third quarter, climate tech raised about nineteen and a half billion dollars, down nearly eight percent on the quarter, but equity money actually rose while the number of deals fell to its lowest since twenty twenty one. More money, fewer shots. The UK's own record total hides the same thing: six companies took most of the big cheques.
+
+In storage, the thing picking winners is not the chemistry, it is the contract. The UK's cap and floor scheme shortlisted sixteen long duration projects, over seven and a half gigawatts, most of it in northern Scotland, and what makes them financeable is a guaranteed revenue floor.
+
+And in AI materials, as we just heard, the model is being given away while the value routes to data, scale up and offtake.
+
+Here is the long view. Across all three of Cambridge's sectors, the enabling layer, the qubit, the generative model, the battery cell, attracts the capital and the headlines. The durable rent lodges with whoever owns the data, the scale up path and the contract. For the UK over the next one to three years, the realistic seat is the design in, commercial and qualification layer around assets it helps build, plus the few deep science positions, like quantum error correction, that it can actually hold onto.
