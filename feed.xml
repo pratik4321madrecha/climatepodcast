@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 01:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:31:05 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,82 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Sat, 24 Oct 2026 01:37:35 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2026 02:30:47 +0000</pubDate>
+    <item>
+      <title>AI data-center optics: where the margin lands - 28 Oct</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-050-2026-10-28</link>
+      <guid isPermaLink="false">astra://episode/astra-050-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 02:30:47 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode follows the money through AI data-center optics and finds the margin lands on integration, not assembly. Lumentum just posted a 50.4% gross margin - https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx on lasers and Coherent 39.6% - https://www.coherent.com/news/press-releases/third-quarter-fiscal-year-2026-results on integrated optics, while Fabrinet, the pure contract-assembly house, earned just 12.2% - https://www.sec.gov/Archives/edgar/data/0001408710/000140871026000026/fn-2026811xex991q426.htm at a record $1.3B of revenue. Marvell closing its Celestial AI acquisition - https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm is the switch-chip incumbent buying into the optical layer, though Dell'Oro calls co-packaged optics "early commercialization, not broad adoption." - https://www.communicationstoday.co.in/optical-innovation-takes-centre-stage-at-ocp-2026-delloro/ Around it, a UK deep-tech fortnight where invention is funded but scale stays sub-$100M: Quantinuum's 99.9995% logical fidelity - https://www.quantinuum.com/press-releases/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029, the UKAEA/General Fusion 12-million-degree milestone at Culham - https://www.ukaea.org/news/ukaea-general-fusion-announce-magnetised-target-fusion-milestone/, and Reclinker's GBP10m for kiln-free cement - https://thenextweb.com/news/reclinker-10m-series-a-low-carbon-cement-cardiff.
+
+Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture.
+
+📺 Watch: Dive Into NVIDIA Co-Packaged Optics-Based Switches (NVIDIA) - https://www.youtube.com/watch?v=kS8r7UcexJU
+
+🎧 Listen: Silicon Photonics and the Future of AI Scaling, with Prof. John Bowers (632nm) - https://open.spotify.com/episode/4sUZ8rSBTpDLh6QEAxgpc0
+
+📖 Read: Salience Labs x Tower Semiconductor, optical circuit switches at scale (Cambridge Innovation Capital) - https://www.cic.vc/salience-labs-and-tower-semiconductor-partner-to-manufacture-at-scale-optical-circuit-switches-for-next-generation-data-centers/
+
+📖 Read: Why UK quantum start-ups choose to scale abroad - https://www.okoone.com/spark/leadership-management/why-uk-quantum-start-ups-are-choosing-to-scale-abroad/
+
+📖 Read: Photonics in data centers, the new AI infrastructure layer (XAnge market map) - https://www.xange.vc/knowledge-hub/photonics-data-centers-market-map
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: Invention Funded, Scale Still Sub-100-Million
+03:11 AI Data-Center Optics: The Margin Lands on Integration, Not Assembly
+05:41 The Pattern: Britain Invents, Someone Else Scales
+06:47 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-050-2026-10-28.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode follows the money through AI data-center optics and finds the margin lands on integration, not assembly. Lumentum just posted a 50.4% gross margin - https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx on lasers and Coherent 39.6% - https://www.coherent.com/news/press-releases/third-quarter-fiscal-year-2026-results on integrated optics, while Fabrinet, the pure contract-assembly house, earned just 12.2% - https://www.sec.gov/Archives/edgar/data/0001408710/000140871026000026/fn-2026811xex991q426.htm at a record $1.3B of revenue. Marvell closing its Celestial AI acquisition - https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm is the switch-chip incumbent buying into the optical layer, though Dell'Oro calls co-packaged optics "early commercialization, not broad adoption." - https://www.communicationstoday.co.in/optical-innovation-takes-centre-stage-at-ocp-2026-delloro/ Around it, a UK deep-tech fortnight where invention is funded but scale stays sub-$100M: Quantinuum's 99.9995% logical fidelity - https://www.quantinuum.com/press-releases/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029, the UKAEA/General Fusion 12-million-degree milestone at Culham - https://www.ukaea.org/news/ukaea-general-fusion-announce-magnetised-target-fusion-milestone/, and Reclinker's GBP10m for kiln-free cement - https://thenextweb.com/news/reclinker-10m-series-a-low-carbon-cement-cardiff.
+
+Researched and written by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech and deep-tech venture.
+
+📺 Watch: Dive Into NVIDIA Co-Packaged Optics-Based Switches (NVIDIA) - https://www.youtube.com/watch?v=kS8r7UcexJU
+
+🎧 Listen: Silicon Photonics and the Future of AI Scaling, with Prof. John Bowers (632nm) - https://open.spotify.com/episode/4sUZ8rSBTpDLh6QEAxgpc0
+
+📖 Read: Salience Labs x Tower Semiconductor, optical circuit switches at scale (Cambridge Innovation Capital) - https://www.cic.vc/salience-labs-and-tower-semiconductor-partner-to-manufacture-at-scale-optical-circuit-switches-for-next-generation-data-centers/
+
+📖 Read: Why UK quantum start-ups choose to scale abroad - https://www.okoone.com/spark/leadership-management/why-uk-quantum-start-ups-are-choosing-to-scale-abroad/
+
+📖 Read: Photonics in data centers, the new AI infrastructure layer (XAnge market map) - https://www.xange.vc/knowledge-hub/photonics-data-centers-market-map
+
+Chapters:
+00:00 AI disclosure
+00:35 The UK Deep-Tech Week: Invention Funded, Scale Still Sub-100-Million
+03:11 AI Data-Center Optics: The Margin Lands on Integration, Not Assembly
+05:41 The Pattern: Britain Invents, Someone Else Scales
+06:47 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-050-2026-10-28.txt</itunes:summary>
+      <itunes:subtitle>AI data-center optics: where the margin lands - 28 Oct</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-050-2026-10-28.mp3" length="5076606" type="audio/mpeg"/>
+      <itunes:duration>00:07:02</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-050-2026-10-28.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-050-2026-10-28.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-050-2026-10-28.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Why AI-for-materials keeps giving the model away</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-049-2026-10-24</link>
