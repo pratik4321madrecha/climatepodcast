@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 03:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:09:01 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,66 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Fri, 30 Oct 2026 02:44:59 +0000</pubDate>
+    <pubDate>Sun, 01 Nov 2026 02:08:43 +0000</pubDate>
+    <item>
+      <title>Co-packaged optics ships, and the laser becomes the chokepoint · 01 Nov</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-052-2026-11-01</link>
+      <guid isPermaLink="false">astra://episode/astra-052-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 02:08:43 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Co-packaged optics crossed into production this autumn: Nvidia's Spectrum-X Ethernet Photonics switch is shipping - https://www.communicationstoday.co.in/optical-innovation-takes-centre-stage-at-ocp-2026-as-cpo-nears-deployment/, but Dell'Oro's read is blunt, early commercialisation is not broad adoption, and the tell is that Nvidia is also co-proposing a next-generation pluggable with Cisco. The real question has shifted from power to serviceability, and the fix, an external laser source - https://www.businesswire.com/news/home/20230808055417/en/ that can be hot-swapped, is why laser reliability now decides which optics vendor wins - https://www.lumentum.com/sites/default/files/2026-06/elsfpreliability-wp-cl-ae.pdf and why lasers and integration earn a fifty percent gross margin while pure assembly earns twelve. We moved the thesis to seventy percent confidence. Around it, the UK fortnight: ARIA's £50m Universal Fabricators programme funded three Cambridge teams - https://www.energy.cam.ac.uk/news/cambridge-researchers-awarded-aria-funding, UKRI put ~£78m into quantum - https://www.ukri.org/news/ukri-backs-quantum-breakthroughs-supported-by-training/, and the Budget cut carbon capture and hydrogen by £700m - https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements. Globally, AI power demand is the gravity: a $5bn DOE nuclear loan - https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/ and enrichment reshoring - https://heatmap.news/energy/general-matter-nrc-approval both trace back to it.
+
+📺 Watch: Why AI data centres are installing power plants beside their servers - https://www.youtube.com/watch?v=tXk88VyubnA
+
+🎧 Listen: Catalyst with Shayle Kann, a skeptic's take on AI electricity load growth - https://open.spotify.com/episode/5RqQNcRuQ00Yx7Hn8kRKVC
+
+📖 Read: Durable reactive CO2 capture exceeding 1,000 hours (Nature Energy) - https://www.nature.com/articles/s41560-026-02159-7
+
+📖 Read: MIT Technology Review, 2026 Climate Tech Companies to Watch - https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/
+
+Chapters:
+00:00 AI disclosure
+00:36 The UK Deep-Tech Week: Public Money Into Compute, Out of Carbon Capture
+04:16 Co-Packaged Optics Ships, But Serviceability Now Decides Who Wins
+04:51 AI Power Demand Is Now the Gravity of the Whole Transition
+07:43 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-052-2026-11-01.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Co-packaged optics crossed into production this autumn: Nvidia's Spectrum-X Ethernet Photonics switch is shipping - https://www.communicationstoday.co.in/optical-innovation-takes-centre-stage-at-ocp-2026-as-cpo-nears-deployment/, but Dell'Oro's read is blunt, early commercialisation is not broad adoption, and the tell is that Nvidia is also co-proposing a next-generation pluggable with Cisco. The real question has shifted from power to serviceability, and the fix, an external laser source - https://www.businesswire.com/news/home/20230808055417/en/ that can be hot-swapped, is why laser reliability now decides which optics vendor wins - https://www.lumentum.com/sites/default/files/2026-06/elsfpreliability-wp-cl-ae.pdf and why lasers and integration earn a fifty percent gross margin while pure assembly earns twelve. We moved the thesis to seventy percent confidence. Around it, the UK fortnight: ARIA's £50m Universal Fabricators programme funded three Cambridge teams - https://www.energy.cam.ac.uk/news/cambridge-researchers-awarded-aria-funding, UKRI put ~£78m into quantum - https://www.ukri.org/news/ukri-backs-quantum-breakthroughs-supported-by-training/, and the Budget cut carbon capture and hydrogen by £700m - https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements. Globally, AI power demand is the gravity: a $5bn DOE nuclear loan - https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/ and enrichment reshoring - https://heatmap.news/energy/general-matter-nrc-approval both trace back to it.
+
+📺 Watch: Why AI data centres are installing power plants beside their servers - https://www.youtube.com/watch?v=tXk88VyubnA
+
+🎧 Listen: Catalyst with Shayle Kann, a skeptic's take on AI electricity load growth - https://open.spotify.com/episode/5RqQNcRuQ00Yx7Hn8kRKVC
+
+📖 Read: Durable reactive CO2 capture exceeding 1,000 hours (Nature Energy) - https://www.nature.com/articles/s41560-026-02159-7
+
+📖 Read: MIT Technology Review, 2026 Climate Tech Companies to Watch - https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/
+
+Chapters:
+00:00 AI disclosure
+00:36 The UK Deep-Tech Week: Public Money Into Compute, Out of Carbon Capture
+04:16 Co-Packaged Optics Ships, But Serviceability Now Decides Who Wins
+04:51 AI Power Demand Is Now the Gravity of the Whole Transition
+07:43 Closing disclosure
+
+
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-052-2026-11-01.txt</itunes:summary>
+      <itunes:subtitle>Co-packaged optics ships, and the laser becomes the chokepoint · 01 Nov</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-052-2026-11-01.mp3" length="5759674" type="audio/mpeg"/>
+      <itunes:duration>00:07:59</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-052-2026-11-01.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-052-2026-11-01.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-052-2026-11-01.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-10-30</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-051-2026-10-30</link>
