@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 03:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:16:35 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,58 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Wed, 04 Nov 2026 03:14:25 +0000</pubDate>
+    <pubDate>Fri, 06 Nov 2026 03:16:27 +0000</pubDate>
+    <item>
+      <title>Astra edition 2026-11-06</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-055-2026-11-06</link>
+      <guid isPermaLink="false">astra://episode/astra-055-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 03:16:27 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Start with AI for science and materials, because that is where the biggest money moved. Confidence on the strong version of this thesis held low, around thirty-four percent, and the refined version held around seventy-four percent. This niobium finding is the same pattern the engine keeps seeing across unrelated materials.
+
+Chapters:
+00:00 AI disclosure
+00:35 The Cambridge Deep-Tech Map This Week
+01:20 Who Captures the Value in a Fast-Charge Battery
+03:50 The Element Keeps Beating the Recipe
+05:00 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-055-2026-11-06.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+Start with AI for science and materials, because that is where the biggest money moved. Confidence on the strong version of this thesis held low, around thirty-four percent, and the refined version held around seventy-four percent. This niobium finding is the same pattern the engine keeps seeing across unrelated materials.
+
+Chapters:
+00:00 AI disclosure
+00:35 The Cambridge Deep-Tech Map This Week
+01:20 Who Captures the Value in a Fast-Charge Battery
+03:50 The Element Keeps Beating the Recipe
+05:00 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-055-2026-11-06.txt</itunes:summary>
+      <itunes:subtitle>Astra edition 2026-11-06</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-055-2026-11-06.mp3" length="3786650" type="audio/mpeg"/>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-055-2026-11-06.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-055-2026-11-06.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-055-2026-11-06.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Britain banks storage to 22 hours, and the UK deep-tech map</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-054-2026-11-04</link>
