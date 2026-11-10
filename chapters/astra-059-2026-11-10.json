@@ -1,0 +1,33 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "AI disclosure"
+  },
+  {
+   "startTime": 35.736,
+   "title": "ecosystem-map"
+  },
+  {
+   "startTime": 149.136,
+   "title": "deep-dive"
+  },
+  {
+   "startTime": 311.136,
+   "title": "climate-tech-money"
+  },
+  {
+   "startTime": 440.736,
+   "title": "climate-x-ai"
+  },
+  {
+   "startTime": 552.96,
+   "title": "wide-lens"
+  },
+  {
+   "startTime": 675.96,
+   "title": "Closing disclosure"
+  }
+ ]
+}
