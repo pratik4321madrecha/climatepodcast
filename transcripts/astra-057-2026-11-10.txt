@@ -1,0 +1,40 @@
+Astra: Climate Tech, Tested in Public
+
+UK quantum, photonics, AI-materials and energy: the ecosystem this week · 10 Nov
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## The UK deep tech map this week
+This week's evidence is thin, and I want to say that plainly. The web search tools returned few dated items for the last few days. What follows is only what was fetched and read this run.
+
+Start in Cambridge, with quantum. On the sixth of November, five universities launched the UK Quantum SuperConnector. They are Cambridge, Imperial, Bristol, Glasgow and Oxford. It is funded by UK Research and Innovation through its quantum programme, though no pound figure was published. It offers entrepreneurship training, investor networks and a national skills centre, so that researchers can turn lab results into companies. Ramana Nanda of Imperial Business School directs it. Aga Iwasiewicz-Wabnig, who runs the Maxwell Centre in Cambridge, is co-director.
+
+A month earlier, on the fifteenth of October, IonQ and the University of Cambridge opened a quantum innovation centre inside the Ray Dolby Centre, the new home of the Cavendish Laboratory. IonQ plans to deploy a machine with two hundred and fifty six qubits there. Nine research projects are underway. Innovate UK is providing three years of access to the National Quantum Computing Centre.
+
+Notice who owns that machine. It is an American company's computer, in a Cambridge building. The Cambridge-born company in this field is Nu Quantum. It closed a sixty million dollar Series A in December 2025, led by National Grid Partners, which is a corporate venture arm, with Gresham House Ventures and Morpheus Ventures taking part. A Spanish state fund put in nine point seven five million euros in January. Nu Quantum builds networking hardware that links quantum processors together, so that several small machines behave like one larger one.
+
+Now London and the rest of the UK. In photonics, Salience Labs, a spinout from Oxford, closed a one hundred and twenty five million dollar Series B in October, with AMD and Intel taking part. It builds optical switches for AI data centres. In climate and energy, Exergy3, from the University of Edinburgh, raised about eleven point four million euros in April to turn surplus renewable power into industrial heat at very high temperature. In AI for materials, CuspAI in Cambridge closed a four hundred and fifty million dollar Series B in July and launched an industry group called the AI Materials Foundry. Nvidia, Meta, Samsung and Applied Materials are named among the founding partners.
+
+How the three connect. Quantum and AI chips both depend on photonics. AI for materials depends on computing power. Climate technology depends on both. The UK is strong at the early, university-born layer. The pattern in these rounds is that the biggest cheques come from corporates and state funds, and the headline hardware often belongs to foreign firms. That is the open question for the next few weeks.
+
+One term worth knowing. Chiplets are small slices of a processor that are made separately and then joined in one package. Cambridge Wireless is running an event on them on the seventeenth of November.
+
+## Who owns UK quantum's commercial layer
+We opened a new inquiry this run: is the binding constraint on UK quantum commercialisation access to deployable hardware and customer pull, rather than lab science or capital? We start at fifty five percent, an open verdict, at the first survey depth.
+
+The evidence so far leans toward yes, but it is one afternoon of reading. The state is building convening and access infrastructure. The SuperConnector teaches founders and connects investors. The National Quantum Computing Centre gives time on machines. Cambridge hosts a two hundred and fifty six qubit IonQ system, which is an American company's hardware.
+
+The private money tells a similar story. Nu Quantum's sixty million dollar round was led by a corporate venture arm, with a Spanish state fund taking part. That is a strong round, the largest quantum Series A in the UK according to the reporting, but it is not a pure financial-investor signal.
+
+What would overturn this? Evidence that UK-owned quantum hardware companies are winning paying customers without state access programmes. We did not find that this run, and we did not search for it deeply. That search is the next round. Confidence sits at fifty five percent, and it should be read as a starting point, not a finding.
+
+## The wider arcs
+Three arcs, each source linked in the written edition.
+
+AI for science. The UK government published its AI for Science Strategy on the twentieth of November 2025, with materials science as one of five named priorities. Google DeepMind has said it will open an automated materials lab in Britain. We could not confirm an opening date. The University of Liverpool is building a hundred million pound facility for AI-driven materials chemistry. The direction is clear. The commercial proof is still sparse.
+
+Photonics and chips. Salience Labs' hundred and twenty five million dollar round shows that the optical switch layer inside AI data centres is attracting serious capital in the UK. That connects to last week's closed inquiry on co-packaged optics.
+
+Climate and energy. Exergy3's seed round shows continued investor appetite for industrial heat storage in Scotland. The UK's first half of 2026 was described by an Amadeus partner as the strongest for venture since 2022, with seventeen billion dollars flowing into UK-backed companies. That is a podcast claim, not an audited figure.
+
+The long view over the next one to three years: the UK's edge is its universities and its convening power. Whether that turns into UK-owned companies at scale is the thing to watch.
