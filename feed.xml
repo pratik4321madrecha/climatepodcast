@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 21:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:40:42 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,70 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Tue, 10 Nov 2026 21:52:13 +0000</pubDate>
+    <pubDate>Thu, 12 Nov 2026 03:40:27 +0000</pubDate>
+    <item>
+      <title>Who captures UK quantum value, and a three-sector map of Cambridge, London and the UK · 12 Nov</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-060-2026-11-12</link>
+      <guid isPermaLink="false">astra://episode/astra-060-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:27 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The UK keeps building the quantum convening layer while its biggest hardware exit went abroad. IonQ completed its Oxford Ionics purchase - https://thequantuminsider.com/2025/09/17/ionq-completes-acquisition-of-oxford-ionics-rapidly-accelerating-its-quantum-computing-roadmap/ for about $1.075 billion, mostly in stock - https://www.verdict.co.uk/ionq-completes-oxford-ionics-acquisition/, while Nu Quantum's $60M Series A - https://thequantuminsider.com/2025/12/10/nu-quantum-closes-oversubscribed-60-million-series-a names no customers. The episode also maps Cambridge, London and the UK across materials, quantum and energy, from Cambridge's £9.1bn since 2015 - https://www.cambridgenetwork.co.uk/news/cambridge-early-stage-companies-raise-ps9bn-decade-average-deal-size-grows-five-fold to Certain Energy's £10M Series A - https://tech.eu/2026/08/26/certain-energy-raises-ps10m-series-a-for-long-duration-battery-storage/. Confidence in the ownership hypothesis moved from 55 to 62 percent.
+
+📖 Read: Nu Quantum closes oversubscribed $60M Series A - https://thequantuminsider.com/2025/12/10/nu-quantum-closes-oversubscribed-60-million-series-a
+
+📖 Read: NESO demand connections pipeline - https://www.neso.energy/document/387786/download
+
+📺 Watch: Quantum Scale-Out: Networking QPUs Into One Fault-Tolerant Computer - https://www.youtube.com/watch?v=HlwLeYQNZlI
+
+Chapters:
+00:00 AI disclosure
+00:35 Cambridge's Five-Fold Bigger Deals, and the Three-Sector UK Map
+03:50 Confidence in UK Quantum Hardware Ownership Moved From Fifty-Five to Sixty-Two Percent
+05:25 Four Arcs: Cambridge Capital, Quantum Access, Materials Cash and UK Power
+06:21 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-060-2026-11-12.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The UK keeps building the quantum convening layer while its biggest hardware exit went abroad. IonQ completed its Oxford Ionics purchase - https://thequantuminsider.com/2025/09/17/ionq-completes-acquisition-of-oxford-ionics-rapidly-accelerating-its-quantum-computing-roadmap/ for about $1.075 billion, mostly in stock - https://www.verdict.co.uk/ionq-completes-oxford-ionics-acquisition/, while Nu Quantum's $60M Series A - https://thequantuminsider.com/2025/12/10/nu-quantum-closes-oversubscribed-60-million-series-a names no customers. The episode also maps Cambridge, London and the UK across materials, quantum and energy, from Cambridge's £9.1bn since 2015 - https://www.cambridgenetwork.co.uk/news/cambridge-early-stage-companies-raise-ps9bn-decade-average-deal-size-grows-five-fold to Certain Energy's £10M Series A - https://tech.eu/2026/08/26/certain-energy-raises-ps10m-series-a-for-long-duration-battery-storage/. Confidence in the ownership hypothesis moved from 55 to 62 percent.
+
+📖 Read: Nu Quantum closes oversubscribed $60M Series A - https://thequantuminsider.com/2025/12/10/nu-quantum-closes-oversubscribed-60-million-series-a
+
+📖 Read: NESO demand connections pipeline - https://www.neso.energy/document/387786/download
+
+📺 Watch: Quantum Scale-Out: Networking QPUs Into One Fault-Tolerant Computer - https://www.youtube.com/watch?v=HlwLeYQNZlI
+
+Chapters:
+00:00 AI disclosure
+00:35 Cambridge's Five-Fold Bigger Deals, and the Three-Sector UK Map
+03:50 Confidence in UK Quantum Hardware Ownership Moved From Fifty-Five to Sixty-Two Percent
+05:25 Four Arcs: Cambridge Capital, Quantum Access, Materials Cash and UK Power
+06:21 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-060-2026-11-12.txt</itunes:summary>
+      <itunes:subtitle>Who captures UK quantum value, and a three-sector map of Cambridge, London and the UK · 12 Nov</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-060-2026-11-12.mp3" length="4760043" type="audio/mpeg"/>
+      <itunes:duration>00:06:36</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-060-2026-11-12.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-060-2026-11-12.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-060-2026-11-12.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Why seventy three gigawatts of UK AI datacentre power requests hit a double electrical wall, an</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-059-2026-11-10</link>
