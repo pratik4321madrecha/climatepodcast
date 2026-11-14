@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 03:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:02:46 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,68 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Thu, 12 Nov 2026 03:40:27 +0000</pubDate>
+    <pubDate>Sat, 14 Nov 2026 03:02:28 +0000</pubDate>
+    <item>
+      <title>UK deep tech: Cambridge physics AI, photonics money, and a price on grid slots · 14 Nov</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-061-2026-11-14</link>
+      <guid isPermaLink="false">astra://episode/astra-061-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 03:02:28 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode covers what moved across UK deep tech. Cambridge Innovation Capital led an 8.4 million euro seed extension in BeyondMath - https://letsdatascience.com/news/beyondmath-raises-157m-seed-to-scale-0a6c5d9c, Callosum raised a 100 million dollar seed - https://thenextweb.com/news/callosum-100m-round-uk-sovereign-ai, and Salience Labs raised 125 million dollars - https://www.optica-opn.org/home/industry/2026/october/salience_labs_raises_us$125_million_to_go_all-optical/ for all-optical switching. The state is buying quantum software through the NQCC and Phasecraft licence - https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/. The deep dive tests Ofgem's proposed commitment fee on data-centre grid connections - https://cms.law/en/gbr/legal-updates/proposed-data-centre-connection-reforms-ofgem-consults-on-new-measures-to-reform-the-connections-queue, which moved confidence in the inquiry from 76 to 78 percent.
+
+📺 Watch: Founder Stories with Ashley Montanaro, Phasecraft - https://www.youtube.com/watch?v=2SV78vcB0_8
+
+📖 Read: Proposed data centre connection reforms (CMS) - https://cms.law/en/gbr/legal-updates/proposed-data-centre-connection-reforms-ofgem-consults-on-new-measures-to-reform-the-connections-queue
+
+📖 Read: NQCC and Phasecraft SparQ access - https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/
+
+Chapters:
+00:00 AI disclosure
+00:35 Cambridge Backs Physics AI, Photonics Takes the Biggest Cheque
+03:11 Ofgem Wants to Put a Price on a UK Data-Centre Grid Slot
+05:00 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-061-2026-11-14.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode covers what moved across UK deep tech. Cambridge Innovation Capital led an 8.4 million euro seed extension in BeyondMath - https://letsdatascience.com/news/beyondmath-raises-157m-seed-to-scale-0a6c5d9c, Callosum raised a 100 million dollar seed - https://thenextweb.com/news/callosum-100m-round-uk-sovereign-ai, and Salience Labs raised 125 million dollars - https://www.optica-opn.org/home/industry/2026/october/salience_labs_raises_us$125_million_to_go_all-optical/ for all-optical switching. The state is buying quantum software through the NQCC and Phasecraft licence - https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/. The deep dive tests Ofgem's proposed commitment fee on data-centre grid connections - https://cms.law/en/gbr/legal-updates/proposed-data-centre-connection-reforms-ofgem-consults-on-new-measures-to-reform-the-connections-queue, which moved confidence in the inquiry from 76 to 78 percent.
+
+📺 Watch: Founder Stories with Ashley Montanaro, Phasecraft - https://www.youtube.com/watch?v=2SV78vcB0_8
+
+📖 Read: Proposed data centre connection reforms (CMS) - https://cms.law/en/gbr/legal-updates/proposed-data-centre-connection-reforms-ofgem-consults-on-new-measures-to-reform-the-connections-queue
+
+📖 Read: NQCC and Phasecraft SparQ access - https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/
+
+Chapters:
+00:00 AI disclosure
+00:35 Cambridge Backs Physics AI, Photonics Takes the Biggest Cheque
+03:11 Ofgem Wants to Put a Price on a UK Data-Centre Grid Slot
+05:00 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-061-2026-11-14.txt</itunes:summary>
+      <itunes:subtitle>UK deep tech: Cambridge physics AI, photonics money, and a price on grid slots · 14 Nov</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-061-2026-11-14.mp3" length="3790161" type="audio/mpeg"/>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-061-2026-11-14.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-061-2026-11-14.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-061-2026-11-14.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Who captures UK quantum value, and a three-sector map of Cambridge, London and the UK · 12 Nov</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-060-2026-11-12</link>
