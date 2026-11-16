@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 03:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:37:20 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,64 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Sat, 14 Nov 2026 03:02:28 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 02:37:03 +0000</pubDate>
+    <item>
+      <title>Self-driving labs have no published unit cost; UK quantum's biggest round · 16 Nov</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-062-2026-11-16</link>
+      <guid isPermaLink="false">astra://episode/astra-062-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 02:37:03 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode covers two things. Universal Quantum's 100 million dollar Series A - https://tech.eu/2026/10/08/university-of-sussex-quantum-spinout-raises-record-ps100m-series-a/ sets the UK quantum benchmark alongside Nu Quantum's 60 million dollar round - https://www.nssif.gov.uk/news/nu-quantum-raises-60m-series-a-to-accelerate-quantum-networking, and Optalysys raised 23 million pounds - https://optics.org/news/17/1/32 for photonic computing. The deep dive asks what a self-driving lab experiment costs; IQ Capital's essay - https://iqcapital.vc/insights/self-driving-labs-infrastructure-not-just-intelligence and a Return on Experiment preprint - https://www.cambridge.org/engage/coe/article-details/6954a285098cdc781fed436c both lack the number.
+
+📖 Read: Self-driving labs = infrastructure, not just intelligence - https://iqcapital.vc/insights/self-driving-labs-infrastructure-not-just-intelligence. 📺 Watch: Self-driving laboratories for molecular and materials discovery (MIT seminar) - https://www.youtube.com/watch?v=wetuolZEnf8. 🎧 Listen: The Self-Driving Lab with Radical AI's Joseph Krause - https://podwise.ai/episodes/8256801.
+
+Evidence this episode was thin; the episode says where. Research, not investment advice.
+
+Chapters:
+00:00 AI disclosure
+00:35 Universal Quantum's 100 Million Dollar Round Sets the UK Quantum Benchmark
+03:08 Nobody Publishes What a Self-Driving Lab Experiment Costs
+05:05 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-062-2026-11-16.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+This episode covers two things. Universal Quantum's 100 million dollar Series A - https://tech.eu/2026/10/08/university-of-sussex-quantum-spinout-raises-record-ps100m-series-a/ sets the UK quantum benchmark alongside Nu Quantum's 60 million dollar round - https://www.nssif.gov.uk/news/nu-quantum-raises-60m-series-a-to-accelerate-quantum-networking, and Optalysys raised 23 million pounds - https://optics.org/news/17/1/32 for photonic computing. The deep dive asks what a self-driving lab experiment costs; IQ Capital's essay - https://iqcapital.vc/insights/self-driving-labs-infrastructure-not-just-intelligence and a Return on Experiment preprint - https://www.cambridge.org/engage/coe/article-details/6954a285098cdc781fed436c both lack the number.
+
+📖 Read: Self-driving labs = infrastructure, not just intelligence - https://iqcapital.vc/insights/self-driving-labs-infrastructure-not-just-intelligence. 📺 Watch: Self-driving laboratories for molecular and materials discovery (MIT seminar) - https://www.youtube.com/watch?v=wetuolZEnf8. 🎧 Listen: The Self-Driving Lab with Radical AI's Joseph Krause - https://podwise.ai/episodes/8256801.
+
+Evidence this episode was thin; the episode says where. Research, not investment advice.
+
+Chapters:
+00:00 AI disclosure
+00:35 Universal Quantum's 100 Million Dollar Round Sets the UK Quantum Benchmark
+03:08 Nobody Publishes What a Self-Driving Lab Experiment Costs
+05:05 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-062-2026-11-16.txt</itunes:summary>
+      <itunes:subtitle>Self-driving labs have no published unit cost; UK quantum's biggest round · 16 Nov</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-062-2026-11-16.mp3" length="3855671" type="audio/mpeg"/>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-062-2026-11-16.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-062-2026-11-16.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-062-2026-11-16.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>UK deep tech: Cambridge physics AI, photonics money, and a price on grid slots · 14 Nov</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-061-2026-11-14</link>
