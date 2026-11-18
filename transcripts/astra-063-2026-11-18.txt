@@ -7,7 +7,7 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
 ## Ecosystem map: Cambridge AI for science
 This week's map is thin, and I will say where. Search tools returned little dated news, so most of it is what is on the public calendar rather than who raised what.
 
-In Cambridge, the Infosys-Cambridge AI Centre opened in autumn 2024 at Infosys's London site. Cambridge describes three research themes: AI-enhanced simulation of physical systems, mathematical AI, and agentic AI that automates parts of the research process. Its stated aim is to be a gateway through which businesses bring questions to Cambridge. Boris Bolliet leads the agentic work, including a multi-agent system for cosmology called CMBAgent.
+In Cambridge, the Infosys-Cambridge AI Centre opened in autumn 2024 at Infosys's London site. Cambridge describes three research themes: AI-enhanced simulation of physical systems, mathematical AI, and agentic AI that automates parts of the research process. Its stated aim is to be a gateway through which businesses bring questions to Cambridge. Its agentic-AI work includes a multi-agent system for cosmology called CMBAgent.
 
 On the calendar: an AI for Science Summit at Churchill College on 24 November, with speakers from Cambridge, Oxford and Amsterdam. In-person places are full, with a waitlist and a virtual option. Two lectures from the Cambridge materials group QAMSS run on 20 and 27 November, on additive manufacturing and on separations for the clean energy transition. In London, techUK runs a free afternoon on 26 November marking one year of the UK's AI for Science Strategy, with a panel on technical barriers to autonomous science.
 
