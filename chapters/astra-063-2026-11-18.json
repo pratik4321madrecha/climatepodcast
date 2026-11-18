@@ -1,0 +1,21 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "AI disclosure"
+  },
+  {
+   "startTime": 35.304,
+   "title": "Ecosystem map: Cambridge AI for science"
+  },
+  {
+   "startTime": 137.424,
+   "title": "Deep dive: can AI shorten the lifetime test?"
+  },
+  {
+   "startTime": 253.56,
+   "title": "Closing disclosure"
+  }
+ ]
+}
