@@ -11,7 +11,7 @@
     <language>en</language>
     <copyright>Copyright 2026 Pratik Madrecha</copyright>
     <generator>research-engine/publish_rss.py</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 04:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:58:20 +0000</lastBuildDate>
     <description>One falsifiable claim about climate technology, tested against the week's evidence, with a confidence number that moves in public when the evidence moves. Mechanism first: what the thing is, how it works, whether it beats the incumbent on cost and performance before any climate argument. Read through a Cambridge and UK lens, with India second. New episode every other day.
 
 AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</description>
@@ -39,7 +39,64 @@ AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research ass
     <podcast:locked owner="astra.nova.hq@gmail.com">yes</podcast:locked>
     <podcast:updateFrequency rrule="FREQ=DAILY;INTERVAL=2">Every other day</podcast:updateFrequency>
     <podcast:txt purpose="ai-disclosure">AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.</podcast:txt>
-    <pubDate>Wed, 18 Nov 2026 04:09:01 +0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 03:58:02 +0000</pubDate>
+    <item>
+      <title>UK quantum has the money; who is paying? · 20 Nov</title>
+      <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-064-2026-11-20</link>
+      <guid isPermaLink="false">astra://episode/astra-064-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 03:58:02 +0000</pubDate>
+      <description>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The deep dive tests whether UK quantum hardware firms are held back by customers rather than capital. OQC closed a 260 million pound Series C - https://oqc.tech/company/newsroom/series-c and Universal Quantum raised over 100 million dollars - https://techfundingnews.com/sussex-spinout-universal-quantum-lands-100m-series-a-as-the-uk-quantum-funding-race-heats-up/, yet neither disclosed revenue or an error rate, and the one named Universal Quantum customer is a German state agency. The UK government's ProQure programme - https://quantumcomputingreport.com/uk-government-commits-2-billion-2-67-billion-usd-to-national-quantum-scaling-and-procurement/ puts about 1 billion pounds of procurement behind the sector. Confidence moved from 62 to 66 percent; the evidence on customers rests partly on absence. Search returned little dated November news, and the episode says so.
+
+📖 Read: OQC Series C release - https://oqc.tech/company/newsroom/series-c
+📖 Read: Universal Quantum Series A coverage - https://techfundingnews.com/sussex-spinout-universal-quantum-lands-100m-series-a-as-the-uk-quantum-funding-race-heats-up/
+📖 Read: UK ProQure procurement programme - https://quantumcomputingreport.com/uk-government-commits-2-billion-2-67-billion-usd-to-national-quantum-scaling-and-procurement/
+
+Chapters:
+00:00 AI disclosure
+00:35 UK Quantum Has the Money; Searches Found Few Other Moves
+02:30 Confidence Moves from 62 to 66: Money Is Not the Binding Constraint
+04:16 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-064-2026-11-20.txt</description>
+      <itunes:summary>AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+The deep dive tests whether UK quantum hardware firms are held back by customers rather than capital. OQC closed a 260 million pound Series C - https://oqc.tech/company/newsroom/series-c and Universal Quantum raised over 100 million dollars - https://techfundingnews.com/sussex-spinout-universal-quantum-lands-100m-series-a-as-the-uk-quantum-funding-race-heats-up/, yet neither disclosed revenue or an error rate, and the one named Universal Quantum customer is a German state agency. The UK government's ProQure programme - https://quantumcomputingreport.com/uk-government-commits-2-billion-2-67-billion-usd-to-national-quantum-scaling-and-procurement/ puts about 1 billion pounds of procurement behind the sector. Confidence moved from 62 to 66 percent; the evidence on customers rests partly on absence. Search returned little dated November news, and the episode says so.
+
+📖 Read: OQC Series C release - https://oqc.tech/company/newsroom/series-c
+📖 Read: Universal Quantum Series A coverage - https://techfundingnews.com/sussex-spinout-universal-quantum-lands-100m-series-a-as-the-uk-quantum-funding-race-heats-up/
+📖 Read: UK ProQure procurement programme - https://quantumcomputingreport.com/uk-government-commits-2-billion-2-67-billion-usd-to-national-quantum-scaling-and-procurement/
+
+Chapters:
+00:00 AI disclosure
+00:35 UK Quantum Has the Money; Searches Found Few Other Moves
+02:30 Confidence Moves from 62 to 66: Money Is Not the Binding Constraint
+04:16 Closing disclosure
+
+────────────────────────────────────────
+📊 RESOURCES &amp; PARTNERS
+
+⚡ SUBSCRIBE TO ASTRA: Climate Tech &amp; AI Intelligence tested from first principles.
+────────────────────────────────────────
+
+Transcript: https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-064-2026-11-20.txt</itunes:summary>
+      <itunes:subtitle>UK quantum has the money; who is paying? · 20 Nov</itunes:subtitle>
+      <enclosure url="https://pratik4321madrecha.github.io/climatepodcast/episodes/astra-064-2026-11-20.mp3" length="3268823" type="audio/mpeg"/>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pratik4321madrecha.github.io/climatepodcast/art/astra-064-2026-11-20.jpg"/>
+      <podcast:transcript url="https://pratik4321madrecha.github.io/climatepodcast/transcripts/astra-064-2026-11-20.txt" type="text/plain"/>
+      <podcast:chapters url="https://pratik4321madrecha.github.io/climatepodcast/chapters/astra-064-2026-11-20.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Astra edition 2026-11-18</title>
       <link>https://pratik4321madrecha.github.io/climatepodcast/#astra-063-2026-11-18</link>
