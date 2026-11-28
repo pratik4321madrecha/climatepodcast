@@ -1,0 +1,27 @@
+Astra: Climate Tech, Tested in Public
+
+UK deep tech this week: state-backed money, plus who absorbs AI datacentre power swings · 28 No
+
+AI-GENERATED SHOW. Researched, written and narrated by ASTRA, an AI research assistant, on behalf of Pratik Madrecha, who is building toward a career in UK climate-tech venture. The voice is synthetic text-to-speech; it is not a clone or imitation of any real person's voice. Views and errors are his to own. Research, not investment advice.
+
+## UK deep tech this week: state programmes and fund-of-funds money, few new rounds
+The clearest pattern in the UK deep tech ecosystem is who is writing the cheques. Much of the new money comes from the state, or from funds that the state backs.
+
+Start with quantum, chips and photonics. On the sixth of November the National Quantum Computing Centre signed an enterprise licence with Phasecraft, a quantum algorithms company. Phasecraft's tools model materials and molecules using density functional theory, which is a standard way to approximate how electrons arrange themselves in a material. UK companies and researchers can apply to use them through a scheme called SparQ Access. The call for proposals was due to open in late November, and the first group starts in spring 2027. That is a government centre buying software on behalf of everyone else, which fits a longer pattern. A Quantum Zeitgeist round-up from the eleventh of November lists up to two billion pounds of UK government support announced in March, and Cambridge names such as Nu Quantum, Riverlane and Wave Photonics.
+
+In AI for science and materials, the Cambridge anchor is still CuspAI. Its AI Materials Foundry launched on the twentieth of July with more than forty-five founding partners, alongside a reported four hundred and fifty million dollar raise. That is older news, and this run did not find a fresh Cambridge raise in this sector.
+
+In climate and energy, the money news is about funds. Clean Growth Fund Two reported a second close of eighty-one point five million pounds on the eighth of September, toward a hundred and fifty million target. The British Business Bank committed up to forty-six million pounds to Zinc's Science for Impact Fund in early September. The Bank also announced seventy-five million euros for Plural, the frontier technology investor, in mid-November. Those last two come from search listings, because the bank's own pages blocked this run's fetcher.
+
+Three terms to carry into a room. Density functional theory, the electron approximation behind most materials simulation. Logical qubit, one reliable qubit built by combining many noisy physical ones with error correction. And C-rate, how fast a battery can be charged or discharged relative to its size. A one C battery empties in an hour. A ten C battery empties in six minutes.
+
+What this run could not verify: no London event, no new November climate raise, and no fresh Cambridge round in any of the three sectors.
+
+## Datacentre power buffers: batteries and capacitors both claim the job, and nobody has published the test
+Confidence in the inquiry on UK datacentre power held at seventy-eight percent today. No new evidence moved it. The question this session was narrower: what absorbs the power swings inside an AI hall?
+
+The swing is large. IEEE Spectrum reported in April that an AI datacentre's power use can change by seventy percent or more in milliseconds. A simple calculation shows why the C-rate matters. Take a one megawatt rack and a seven hundred kilowatt swing. A battery that can only discharge at half its capacity per hour would need fourteen hundred kilowatt-hours to deliver that power. One that can discharge at ten times its capacity per hour needs seventy. The energy actually needed for a ten second ride-through is under two kilowatt-hours. So the product is sized by how fast it can deliver, not by how much it stores. That is the whole commercial argument for fast-charging chemistries and for supercapacitors.
+
+The evidence is vendor-heavy. Nyobolt, the Cambridge battery company, says on its own site that its systems keep over eighty percent capacity after twenty thousand rapid charge cycles. It publishes no C-rate, no response time, and no datacentre deployment. Supercapacitor makers claim microsecond response. A Data Center Knowledge piece from the twenty-eighth of September shows experts split: one chief technology officer expects batteries to win, a Flex executive expects a mix, and IDTechEx forecasts a nine hundred and fifty million dollar datacentre supercapacitor market by 2037.
+
+The verdict stays confirmed in part. The power bottleneck is real. Whether a Cambridge battery company holds a durable seat in the buffer layer is open, until someone publishes independent numbers.
